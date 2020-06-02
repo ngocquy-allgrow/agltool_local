@@ -1,0 +1,559 @@
+Chào buổi chiều. Bây giờ hệ thống dịch đã ổn định.
++ Hệ thống đang sử dụng google dịch
++ Thêm một tin nhắn, AGL translation bot sẽ tự động dịch tin nhắn đấy
++ Cập nhập tin nhắn, AGL translation bot sẽ tự động cập nhập tin nhắn dịch tương ứng
++ Xóa 1 tin nhắn, tất cả những tin nhắn dịch liên quan sẽ bị xóa
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia 
+ 
+ :flag-vn:
++ Có thể sử dụng tất cả các biểu tượng cảm xúc.
+Chào buổi chiều. Bây giờ hệ thống dịch đã ổn định.
++ Hệ thống đang sử dụng google dịch
++ Thêm một tin nhắn, AGL translation bot sẽ tự động dịch tin nhắn đấy
++ Cập nhập tin nhắn, AGL translation bot sẽ tự động cập nhập tin nhắn dịch tương ứng
++ Xóa 1 tin nhắn, tất cả những tin nhắn dịch liên quan sẽ bị xóa
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia 
+ 
+ :flag-vn:
++ Có thể sử dụng tất cả các biểu tượng cảm xúc.
+Chào buổi chiều. Bây giờ hệ thống dịch đã ổn định.
++ Hệ thống đang sử dụng google dịch
++ Thêm một tin nhắn, AGL translation bot sẽ tự động dịch tin nhắn đấy
++ Cập nhập tin nhắn, AGL translation bot sẽ tự động cập nhập tin nhắn dịch tương ứng
++ Xóa 1 tin nhắn, tất cả những tin nhắn dịch liên quan sẽ bị xóa
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia 
+ 
+ :flag-vn:
++ Có thể sử dụng tất cả các biểu tượng cảm xúc.
+đây là cờ việt nam :flag-vn:
+đây là cờ việt nam :flag-vn:
+đây là cờ việt nam 
+đây là cờ việt nam 
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia 
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia 
+Nếu như bỏ : và bỏ : ở đầu và cuối nó vẫn không có dịch đâu
+Nếu như bỏ : và bỏ : ở đầu và cuối nó vẫn không có dịch đâu
+xin chào
+xin chào
+chào tạm biệt
+chào tạm biệt
+xin chào mọi người
+xin chào mọi người
+xin chào ngày mới
+xin chào ngày mới
+xin chào các bạn
+xin chào các bạn
+chào buổi sáng
+chào buổi sáng
+Đây là chương trình dịch tự động
+Đây là chương trình dịch tự động
+xin chào các bạn
+xin chào các bạn
+hôm nay tôi rất là vui luôn
+hôm nay tôi rất là vui luôn
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+(
+(
+(
+(
+**$ i love  you @* います
+**$ i love  you @* います
+hiện tại là cái server này nó hoạt động rất chi là bình thường luôn
+hiện tại là cái server này nó hoạt động rất chi là bình thường luôn
+xin chào tất cả các bạn nha
+xin chào tất cả các bạn nha
+hôm nay chán quá đi nè
+hôm nay chán quá đi nè
+hôm nay chán quá đi nè
+hôm nay chán quá đi nè
+xin chào mọi người
+xin chào mọi người
+xin chào mọi người
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào thứ 2
+chào thứ 2
+chào thứ 3
+chào thứ 3
+chòa tất cả mọi người nha
+chòa tất cả mọi người nha
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+có những câu chuyện buồn
+có những câu chuyện buồn
+không gì có thể buồn hơn được nữa
+không gì có thể buồn hơn được nữa
+thứ 2 là những câu chuyện thật sự buồn nha
+thứ 2 là những câu chuyện thật sự buồn nha
+thứ 2
+thứ 2
+thứ 3
+thứ 3
+おはよう
+おはよう
+hôm nay là thứ 2
+hôm nay là thứ 2
+おはよう
+おはよう
+hôm nay là thứ 2
+hôm nay là thứ 2
+おはよう
+おはよう
+おはよう
+xin lỗi mọi người
+xin lỗi mọi người
+xin chào mọi người
+xin chào mọi người
+おはよう
+おはよう
+hôm nay là thứ 2
+hôm nay là thứ 2
+xin chào các bạn
+xin chào các bạn
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+hôm nay tôi vui
+hôm nay tôi vui
+chúng ta là gì của nhau
+chúng ta là gì của nhau
+おはよう
+おはよう
+đường xa quá lắm lúc thấy mình lẻ loi
+đường xa quá lắm lúc thấy mình lẻ loi
+thứ 2
+thứ 3
+thứ 2
+thứ 3
+thứ 4
+thứ 4
+thứ 5
+thứ 5
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+thứ 2
+hôm nay là ngày cuối tuần
+hôm nay là ngày cuối tuần
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+おはよう
+おはよう
+nó vẫn chưa chạy được hả trời
+nó vẫn chưa chạy được hả trời
+xin chào tất cả mọi người nha
+xin chào tất cả mọi người nha
+xin chào
+xin chào
+xin chào các bác
+xin chào các bác
+hôm nay buồn quá
+hôm nay buồn quá
+hôm nay là thứ 6
+hôm nay là thứ 6
+xin chào, hôm nay là thứ 6
+xin chào, hôm nay là thứ 6
+bây giờ là 10 giờ 50 phút
+bây giờ là 10 giờ 50 phút
+xin chào mọi người
+xin chào mọi người
+こんにちは
+こんにちは
+có con heo con
+có con heo con
+xin chào bạn
+xin chào bạn
+chỉ là ngừng yêu mà sao đau lòng đến thế
+chỉ là ngừng yêu mà sao đau lòng đến thế
+chào buổi tối
+chào buổi tối
+mình không hiểu lâu lâu nó bị khùng
+mình không hiểu lâu lâu nó bị khùng
+Hôm nay là thứ mấy?
+Hôm nay là thứ mấy?
+hôm nay là thứ 6
+hôm nay là thứ 6
+xin chào các bạn
+xin chào các bạn
+buồn quá đi thôi
+buồn quá đi thôi
+mày vẫn chạy chứ
+mày vẫn chạy chứ
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào các bạn
+xin chào các bạn
+xin chào các bạn
+こんにちは
+こんにちは
+xin chào các bạn
+xin chào các bạn
+xin chào các bạn
+chào tất cả các bạn
+chào tất cả các bạn
+xin chào các bạn
+xin chào các bạn
+xin chào mọi người, mình là yandex text
+xin chào mọi người, mình là yandex text
+rồi, bây giờ không cần sửa code, mà nó tự chạy trong này nè
+rồi, bây giờ không cần sửa code, mà nó tự chạy trong này nè
+xin chào
+xin chào
+chào các bạn
+chào các bạn
+xin chào mọi người
+xin chào mọi người
+chào tất cả mọi người
+chào tất cả mọi người
+xin chào mọi người
+xin chào mọi người
+xin chào mọi người
+xin chào mọi người
+chào tất cả mọi người nè
+chào tất cả mọi người nè
+mọi người ơi
+mọi người ơi
+1
+1
+xin chào
+xin chào
+xin chào
+xin chào
+nếu nó lỗi cho nó nghỉ 5p hihi
+nếu nó lỗi cho nó nghỉ 5p hihi
+giờ sao ta
+giờ sao ta
+ok, nó đã chuyển qua lại google1 hihi
+ok, nó đã chuyển qua lại google1 hihi
+xin chào tất cả các bạn
+xin chào tất cả các bạn
+Hiện tại là mình đang test nè
+Hiện tại là mình đang test nè
+Các bạn có thấy không
+Các bạn có thấy không
+ủa sao lại 6 lần ta
+ủa sao lại 6 lần ta
+ủa sao lại 6 lần ta
+ủa sao lại 6 lần ta
+xin chào
+xin chào
+hiên tại là nó chạy server 1. hay thật
+hiên tại là nó chạy server 1. hay thật
+rồi, hơn 5p rồi. mày còn lỗi không
+rồi, hơn 5p rồi. mày còn lỗi không
+Bây giờ hệ thống dịch đã ổn định.
++ Hệ thống đang sử dụng google dịch
++ Thêm một tin nhắn, AGL translation bot sẽ tự động dịch tin nhắn đấy
++ Cập nhập tin nhắn, AGL translation bot sẽ tự động cập nhập tin nhắn dịch tương ứng
++ Xóa 1 tin nhắn, tất cả những tin nhắn dịch liên quan sẽ bị xóa
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia (
+ )
++ Có thể sử dụng tất cả các biểu tượng cảm xúc. (edited)
+Bây giờ hệ thống dịch đã ổn định.
++ Hệ thống đang sử dụng google dịch
++ Thêm một tin nhắn, AGL translation bot sẽ tự động dịch tin nhắn đấy
++ Cập nhập tin nhắn, AGL translation bot sẽ tự động cập nhập tin nhắn dịch tương ứng
++ Xóa 1 tin nhắn, tất cả những tin nhắn dịch liên quan sẽ bị xóa
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia (
+ )
++ Có thể sử dụng tất cả các biểu tượng cảm xúc. (edited)
+mày bị lỗi gì ko biết
+mày bị lỗi gì ko biết
+còn lỗi không mày
+còn lỗi không mày
+dùng được nè hihi
+dùng được nè hihi
+vậy mình thêm cho nó thêm 1 server nữa cho chắc
+vậy mình thêm cho nó thêm 1 server nữa cho chắc
+tốc độ dịch này nó hơi chậm ha
+tốc độ dịch này nó hơi chậm ha
+tốc độ này mới nè, xem có ok hơn không
+tốc độ này mới nè, xem có ok hơn không
+xin chào mọi người
+xin chào mọi người
+xin chào
+xin chào
+xin chòa mọi người
+xin chòa mọi người
+xin chào các bạn
+xin chào các bạn
+chào buổi sáng
+chào buổi sáng
+chào buổi tôi
+chào buổi tôi
+chào tất cả mọi người nha
+chào tất cả mọi người nha
+sao lại nhảy qua yandex rồi trời 
+sao lại nhảy qua yandex rồi trời 
+xin chào các bạn
+xin chào các bạn
+xin chào mọi người nha
+xin chào mọi người nha
+chắc là nó dịch tốt rồi ấy
+chắc là nó dịch tốt rồi ấy
+Ủa sao mày không dịch
+Ủa sao mày không dịch
+Ủa sao mày không dịch
+Ủa sao mày không dịch
+xin chào các bạn
+xin chào các bạn
+xin chào các bạn
+xin chào các bạn
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+chào buổi trưa
+chào buổi trưa
+chào buổi tối
+chào buổi tối
+chòa buổi sáng
+chòa buổi sáng
+chào buổi chiều
+chào buổi tối
+chào buổi chiều
+chào buổi tối
+chào buổi tối
+xin chào
+xin chào
+xin chào
+xin chào
+chào các bạn
+chào các bạn
+xin chào các bạn
+xin chào các bạn
+nếu thằng root có vấn đề gì thì nó nhảy qua thằng agl-tool
+nếu thằng root có vấn đề gì thì nó nhảy qua thằng agl-tool
+xin chào mọi người
+xin chào mọi người
++ Hệ thống đang sử dụng google dịch
++ Thêm một tin nhắn, AGL translation bot sẽ tự động dịch tin nhắn đấy
++ Cập nhập tin nhắn, AGL translation bot sẽ tự động cập nhập tin nhắn dịch tương ứng
++ Xóa 1 tin nhắn, tất cả những tin nhắn dịch liên quan sẽ bị xóa
++ Khi gắn cờ , hệ thống sẽ tự động dịch tin nhắn theo cờ của 3 quốc gia 
+
++ Có thể sử dụng tất cả các biểu tượng cảm xúc.
+xin chào các bạn
+xin chào các bạn
+chào các bạn nha
+xin chào các bạn
+xin chào các bạn
+chào các bạn, hôm nay mình rất là vui
+chào các bạn, hôm nay mình rất là vui
+xin chào các bạn
+xin chào các bạn
+chào các bạn nha
+chào các bạn nha
+Thứ 2
+Thứ 3
+Thứ 2
+Thứ 3
+thứ 2
+thứ 2
+thứ 3
+thứ 4
+thứ 3
+thứ 4
+thứ 5
+thứ 5
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+con chó
+nếu chỉ một mình thì mình nên làm thế này đúng không
+nếu chỉ một mình thì mình nên làm thế này đúng không
+xin chào
+xin chào
+chào các sếp
+chào các sếp
+chào các bạn
+chào các bạn
+chào các bác
+chào các bác
+mày còn bị lỗi không
+mày còn bị lỗi không
+xin chào
+xin chào
+xin chào tất cả
+xin chào tất cả
+chào các bạn của tôi
+chào các bạn của tôi
+kiểm tra thử
+kiểm tra thử
+rồi nha
+rồi nha
+xin chào
+xin chào
+11
+11
+11
+aa
+bb
+cc
+cc
+dd
+dd
+dd
+cc
+cc
+anh
+anh
+xin chào
+xin chào
+chào bạn
+chào bạn
+cc
+cc
+cc
+cc
+dd
+dd
+cc
+cc
+dd
+dd
+dd
+dd
+vv
+vv
+dd
+dd
+chúc mừng năm mới các bác
+chúc mừng năm mới các bác
+xin chào các bác
+xin chào cả nhà
+xin chào cả nhà
+vậy là nó chia đều server ra cho mình rồi ấy
+vậy là nó chia đều server ra cho mình rồi ấy
+chúc mừng năm mới nha
+chúc mừng năm mới nha
+con số 2
+con số 2
+con số 1
+con số 2
+con số 1
+con số 3
+con số 3
+con số 4
+con số 4
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+con heo
+sao 2 thằng kia nó dịch lắm thê
+sao 2 thằng kia nó dịch lắm thê
+hệ thống hiện tại đang đóng cửa
+hệ thống đã mở cửa bình thường rồi
+hệ thống đã mở cửa bình thường rồi
+hệ thống đã bị khóa
+hệ thống đã bị khóa
+sao không chạy mày
+sao không chạy mày
+sao không chạy mày
+cuối cùng thì nó cũng chạy
+cuối cùng thì nó cũng chạy
+cuối cùng thì nó cũng chạy
+giờ sao nó không nhận diện
+xin chào
+xin chào
+xin chào
+xin chào
+chào các bạn
+chào các bạn
+chào các bạn
+hôm nay chán quá
+hôm nay chán quá
+hôm nay chán quá
+xin chào
+xin chào
+hôm nay chán quá
+hôm nay chán quá
+hôm nay chán quá
+hôm nay chán quá
+hôm nay tôi buồn nè
+hôm nay tôi buồn nè
+con heo con
+con heo con
+chắc là mày chạy ổn rồi ha
+chắc là mày chạy ổn rồi ha
+ổn chưa
+ổn chưa
+xin chào mọi người
+xin chào mọi người
+ủa bị sao vậy
+ủa bị sao vậy
+xin chào mọi người
+xin chào mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người
+xin chào tất cả mọi người nha
+xin chào tất cả mọi người nha
+xin chào tất cả mọi người nha
+hiện tại mày vẫn chạy tốt chứ
+còn dịch không mày
+chắc là ổn ha
+xin chào các bạn
+xin chào các bạn
+xin chào các bạn
+chúng ta là gì của nhau
+chúng ta là gì của nhau

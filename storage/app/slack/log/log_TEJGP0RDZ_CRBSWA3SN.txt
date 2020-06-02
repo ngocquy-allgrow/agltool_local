@@ -1,0 +1,40 @@
+
+こんばんは。
+報告ありがとう。
+今後の教育担当者については、決まり次第連絡します。
+今日もおつかれさま。
+
+こんばんは。
+報告ありがとう。
+今後の教育担当者については、決まり次第連絡します。
+今日もおつかれさま。
+さようなら、また明日
+
+I’ll give you new task.
+
+Please create a document on how to build a development environment.
+Necessary tools, how to install and how to use them.
+The target audience is new employees.
+
+If you have any question,please do not hesitate to ask me.
+
+Quynhさんが作成してくれたドキュメントが間違いや抜けているところがあるか明日の午前MinhさんとTienさんも確認してもらうようにお願いしました。
+二人が確認し次第ご連絡いたします。
+
+おはようございます。
+MinhさんとTienさんは確認しました。
+ドキュメントは問題あります。
+よろしくお願いします。
+
+おはようございます。
+MinhさんとTienさんは確認しました。
+ドキュメントは問題ありません。
+よろしくお願いします。
+ 
+Tungさん、時間があるときで良いので、以下をQuynhさんに説明してください。
+-----
+私は、FLOCSSとBEMの説明を一緒にするようにお願いしているのではなく、先にFLOCSSの説明があり、その次にBEMの説明があった方がわかりやすいので、順番を変えてくださいとお願いしているのです。
+
+FLOCSSはどのような名前をつけたら良いかというルールで、BEMは具体的な命名規則だからです。
+
+そもそも記載している内容が、webのマニュアルを写したものになっています。

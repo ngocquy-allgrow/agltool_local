@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-y: scroll;
+}
+
+.target{
+    padding-top: 70px;
+}
+.target .jumbotron{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.target .jumbotron a{
+    font-size: 18px;
+    clear: both;
+}
+.target .jumbotron p{
+    font-size: 14px;
+}
+
+.perfect_pixel{
+    padding-top: 130px;
+    margin: auto;
+}
+
+.perfect_pixel > .jumbotron{
+    text-align: center;
+}
+
+.perfect_pixel > .jumbotron a{
+    font-size: 20px;
+    line-height: 3.5;
+}
+
+.perfect_pixel .diff-image{
+    width: 49%;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    vertical-align: top;
+}
+.perfect_pixel .diff-image img{
+    max-width: 100%;
+    height: auto;
+}
+
+.perfect_pixel .diff-image .diff{
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    top: 0;
+}
+
+.perfect_pixel .compare-image{
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+.perfect_pixel .compare-image img{
+    max-width: 100%;
+    height: auto;
+}
+
+.tool{
+    width: 40%;
+    top: 70px;
+}
+
+.tool label{
+    width: 100%;
+    font-size: 12px;
+    color: #d3d3d3;
+}
+
+.tool label span{
+    float: right;
+    color: #0C7FF2;;
+}
+
+.tool .opacity-range{
+    -webkit-appearance: none;
+    width: 100%;
+    height: 5px;
+    border-radius: 3px;
+    background: linear-gradient(to right, #0C7FF2 0%, #0C7FF2 50%, #fff 50%, #fff 100%);
+    outline: none;
+    opacity: 0.7;
+    transition: background 450ms ease-in;
+}
+
+.tool .opacity-range:hover{
+    opacity: 1;
+}
+
+.tool .opacity-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  background: #0C7FF2;
+  cursor: pointer;
+}
+
+.tool .opacity-range::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  background: #0C7FF2;
+  cursor: pointer;
+}
+
+.form-check-inline {
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-left: 0;
+    margin-right: .75rem;
+}
+
+.form-check-label {
+    vertical-align: middle;
+}
+
+.form-check-inline .form-check-input {
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 0;
+}
+
+.target .c-report{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: white;
+}
+.target .c-report li{
+    cursor:pointer;
+    border-bottom: 1px solid #ddd;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.target .c-report li:hover{
+    background: #ddd;
+}
+

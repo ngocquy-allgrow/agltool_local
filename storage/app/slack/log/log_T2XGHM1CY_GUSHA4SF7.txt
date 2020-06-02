@@ -1,0 +1,27 @@
+※翻訳テスト
+ お待たせして申し訳ありません。開発環境のテンプレートをい共有させて頂きます。README.mdファイルに開発環境と仕様を記載しておりますので合わせてご確認ください。
+
+あと、実際に案件が開始する際はこのテンプレートとgithubを弊社が用意してお渡しする予定です。
+
+何かご不明な点がありましたら連絡ください。
+ san!!!
+I will check it.
+If any problem, I will ask you. Thank you!!!
+ san!!!
+Please help me !!!
+I run [yarn dev] and it got an error.
+
+Thank you!!!
+ san!!!
+Please help me !!!
+I run [yarn dev] and it got an error.
+
+Thank you!!!
+ san!!!
+Please help me !!!
+I run [yarn dev] and it got an error.
+
+Thank you!!!
+ 多分、PCにimagemagickが入っていないのだと思うのでインストールしてみてください。
+ san!!!
+I will check magemagick on PC. Thank you!!!

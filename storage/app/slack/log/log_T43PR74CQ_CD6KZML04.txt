@@ -1,0 +1,6195 @@
+こんにちは
+AGLの翻訳システムをこのチャンネルに導入しました
+こんにちは
+AGLの翻訳システムをこのチャンネルに導入しました
+test
+test
+good morning
+good morning
+chào buổi sáng
+chào buổi sáng
+ コメントへの返信は翻訳スレッドにすれば良いのでしょうか
+ コメントへの返信は翻訳スレッドにすれば良いのでしょうか
+-san!
+Như thế này?
+Tôi nghỉ nó sẽ ổn và  không có quá nhiều tin nhắn trên Slack
+-san!
+Như thế này?
+Tôi nghỉ nó sẽ ổn và  không có quá nhiều tin nhắn trên Slack
+ でも、当面は特に返信のルールは決めなくて良さそうですね。自動翻訳システムは便利そうです。ありがとうございます。
+ でも、当面は特に返信のルールは決めなくて良さそうですね。自動翻訳システムは便利そうです。ありがとうございます。
+-san!
+Yes! I understand... Thank you so much!
+-san!
+Yes! I understand... Thank you so much!
+ AGLから翻訳機能からベトナム語を外す様におすすめされたので、ベトナム語を外します。
+ AGLから翻訳機能からベトナム語を外す様におすすめされたので、ベトナム語を外します。
+-san!
+Yes! I will use English
+**
+Thank you for today!
+Good bye! See you 
+I'll off tomorrow
+ さようなら。ありがとうございました。
+良い週末を！
+ ありがとうございました。また来週宜しくお願いします！
+ありがとうございました！
+**
+おはようございます. 良い日を過してください. 
+   ]
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします！
+ おはようございます。
+本日１件スマホサイトのコーディングをご依頼させていただく予定です。
+PSDデータの調整を行いまして、後ほど改めてご連絡いたします。
+よろしくお願いいたします。（イメージは以下URLnoような感じです。）
+
+-san!
+Yes! I got it
+-san!
+Yes! I got it
+ お早うございます。残り少ない2019年も宜しく！
+ おつかれさまです。
+コーディングしていただきたいスマホサイトについてまとめました。
+よろしくお願いいたします！
+
+PSDデータ
+
+画像テキスト確認用（赤丸のテキストはwebフォントがなかったので、画像で置いてください）
+
+adobe font script
+
+adobe font family
+
+最下部のスクロールボックス内のテキスト
+
+
+以下へファイルを格納してください。（今回はスマホサイトのみです）
+s
+-san!
+I'll coding right now
+
+ありがとうございます！
+-san!
+I have basically completed
+But there is a problem here
+It is difficult to perform "text decoration" here (when it is down ...)
+Can you give me an idea?
+-san!
+I have basically completed
+But there is a problem here
+It is difficult to perform "text decoration" here (when it new line of text ...)
+Can you give me an idea?
+I have basically completed
+But there is a problem here
+It is difficult to perform "text decoration" here (when it new line of text ...)
+Can you give me an idea?
+-san!
+-SAN! Yes!
+
+テキスト下の波線のことですか？
+-san!
+If the text had new lines ... it would look like this!
+It has no borders at the bottom
+
+すいません、電話が来てました。
+
+2019年〜の文言は１行がいいんです。下のような。
+
+-san!
+Yes!
+Do you have ideas for this?
+ これですよね。
+ちょっと待ってくださいね。
+
+これだとどんな感じになりますか？
+
+-san!
+
+Please help me check!
+
+ありがとうございます！
+修正点をまとめたら改めて明日ご連絡いたします。
+**
+
+この修正してくましたでしょうか？
+
+ボタン間の余白を狭く、テキストエリアを広くして調整して頂けないでしょうか。
+
+この修正してくましたでしょうか？
+
+
+この修正してくましたでしょうか？
+
+
+この修正してくましたでしょうか？
+
+-san! I'll fix
+-san!
+I have completed
+
+-san!
+I have completed
+
+ありがとうございます。確認しました。OKです。
+リモートリポジトリ に最新のソースコード一式をプッシュしてください。
+
+ありがとうございます。確認しました。OKです。
+リモートリポジトリ に最新のソースコード一式をプッシュしてください。
+
+ありがとうございます。確認しました。OKです。
+リモートリポジトリ に最新のソースコード一式をプッシュしてください。
+
+ありがとうございます。確認しました。OKです。
+リモートリポジトリ に最新のソースコード一式をプッシュしてください。
+-san!
+You mean Git? I have updated to test5 latest
+-san!
+You mean Git? I have updated to test5
+-san!
+You mean Git? I have updated to test5
+Gitです。
+Gitです。
+
+Please give me the Git link
+
+ありがとうございます。確認しました。OKです。
+リモートリポジトリ に最新のソースコード一式をプッシュしてください。
+-san!
+You mean Git? I have updated to test5
+今の作業をするときに、最新のソースコードをGitからプルして作業を始めませんでしたか？
+今の作業をするときに、最新のソースコードをGitからプルして作業を始めませんでしたか？
+
+no ... I am working based on the source of test5.
+
+Oh ... I don't see the Git link to clone
+ 少々お待ちください
+ もう一度Gitのユーザー名を教えてください
+ もう一度Gitのユーザー名を教えてください
+-san!
+chibinh
+-san!
+chibinh
+こちらのリポジトリに最新のソースコードを反映してください。
+-san!
+I have pushed.
+-san!
+I have pushed.
+ ありがとうございます。確認できました。
+ お疲れ様です。
+先日対応してもらったエブリカラーデイズのLPのSNSのアイコンが表示されない件についてです。
+
+お客さんから
+「セキュリティの観点からwoff形式のファイルはご利用いただないよう制限をさせていただいておりました。
+そのため、font awesomeには非対応となっております。」
+とのことだったので、他の方法でSNSのアイコンを設置したいと思っています。
+他にSNSのアイコンを設置する方法ご存知でしょうか？
+
+ここを見ていたりするのですが、ビンさんの方で良い方法があれば教えて欲しいです。
+ お疲れ様です。
+先日対応してもらったエブリカラーデイズのLPのSNSのアイコンが表示されない件についてです。
+
+お客さんから
+「セキュリティの観点からwoff形式のファイルはご利用いただないよう制限をさせていただいておりました。
+そのため、font awesomeには非対応となっております。」
+とのことだったので、他の方法でSNSのアイコンを設置したいと思っています。
+他にSNSのアイコンを設置する方法ご存知でしょうか？
+
+ここを見ていたりするのですが、ビンさんの方で良い方法があれば教えて欲しいです。
+ お疲れ様です。
+先日対応してもらったエブリカラーデイズのLPのSNSのアイコンが表示されない件についてです。
+
+お客さんから
+「セキュリティの観点からwoff形式のファイルはご利用いただないよう制限をさせていただいておりました。
+そのため、font awesomeには非対応となっております。」
+とのことだったので、他の方法でSNSのアイコンを設置したいと思っています。
+他にSNSのアイコンを設置する方法ご存知でしょうか？
+
+ここを見ていたりするのですが、ビンさんの方で良い方法があれば教えて欲しいです。
+ お疲れ様です。
+先日対応してもらったエブリカラーデイズのLPのSNSのアイコンが表示されない件についてです。
+
+お客さんから
+「セキュリティの観点からwoff形式のファイルはご利用いただないよう制限をさせていただいておりました。
+そのため、font awesomeには非対応となっております。」
+とのことだったので、他の方法でSNSのアイコンを設置したいと思っています。
+他にSNSのアイコンを設置する方法ご存知でしょうか？
+
+ここを見ていたりするのですが、ビンさんの方で良い方法があれば教えて欲しいです。
+ ありがとうございます
+
+
+こちらにアップしていただきたいです。
+ ありがとうございます
+
+
+こちらにアップしていただきたいです。
+-san! Yes! I'll try it
+-san!
+
+I have completed
+-san!
+
+I have completed
+I use "font awesome".
+ ごめんなさい、さっき送ったように
+&gt;font awesomeには非対応となっております。
+とのことなのでfont awesomeを使用するとお客さんの方で反映されないようです。
+ Google Material Iconsなどは使えませんかね？
+-san! I'll try
+so sorry
+ ごめんなさい！ありがとう！
+ ごめんなさい！ありがとう！
+-san!
+Do you see facebook, twitter, instagram icons?
+
+ 確認します。
+ 見つかりませんでした・・・
+ちょっと探します。
+ 見つかりませんでした・・・
+ちょっと探します。
+ 見つかりませんでした・・・
+ちょっと他のサイト探します。
+ 見つかりませんでした・・・
+ちょっと他のサイト探します。
+I will use svg
+ ありがとうございます
+-san!
+Please check help me!
+ ありがとうございます！確認します。
+ これのフォントがどうやって表示されているのか仕組みを教えてもらえますか？
+お客さんに説明したいのです。
+-san!
+• First I came here and took the SVG html code.
+
+•  I'll insert it into HTMl ...
+
+ ありがとうございます！
+-san!
+Can I go home?
+ ごめんなさい、1点だけ確認させてください！
+・woff形式のファイルは使用していない
+・font awesomeも使用していない
+ということで合っていますか？
+-san!
+Yes! All is responsive...
+ ありがとうございます
+お客さんに確認してもらうので今日は帰ってもらって大丈夫です！
+**
+Thank you for today
+Good bye! See you 
+ Thank you! Good bye. See you.
+ ありがとうございました。明日もよろしくお願いいたします
+ さようなら。ありがとうございました。また明日
+**
+おはようございます. 良い日を過してください. 
+ おはようございます！本日もよろしくお願いいたします
+ お早うございます:sun_with_face:ありがとうございます。
+ おはようございます。今日も宜しくお願いします！
+ 引き続きlinkbalプロジェクトの依頼をしたいです。
+-san! Yes! Please
+
+これから依頼内容をPDFで送ります。
+送った順に処理してください。
+1. 
+2. 
+3. 
+4. 
+もう１つPDFを送る予定です。
+
+これから依頼内容をPDFで送ります。
+送った順に処理してください。
+1. 
+2. 
+3. 
+4. 
+もう１つPDFを送る予定です。
+
+これから依頼内容をPDFで送ります。
+送った順に処理してください。
+1. 
+2. 
+3. 
+4. 
+もう１つPDFを送る予定です。
+
+これから依頼内容をPDFで送ります。
+送った順に処理してください。
+1. 
+2. 
+3. 
+4. 
+もう１つPDFを送る予定です。
+
+これから依頼内容をPDFで送ります。
+送った順に処理してください。
+1. 
+2. 
+3. 
+4. 
+もう１つPDFを送る予定です。
+-san!
+Yes! I'll fix
+
+これから依頼内容をPDFで送ります。
+送った順に処理してください。
+1. 
+2. 
+3. 
+4. 
+もう１つPDFを送る予定です。
+
+もう１つの依頼内容のPDFを送ります。
+全部のPDFの修正が完了しましたら、更に細部の修正を予定してます。
+
+
+もう１つの依頼内容のPDFを送ります。
+全部のPDFの修正が完了しましたら、更に細部の修正を予定してます。
+
+
+もう１つの依頼内容のPDFを送ります。
+全部のPDFの修正が完了しましたら、更に細部の修正を予定してます。
+
+
+もう１つの依頼内容のPDFを送ります。
+全部のPDFの修正が完了しましたら、更に細部の修正を予定してます。
+
+
+もう１つの依頼内容のPDFを送ります。
+全部のPDFの修正が完了しましたら、更に細部の修正を予定してます。
+
+-san!
+Can you tell me where to get these text?
+-san!
+Can you tell me where to get these texts?
+-san!
+Can you tell me where to get these texts?
+-san!
+Can you tell me where to get these texts?
+s
+-san!
+Can you tell me where to get these texts?
+-san!
+Can you tell me where to get these texts?
+-san!
+Can you tell me where to get these texts?
+ ！ごめんなさい、まだないです。上記キャプチャのテキストは上から
+• 学歴
+• 学校名
+• 卒業年
+• 仕事内容
+です。
+ ！ごめんなさい、まだないです。上記キャプチャのテキストは上から
+
+ ！ごめんなさい、まだないです。上記キャプチャのテキストは上から
+
+学歴
+学校名
+卒業年
+仕事内容
+
+です。
+学歴
+学校名
+卒業年
+仕事内容
+
+です。
+ ！ごめんなさい、まだないです。上記キャプチャのテキストは上から
+
+学歴
+学校名
+卒業年
+仕事内容
+
+です。
+-san!
+Can you tell me where to get these texts?
+-san!
+Can you tell me where to get these texts?
+ ！ごめんなさい、まだないです。上記キャプチャのテキストは上から
+
+学歴
+学校名
+卒業年
+仕事内容
+
+です。
+-san!
+I have completed
+Can you help check me?
+-san!
+I have completed
+Can you help check me?
+
+ありがとうございます。確認します。
+
+リンク先を修正してください。
+
+リンク先を修正してください。
+→
+-san!
+Delete?
+-san!
+Delete?
+-san!
+I'll continue after lunch,
+
+これは、新規登録ボタンです。
+新規登録画面が欲しいのですが、依頼がまだでした。
+このままで大丈夫です。
+
+先ほどの新規登録画面ですが、下記の様にお願いします。
+1. HTMLファイル名：job_info_regist.html
+2. ソースコードコピー : 
+3. &lt;h2&gt;タイトル：求人情報登録
+4. 仕様：フォーム内のテキストを削除して空にしてください。
+5. ボタンテキスト変更：「保存」→「登録」
+6. リンク追加：「登録」ボタン→ 
+以上です。
+
+先ほどの新規登録画面ですが、下記の様にお願いします。
+1. HTMLファイル名：job_info_regist.html
+2. ソースコードコピー : 
+3. &lt;h2&gt;タイトル：求人情報登録
+4. 仕様：フォーム内のテキストを削除して空にしてください。
+5. ボタンテキスト変更：「保存」→「登録」
+6. リンク追加：「登録」ボタン→ 
+以上です。
+
+他の修正も確認しました。
+「現在の勤務形態」のレイアウトを調整してください。
+こんな感じに。
+
+他の修正も確認しました。
+「現在の勤務形態」のレイアウトを調整してください。
+こんな感じに。
+ここです。
+-san!
+
+
+-------------------------------------------------
+
+
+
+
+Please help me check
+-san!
+
+
+-------------------------------------------------
+
+
+
+Please help me check
+-san!
+
+
+-------------------------------------------------
+
+ありがとうございます。確認します。
+
+このディレクトリ配下の共通ヘッダーメニューを
+
+全て、下記と同じにしてください
+
+-san! Yes!
+-san!
+
+
+-------------------------------------------------
+-san!
+
+
+-------------------------------------------------
+-san!
+I have changed menu.
+ ありがとうございます。確認します。
+
+確認しました。
+こちらの「登録・変更」ボタンのアンカーリンクを修正してください。
+
+それぞれこちらのページの同じ項目にリンクさせてください
+
+-san!
+I have completed
+-san!
+I have completed
+
+ありがとうございます。確認しました。OKです。
+クライアントにソースコードを渡したいので、Gitのリモートリポジトリ にプッシュしてください。
+-san!
+I have pushed
+-san!
+I have pushed
+
+ありがとうございます。確認しました。
+
+こちら見えますか？
+
+こちら見えますか？
+
+こちら見えますか？
+-san!
+
+権限を更新しました。もう一度アクセスしてみてください。
+
+こちら見えますか？
+-san!
+I see it
+下記の画面のセレクトボックスの値を、スプレットシート にある値に反映して下さい。
+項目名は「項目名」列です。
+出来そうでしょうか。
+1. 
+2. 
+3. 
+4. 
+1. 
+下記の画面のセレクトボックスの値を、スプレットシート にある値に反映して下さい。
+項目名は「項目名」列です。
+出来そうでしょうか。
+1. 
+2. 
+3. 
+4. 
+1. 
+
+こちら見えますか？
+-san! Yes! I got it
+
+ それと、マイページ修正画面にボタンを挿入して欲しいです。
+
+
+ それと、マイページ修正画面にボタンを挿入して欲しいです。
+
+
+ それと、マイページ修正画面にボタンを挿入して欲しいです。
+
+
+ それと、マイページ修正画面にボタンを挿入して欲しいです。
+
+
+ それと、マイページ修正画面にボタンを挿入して欲しいです。
+
+
+ それと、マイページ修正画面にボタンを挿入して欲しいです。
+
+
+すみません、追加の依頼です。
+登録フォームもマイページ修正画面と同様にボタンを挿入して下さい
+
+また、
+登録フォーム確認画面を追加してください。
+仕様は下記です。
+1. HTMLファイル名：form_regist_confirm.html
+2. ソースコードコピー :
+3. &lt;h2&gt;タイトル：登録内容確認
+4. 仕様：登録フォーム（
+）への「登録・変更」ボタンのアンカーリンクを設定してください。
+5. 
+の「入力内容を確認する」ボタンのリンク先にこの画面を設定してください。
+以上です。
+
+すみません、追加の依頼です。
+登録フォームもマイページ修正画面と同様にボタンを挿入して下さい
+
+また、
+登録フォーム確認画面を追加してください。
+仕様は下記です。
+1. HTMLファイル名：form_regist_confirm.html
+2. ソースコードコピー :
+3. &lt;h2&gt;タイトル：登録内容確認
+4. 仕様：登録フォーム（
+）への「登録・変更」ボタンのアンカーリンクを設定してください。
+5. 
+の「入力内容を確認する」ボタンのリンク先にこの画面を設定してください。
+以上です。
+-san!
+By the way
+Do you have value here?
+
+ 項目名「希望勤務地」と同じにしてください。
+ タイポを修正してGitにプッシュしました。
+あとでプルしておいてください。
+-san! Yes!
+
+さらに三画面を下記のディレクトリに追加予定です。
+またお知らせします。
+
+-san!
+
+Please check help me!
+ ありがとうございます。確認します。
+
+確認をあとでするので、今の状態でGitHUBにプッシュしてください。
+（最新のソースコードをプルしてから）
+さらに、あとでtest5を私が上書きするかもしれません。
+test5を上書きする時は、ビンさんのソースコードをプルしてからにします。
+-san!
+I have pushed
+ ありがとうございます。
+ 
+Thank you for today
+Good bye. See you 
+ 
+Thank you for today
+Good bye. See you 
+ ありがとうございました。明日も宜しくお願いします
+ ありがとうございました！明日もよろしくお願いいたします
+ ありがとうございました！また明日
+/////////////////
+明日出社されましたら下記の修正をしてください。
+
+/////////////////
+明日出社されましたら下記の修正をしてください。
+
+/////////////////
+明日出社されましたら下記の修正をしてください。
+
+/////////////////
+明日出社されましたら下記の修正をしてください。
+
+/////////////////
+明日出社されましたら下記の修正をしてください。
+
+お早うございます。
+朝は少し外出するので応答できないかも知れません。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。本日も宜しくお願いします！
+-san!
+I'll fix
+
+お早うございます。ありがとうございます。
+また、こちらの画面のテキストを修正してください。
+「氏名」→「企業名」
+
+-san!
+So sorry!
+Can you tell me the link of these 2 buttons?
+
+外出します。
+プッシュする前にはプルしてください。
+アンカーリンクは
+この画面の確認画面です
+
+この画面は登録画面です。
+この画面の同じ項目にアンカーリンクを貼ってください。
+-san! Yes! I got it
+-san!
+form_regist_confirm.html  --&gt; *◎職歴1 and ◎職歴2*
+form_regist.html ---&gt; *◎職歴1*
+One block seems to be missing "form_regist.htm"  missing *◎職歴2*
+-san!
+I have pushed
+
+帰ってきました。ありがとうございます。
+確認します。
+
+test5にも反映してください。
+-san!
+I have reflected on test5
+
+ありがとうございます。
+ エブリカラーデイズについて、1点お願いがあります。
+
+右下に常に固定しているピンクのボタンのサイズが大きいので少し小さくしていただきたいです。
+CSSで修正できますか？
+-san! Yes! I'll change it
+ ありがとうございます！
+もし、画像のサイズを変更しなければならない時は、新しい画像をお渡しします。
+-san! Please help me check.
+ ありがとうございます！確認します。
+ ボタンの下に少し余白を作ることはできますか？
+-san! I have completed
+ ありがとうございます！確認します。
+ 確認しました！この余白はCSSのどこに書いてありますか？
+-san!
+-san!
+-san!
+ ありがとうございます！お客さんからの微調整が入ったら私の方で調整させていただくので聞きました。ありがとうございました。
+-san!
+-san!
+ ごめんなさい・・・もう1度アップしていだけますか？
+少し高さを修正していたら崩れてしまいました
+-san!
+What size do you want?
+width: 230px?
+はい、230にしたいです。
+How height is it?
+ autoで大丈夫です。
+what do you want me to do? 
+ 今テストアップしている
+
+が崩れてしまったので、先ほどアップしてもらったファイルを再度アップして欲しいです。
+-san! I have updated.
+ありがとうございます。
+サイズの調整はこちらでします。
+ ごめんなさい、フッダが崩れているのですが確認してもらえますか？
+-san!
+Did you change the html?
+ 少しだけ変更しいました・・・
+ 少しだけ変更しました・・・
+ 少しだけ変更しました・・・
+ 少しだけ変更しました・・・
+-san!
+I think it's Ok
+ ありがとうございます。ごめんなさい
+ 少しだけ変更しました・・・
+**
+Thank you for today
+Good bye. See you 
+ ありがとうございました！
+ ありがとうございました。来週も宜しくお願いします。
+ ありがとうございました。また来週
+**
+おはようございます. 良い日を過してください. 
+**
+
+Good bye. See you 
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします。
+ お早うございます。今週も宜しくお願いします。
+ごめんなさい、昨日は日本の祝日でお休みでした。
+
+Linkbalの案件で修正依頼があります。
+このディレクトリ配下になります
+
+
+
+
+上記の画面
+1. 項目修正「年齢」→「生年月日」
+2. 入力フォームの修正
+
+「歳」を削除
+入力フォームはカレンダー入力で「YYYY/MM/DD」
+-san!
+I just pulled the latest data from Git
+I see it
+それはいらないソースコードが紛れてします。
+今プッシュするので少々お待ちください
+すみませんやはり、カレンダー入力はやめます。
+
+生年月日の入力フォームをdatepicherなどのカレンダー入力するのが理想なのですが、利用の詳細が未定なので、保留にしてください。
+
+プッシュしました。
+
+上記と同じ画面で、「勤務時間」の入力フォームの修正をお願いします。
+SPはそのままで、PCの時の入力フォームをこちらの「開始時刻」と同じにしてもらえますか？
+
+もう１つ、項目「希望勤務地」のセレクトボックスを複数選択可能にして欲しいです。
+イメージはこちらです。
+
+以上です。
+まずは出来そうかお知らせください。
+宜しくお願いします。
+
+もう１つ、項目「希望勤務地」のセレクトボックスを複数選択可能にして欲しいです。
+イメージはこちらです。
+
+以上です。
+まずは出来そうかお知らせください。
+宜しくお願いします。
+
+もう１つ、項目「希望勤務地」のセレクトボックスを複数選択可能にして欲しいです。
+イメージはこちらです。
+
+以上です。
+まずは出来そうかお知らせください。
+宜しくお願いします。
+
+もう１つ、項目「希望勤務地」のセレクトボックスを複数選択可能にして欲しいです。
+イメージはこちらです。
+
+以上です。
+まずは出来そうかお知らせください。
+宜しくお願いします。
+-san! Yes! I got it
+
+ありがとうございます！
+
+生年月日の入力フォームは「年」「月」「日」それぞれのセレクトボックスを並べてください。
+• 年：1980　〜 2000
+• 月：1〜12
+• 日：1〜31
+初期値（数字の箇所はセレクトボックス ）
+1980 年 1 月 1 日
+
+戻りました。
+
+&gt; I haven't decided yet ... so I can do it like this?
+カレンダーのデザインがないのと、レスポンシブなのが問題です。
+
+このように対応していただけますでしょうか
+
+-san!
+Can you tell me their value it?
+-san!
+Only apply to 2 cases?
+
+この項目は勤務時間を入力する場所です。
+初期値は
+8
+00
+としてください
+そしてそれぞれ２４時間設定出来る様にしてください
+-san!
+Does it apply to these 2 cases?
+
+適応されません。
+
+適応されません。
+-san!
+
+Please give for me desgin here.
+
+ここは３つのセレクトボックスを設置して欲しいと伝えたと思います
+-san! Yes! I understand
+
+ちょっと待ってください
+自動翻訳がおかしいです
+-san!
+Are the other parts okay?
+-san!
+Like this?
+
+そうです！
+上記の様な感じでお願いできますか？
+上記の様に修正してください。
+Initial value (numbers are select boxes)
+1980年1月1日
+-san!
+
+
+I have completed
+-san!
+I have pushed
+ ありがとうございます。
+multiple selectのSelect All が有効でない様です。
+しかし、現時点ではSelect Allは不要です。
+-san!
+I have deleted "Select All"
+
+ありがとうございます！
+時間の入力についての対応はPC版のみでSP版はそのままで大丈夫です。
+-san!
+All is good.?
+I have push right now.
+-san!
+All is good?
+I have push right now.
+-san!
+All is good?
+I have push right now.
+-san!
+All is good?
+I'll push right now.
+-san!
+All is good?
+I'll push right now.
+
+時間の入力について
+SP版は従来のものに戻してください
+-san!
+All is good?
+I have push right now.
+-san!
+All is good?
+I'll push right now.
+何故ならば、
+input type ="time"
+はSPの時はとても入力がし易いですがPCではそうでは無いからです
+-san! Yes! I understand
+-san! Yes! I understand
+
+あっと、今気がつきました
+multiple selectにする場所が違います
+「都道府県」ではなくて「希望勤務地」のところです
+
+直せそうですか？明日でも大丈夫です。
+-san! I'll fix it right now.
+
+急がなくてもOKです。
+
+ありがとうございます。
+
+急がなくてもOKです。
+-san! I have completed
+
+ありがとうございます。
+私は確認します。
+ 概ね大丈夫です。
+ありがとうございました！
+-san! I'll pushed
+-san! I'll push
+-san! I'll push
+-san! I'll push
+-san!
+I have pushed.
+**
+Thank you for today
+Good bye. See you 
+
+Thank you very match!
+Good bye See you tomorrow 
+ ありがとうございました。明日も宜しくお願いします
+-san! I'll push
+ ありがとうございました！明日もよろしくお願いいたします。
+///////////////////////////
+Tomorrow morning, when you get started, pull the Linkbal git remote repository.
+And please set the following link URL in all HTML footer items. ( *target=”_blank”* )
+[運営会社]：
+[利用規約]：
+///////////////////////////
+///////////////////////////
+Tomorrow morning, when you get started, pull the Linkbal git remote repository.
+And please set the following link URL in all HTML footer items. ( *target=”_blank”* )
+[運営会社]：
+[利用規約]：
+///////////////////////////
+///////////////////////////
+Tomorrow morning, when you get started, pull the Linkbal git remote repository.
+And please set the following link URL in all HTML footer items. ( *target=”_blank”* )
+[運営会社]：
+[利用規約]：
+///////////////////////////
+///////////////////////////
+Tomorrow morning, when you get started, pull the Linkbal git remote repository.
+And please set the following link URL in all HTML footer items. ( *target=”_blank”* )
+[運営会社]：
+[利用規約]：
+///////////////////////////
+///////////////////////////
+Tomorrow morning, when you get started, pull the Linkbal git remote repository.
+And please set the following link URL in all HTML footer items. ( *target=”_blank”* )
+[運営会社]：
+[利用規約]：
+///////////////////////////
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。本日も宜しくお願いします
+
+修正依頼を追加します。
+multiple select boxのSP版の時、チェックの位置がズレているので修正してください。
+
+
+-san! I have completed
+
+Thank you! I will confirm from now.
+
+修正を追加してください。
+multiple select boxのSPの時、フォントサイズを16pxにしてください。
+-san!
+I have completed
+
+Thank you! I will confirm from now.
+
+ここも16pxにしてください
+-san!
+So sorry!
+I have changed it
+
+I confirmed.
+very good,Thank you very much
+Please push source code.
+-san! I have pushed.
+
+ありがとうございます。
+今気がついたのですが、ここの枠線が消えてます。
+
+ありがとうございます。
+今気がついたのですが、ここの枠線が消えてます。
+直せそうでしょうか。
+直したら下記のコミットコメントでプッシュしてください
+「修正：時間入力UI」
+
+また、コンソールにアラートが出ています。
+修正出来そうでしょうか。
+私も修正をトライします。
+-san!
+Can you tell me more it?
+
+枠線が消えている様に見えませんか？
+
+枠線が消えている様に見えませんか？
+-san! I have fixed all
+
+ありがとうございます！
+プッシュしてください。
+コミットコメント
+「修正：時間入力UI・コンソールエラー」
+
+ありがとうございます！
+プッシュしてください。
+コミットコメント
+「修正：時間入力UI・コンソールエラー」
+-san! I have pushed
+
+ありがとうございます！
+ 修正を依頼したいです。
+Linkbalの最新のソースコードをGitリポジトリからプルしてください。
+この機能とスタイルを削除してください。
+ここは普通のテキストボックスにしてください。
+デザインは少々お待ち下さい。
+
+SP版はそのままにしてください。
+PCの時は、この様にお願いします。
+テキストは下記です。
+• 勤務時間
+• 時
+• 〜
+• 分
+テキストは下記です。
+• 勤務時間
+• 時
+• 〜
+• 分
+-san!
+You have the SP design
+-san!
+You have the SP design?
+-san!
+You have the SP design?
+-san!
+Do you design SP?
+-san!
+Do you design SP?
+-san!
+You have the SP design?
+-san!
+Do you design SP?
+
+SPバージョンはそのままで、何も修正しなくて良いです。
+-san!
+Do you want to keep it like this?
+-san!
+You have the SP design?
+-san!
+Do you design SP?
+-san!
+
+I have completed
+
+ごめんなさい。娘のお迎えで外出してました。
+確認しました。OKです。
+プッシュしてください。
+コミットコメントは
+「修正：PC時の勤務時間入力フォーム」
+-san! I have pushed
+
+ありがとうございます。
+プルしました。
+大きな問題にはならないと思いますが、今プルしたら、私のローカル環境にcommon.cssに差分が発生しました。
+**
+Thank you for today
+Good bye. See you 
+
+ありがとうございました！また明日
+ ありがとうございました！明日も宜しくお願い致します。
+ ありがとうございました！
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+**
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました
+また明日！
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+
+お早うございます
+
+ありがとうございます。
+**
+Thank you for today
+Good bye. See you 
+ ありがとうございました！来週も宜しくお願いします。
+ ありがとうございました
+また来週です！
+
+お疲れ様です。ありがとうございました
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。本日も宜しくお願いします！
+
+お早うございます
+
+今週も宜しくお願いします！
+
+Linkbalの修正対応を依頼予定です。
+最新のソースコードをGitHUBのリモートリポジトリ からプルして下さい。
+
+Linkbalの修正をお願いしたいです。
+下記の指示書をご確認ください。
+
+宜しくお願いします。
+
+Linkbalの修正をお願いしたいです。
+下記の指示書をご確認ください。
+
+宜しくお願いします。
+
+Linkbalの修正をお願いしたいです。
+下記の指示書をご確認ください。
+
+宜しくお願いします。
+
+Linkbalの修正をお願いしたいです。
+下記の指示書をご確認ください。
+
+宜しくお願いします。
+-san!
+Yes! I'll fix it
+ ありがとうございます！
+-san!
+Can you tell me more it?
+Can I change it to &lt;a&gt; tag?
+ 今、「button」タグになっていますが、「a」タグに変更することはできますか？
+ はい！そうです。
+-san!
+It seems that this request I made before
+Do you want to delete "target =" _ blank "?
+Do you want to delete "target =" _ blank "?
+ ごめんなさい！ありがとうございます。
+_blankはそのままで大丈夫です！
+-san!
+I have completed all
+ ありがとうございます！確認します！
+-san!
+Do I need to push to Git
+What is a commit?
+-san!
+Do I need to push to Git?
+What is a commit?
+-san!
+Do I need to push to Git?
+What is a commit?
+ まだ修正依頼があると思うので、まだ大丈夫です！
+ 完璧です！ありがとうございました。
+また何かあったら依頼します！
+ 完璧です！ありがとうございました。
+また何かあったら依頼します！
+-san!
+Do I need to push to Git?
+What is a commit?
+
+追加で確認していただきたいことがあります。
+下記の6-10枚目をご確認ください。
+
+
+追加で確認していただきたいことがあります。
+下記の6-10枚目をご確認ください。
+
+
+追加で確認していただきたいことがあります。
+下記の6-10枚目をご確認ください。
+
+
+追加で確認していただきたいことがあります。
+下記の6-10枚目をご確認ください。
+
+
+追加で確認していただきたいことがあります。
+下記の6-10枚目をご確認ください。
+
+-san!
+Please give for me use and password
+-san!
+Please give for me user and password
+-san!
+Please give for me user and password
+
+ごめんなさい！
+【企業側】
+
+ID/pass    /password
+【管理画面】
+
+ID/pass    /testtest
+-san!
+Please give for me user and password
+
+ごめんなさい！
+【企業側】
+
+ID/pass    /password
+【管理画面】
+
+ID/pass    /testtest
+
+ごめんなさい！
+【企業側】
+
+ID/pass    /password
+【管理画面】
+
+ID/pass    /testtest
+
+ごめんなさい！
+【企業側】
+
+ID/pass    /password
+【管理画面】
+
+ID/pass    /testtest
+-san!
+How can i fix it?
+Do you have a server account?
+
+どこのCSSを修正すればいいかだけ、教えていただければ大丈夫です。
+修正はお客さんの方でしていただきます。
+-san!
+Please give for me user and password
+
+ごめんなさい！
+【企業側】
+
+ID/pass    /password
+【管理画面】
+
+ID/pass    /testtest
+
+すみません、
+
+11枚目もご確認ください。
+&gt; -san!
+&gt; I do not see it
+ ビンさんの方ではならないですか？
+-san!
+Can you give me the link?
+
+
+こちらです。
+-san!
+I fixed the error ... can you create me a folder on test5 ... let me upload?
+ ありがとうございます！少々お待ちください。
+ s
+こちらにアップしてもらえますか？
+あと、どこを修正したかメモなどにまとめていただくことは可能でしょうか？
+-san!
+Yes!
+All my corrections are in the 
+ tag at 
+
+
+Only it ''
+I change HTML
+from line 144 to line 155
+from line 175 to line 181
+-san!
+Yes!
+
+All my corrections are in the 
+ tag at 
+
+
+Only it ''
+I change HTML
+from line 144 to line 155
+from line 175 to line 181
+-san!
+Yes!
+
+All my corrections are in the 
+ tag at 
+
+
+Only it ''
+I change HTML
+from line 144 to line 155
+from line 175 to line 181
+ ありがとうございます！確認します。
+-san!
+Yes!
+
+All my corrections are in the 
+ tag at 
+
+
+Only it ''
+I change HTML
+from line 144 to line 155
+from line 175 to line 181
+ ごめんなさい、指示書の11枚目の確認いただけますでしょうか？
+ ごめんなさい、指示書の11枚目も確認いただけますでしょうか？
+ ごめんなさい、指示書の11枚目も確認いただけますでしょうか？
+I don't see it
+ ごめんなさい、指示書の11枚目も確認いただけますでしょうか？
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+-san!
+Yes!
+
+All my corrections are in the 
+ tag at 
+
+
+Only it ''
+I change HTML
+from line 144 to line 155
+from line 175 to line 181
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+**
+おはようございます. 良い日を過してください. 
+-san!
+
+-san!
+Can you give me the link of the instruction sheet?
+ ありがとうございます！ごめんなさい、それは確認できました。
+今指示書を更新したので、その11枚目をご確認いただけますか？
+-san!
+I saw it ... looks like it hasn't loaded yet...
+ 少し時間が経ってから開いていただけますか？
+**
+おはようございます. 良い日を過してください. 
+11枚目見れますか？
+yes!
+ ありがとうございます！
+-san! I have completed
+ ありがとうございます！確認します。
+ これは何行目のhtml/CSSを編集していますか？
+-san!
+All my edits are in the &lt;style&gt; &lt;/ style&gt; tag at &lt;head&gt; &lt;/ head&gt;
+ex
+ ありがとうございます！
+ẽ
+ẽ
+ ありがとうございます！確認します。
+
+こちらの12.13ページ目を確認して、対応していただけますか？
+
+
+こちらの12.13ページ目を確認して、対応していただけますか？
+
+
+こちらの12.13ページ目を確認して、対応していただけますか？
+
+
+こちらの12.13ページ目を確認して、対応していただけますか？
+
+-san!
+Yes!
+
+こちらの12.13ページ目を確認して、対応していただけますか？
+
+-san!
+I have to write JS
+I will find a way
+a little bit difficult ...
+ 大丈夫そうでしょうヵ？
+ 難しそうであれば、こちらで前田さんと相談するので、その時は教えてください。
+I haven't figured out how to ... right now
+ 参考サイト、探してみます。
+
+いったん、ここまでの修正内容を
+GitHUBにプッシュをしてもらえますか？
+-san! Yes!
+-san!
+Is this okay for tomorrow?
+-san!
+
+
+ありがとうございます！
+あとは私の方で、参考サイトを探しておきます。
+また明日お願いします。
+-san!
+I finished it all and pushed
+This problem I will continue tomorrow
+ ありがとうございます！
+**
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日もよろしくお願いいたします
+
+前田さんからご連絡あり、この問題は一旦対応してなくて問題ないとのことです！
+ごめんなさい。ありがとうございます。
+
+ありがとうございました
+ ありがとうございました！明日も宜しくお願いします。
+また明日！
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。本日も宜しくお願いします！
+ もう一度お伝えしますね！
+前田さんからご連絡あり、この問題は一旦対応してなくて問題ないとのことです！
+ごめんなさい。ありがとうございます。
+
+昨日もお伝えしましたが、
+昨日のこの件は対応していただなくて大丈夫です！
+ごめんなさい。
+ありがとうございました。
+
+
+別件で対応してもらいたいことがあるので、今からお送りします。
+
+昨日もお伝えしましたが、
+昨日のこの件は対応していただなくて大丈夫です！
+ごめんなさい。
+ありがとうございました。
+
+
+別件で対応してもらいたいことがあるので、今からお送りします。
+
+昨日もお伝えしましたが、
+昨日のこの件は対応していただなくて大丈夫です！
+ごめんなさい。
+ありがとうございました。
+
+
+別件で対応してもらいたいことがあるので、今からお送りします。
+
+昨日もお伝えしましたが、
+昨日のこの件は対応していただなくて大丈夫です！
+ごめんなさい。
+ありがとうございました。
+
+
+別件で対応してもらいたいことがあるので、今からお送りします。
+-san!
+Do I need to do it?
+
+↑は何もしなくてOKです！
+-san! Yes! Thank you
+
+
+↑こちらをご確認ください。
+「希望勤務地」を選ぶプルダウンが、下記のモックアップのようになっていません。
+
+
+
+これのどこを修正すればいいでしょうか？
+
+昨日もお伝えしましたが、
+昨日のこの件は対応していただなくて大丈夫です！
+ごめんなさい。
+ありがとうございました。
+
+
+別件で対応してもらいたいことがあるので、今からお送りします。
+-san!
+It was missing 2 js
+
+
+
+ なるほど！ありがとうございます！
+
+こちらの修正、お願いできますか？
+
+
+こちらの修正、お願いできますか？
+
+
+こちらの修正、お願いできますか？
+
+-san! Yes!
+
+こちらの修正、お願いできますか？
+
+ ありがとうございます！
+
+こちらの修正、お願いできますか？
+
+-san!
+Do I need to change to &lt;select&gt; &lt;/select&gt;?
+1900~2019 so many,
+ そうですね、お願いします！
+-san!
+I have completed
+ ありがとうございます！確認します。
+ ありがとうございます！完璧です！
+
+ごめんなさい、追加で8〜10ページを確認していただけますか？
+
+
+ごめんなさい、追加で8〜10ページを確認していただけますか？
+
+Please give for me text!
+-san!
+
+ログイン情報設定
+お願いします！
+
+
+
+お願いします！
+
+
+
+お願いします！
+Do you have a link XD?
+Please give for me!
+-san!
+ ごめんなさい、送っていませんでした
+ ごめんなさい、送っていませんでした
+
+
+（PW: TestTest0129）
+
+
+（PW: TestTest0129）
+ ごめんなさい、送っていませんでした
+
+
+（PW: TestTest0129）
+ ごめんなさい、送っていませんでした
+
+
+（PW: TestTest0129）
+-san!
+how to download it to my computer
+-san!
+how to download it to my computer?
+-san!
+how to download it to my computer?
+
+
+
+お願いします！
+ お待ちください。
+
+
+（PW: TestTest0129）
+このアドレス開けませんか？
+-san!
+I see it ... but can't copy the text
+ ごめんなさい、送っていませんでした
+
+
+（PW: TestTest0129）
+ なるほど！
+テキストを準備します！お待ちください。
+
+
+こちらからテキストを取れますか？
+ヘッダーは他の
+
+配下のものと合わせてください。
+
+
+こちらからテキストを取れますか？
+ヘッダーは他の
+
+配下のものと合わせてください。
+
+
+こちらからテキストを取れますか？
+ヘッダーとフッダーは他の
+
+配下のものと合わせてください。
+-san!
+Thank you so much!
+
+
+こちらからテキストを取れますか？
+ヘッダーは他の
+
+配下のものと合わせてください。
+
+
+こちらからテキストを取れますか？
+ヘッダーは他の
+
+配下のものと合わせてください。
+-san!
+Do you have any ideas for the SP version
+-san!
+I have completed
+ ありがとうございます！確認します。
+ごめんなさい、SPバージョンは用意していなくて・・・一旦、こちらで確認します。
+
+
+こちらだけ「ログアウト」ボタンがないので、入れてもらえますか？
+-san!
+
+ ありがとうございます！
+ -&gt; 
+-&gt; `j'
+-&gt; 
+-&gt; 
+-&gt; 
+
+ Can you increase the header and the margin of the red frame under this?
+.c-header__center {
+     padding: 25px 0;
+}
+Please
+-san!
+all page of "user" ?
+ すべてのページをお願いします。
+-san! I have changed
+-&gt; 
+ ありがとうございます！確認します。
+
+
+SPのここのボタンを、上に挙げられますか？
+全ページお願いします。
+
+
+これと同じくらいにしてください。
+-san!
+So sorry!
+I have completed
+ ありがとうございます！確認します！
+
+ありがとうございました！完璧です！
+-san! I'll pushed to Git
+-san! I'll push to Git
+-san! I'll push to Git
+ お願いします！
+-san! I'll push to Git
+-san!
+I have pushed.
+ ありがとうございます！
+-san! I'll push to Git
+*channel*
+Thank you for today
+Good bye. See you 
+** 
+Thank you for today
+Good bye. See you 
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日も宜しくお願いします。
+** 
+Thank you for today
+Good bye. See you 
+** 
+Thank you for today
+Good bye. See you 
+ おはようございます。分かりました！ご連絡ありがとうございます。
+今日も宜しくお願いします
+
+I'd like to consult, is that OK?
+I would like to download the source code from the URL here and place a banner. Is it possible?
+
+
+I'd like to consult, is that OK?
+I would like to download the source code from the URL here and place a banner. Is it possible?
+
+
+I'd like to consult, is that OK?
+I would like to download the source code from the URL here and place a banner. Is it possible?
+
+
+バナー：
+掲載イメージ：
+リンク先：
+
+バナー：
+掲載イメージ：
+リンク先：
+
+バナー：
+掲載イメージ：
+リンク先：
+-san!
+Yes! I got it
+ ありがとうございます！宜しくお願いします。
+アップロード先お送りします。
+
+バナー：
+掲載イメージ：
+リンク先：
+
+s
+ここにお願いします。
+-san! Yes! Thank you so much!
+
+バナー：
+掲載イメージ：
+リンク先：
+-san!
+
+I have completed
+-san!
+
+I have added CSS "style,css"
+I have added HTML "from line 271 to line 277"
+-san!
+
+I have added CSS "style.css"
+I have added HTML "from line 271 to line 277"
+-san!
+
+I have added CSS "style.css"
+I have added HTML "from line 271 to line 277"
+-san!
+
+I have added CSS 
+
+I have added HTML 
+-san!
+
+I have added CSS 
+
+I have added HTML 
+-san!
+
+I have added CSS 
+
+I have added HTML 
+
+I have added the img folder
+-san!
+
+I have added CSS 
+
+I have added HTML 
+
+I have added the img folder
+-san!
+
+I have added CSS 
+
+I have added HTML 
+-san!
+
+I have added CSS 
+
+I have added HTML 
+
+I have added the img folder
+ ありがとうございます！確認します。
+-san!
+
+I have added CSS 
+
+I have added HTML 
+-san!
+
+I have added CSS 
+
+I have added HTML 
+
+I have added the img folder
+ ありがとうございます！確認できました。
+あと、名字が高橋から白河に変わりました。宜しくお願いします。
+-san!
+
+ Thank you for information
+
+Linkbalプロジェクトの修正ありがとうございました。
+私は確認しました。修正をお願いしたいです。
+修正依頼が３つあります。
+1.バリデーションのタイミングを参照画面と同じにしてください。
+対象画面：
+参照画面：
+2.キャプチャ箇所の上部マージンを0にしてください。
+対象画面：
+キャプチャ：
+3.セレクトボックス の「勤務期間」の「年」選択項目を「2002～2020」に修正
+対象画面：
+• 
+• 
+• 
+• （注意）form_regist.htmlとmypage_modify.htmlに「勤務期間」項目は２つあります。
+
+以上です。宜しくお願いします。
+-san!
+that's it?
+ -&gt; *
+*
+ Yes!
+私は項目名を間違えていました。ごめんなさい。
+*
+* これはこのまま、変更なしです。
+-san!
+I think that should change both here
+
+
+は変更なしです。
+1980～2002
+-san!
+I have completed
+
+ありがとうございます。私は確認します。
+
+これが反映されていないように見えます。
+&gt; 1.バリデーションのタイミングを参照画面と同じにしてください。
+&gt; 対象画面：
+&gt; 参照画面：
+-san!
+I unrderstand
+Well ... it's JS
+I'll fix it
+
+ここはSPの時も上部マージンを0にしてください。
+
+c
+
+ここはSPの時も上部マージンを0にしてください。
+
+c
+-san!
+I have completed
+
+ここはSPの時も上部マージンを0にしてください。
+
+
+
+ボタンに関しても下記の修正をお願いします。
+1. 
+•  
+と
+から始まるHTMLから
+ボタンを削除してください。
+• 
+ボタンの下側に18px余白を設けてください。
+2. 
+• 
+から始まるHTMLから
+ボタンを削除してください。
+
+ ありがとうございます！私は確認します。
+
+確認しました。
+すみません、、、
+ の白い線は不要です。
+
+ここはSPの時も上部マージンを0にしてください。
+
+-san!
+I have changed all
+Please help check me!
+ ありがとうございます！私は確認します。
+
+&gt; 
+ボタンの下側に18px余白を設けてください。
+
+これが反映されていない様に見えます。
+
+ここに
+ボタンを追加してください。
+
+-san!
+
+ --&gt; 
+I do not understand why there are 2 pages
+ I have deleted
+ used
+
+理解しました。削除してください。
+をもう削除してくれましたか？ありがとうございます。
+
+ここのログイアウトボタンの下側に18pxほどのマージンを挿入出来ますか？
+-san!
+Please check it
+
+確認しました！ありがとうございます。完璧です。
+今の状態のソースコードを一回プッシュしてください。
+コミッっとコメントは「
+」にしてください。
+-san! I have pushed
+
+確認出来ました！ありがとうございました！
+-san!
+So sorry!
+I'll continue after lunch!
+
+了解！
+
+了解！
+** 
+Thank you for today
+Good bye. See you after the vacation 
+
+ありがとうございました！良い休暇をお過ごしください
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました！良い休暇を！
+ ありがとうございました！良い休暇を
+ ありがとうございました！良い休暇を
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+
+MG Shoppingのプロジェクトで依頼があります。
+仕様は今まとめていますので、お待ち下さい。
+事前情報は以下です。
+デザインのXDデータです。↓
+
+ヘッダーとフッターは以前制作して頂いたもの同じです。↓
+
+ソースコードはこちらにアップしてください。↓
+
+
+MG Shoppingのプロジェクトで依頼があります。
+仕様は今まとめていますので、お待ち下さい。
+事前情報は以下です。
+デザインのXDデータです。↓
+
+ヘッダーとフッターは以前制作して頂いたもの同じです。↓
+
+ソースコードはこちらにアップしてください。↓
+
+
+MG Shoppingのプロジェクトで依頼があります。
+仕様は今まとめていますので、お待ち下さい。
+事前情報は以下です。
+デザインのXDデータです。↓
+
+ヘッダーとフッターは以前制作して頂いたもの同じです。↓
+
+ソースコードはこちらにアップしてください。↓
+
+-san!
+Yes! I got it
+
+MG Shoppingのプロジェクトで依頼があります。
+仕様は今まとめていますので、お待ち下さい。
+事前情報は以下です。
+デザインのXDデータです。↓
+
+ヘッダーとフッターは以前制作して頂いたもの同じです。↓
+
+ソースコードはこちらにアップしてください。↓
+
+
+MG Shoppingのプロジェクトで依頼があります。
+仕様は今まとめていますので、お待ち下さい。
+事前情報は以下です。
+デザインのXDデータです。↓
+
+ヘッダーとフッターは以前制作して頂いたもの同じです。↓
+
+ソースコードはこちらにアップしてください。↓
+
+
+上記、仕様です。
+-san! Yes! Thank you so much!
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+-san!
+Please help me check!
+
+
+すみません、表現を間違えました。
+test5を戻してもください。
+-san!
+I have returned
+ ありがとうございます。
+困っているのは、「
+」の入力です。
+
+少々お待ち下さい
+ 「
+」だけ、keyupや、changeのタイミングでバリデーションが走っていない様に見えます。一度エラーが出て、selectボックスで値を変更してもエラーが出続けているので、値を変更してエラーではなかったらエラーメッセージは消したいです。
+
+selectboxだけエラーが表示されてから、値を入力してもfocusアウトしないと、エラーが消えないのです。
+イメージ（Slackの容量の問題であとで削除します。）
+-san!
+Can you give me video about it? 
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+-san!
+I don't see errors like you
+
+エラーの表示されたselect boxに値を入力して
+そこからマウスを動かさない、またはマウスを動かすがクリックしないでやってみて下さい
+-san!
+So sorry!
+Do you have a reference page?
+
+ありがとうございます。
+この件は時間がかかりそうなので保留させて下さい。
+MG Shoppingを優先してください。
+-san! Yes!
+-san!
+So sorry!
+
+I'll continue tomorrow!
+No problem?
+ ありがとうございます！
+大丈夫です。また明日！
+** 
+Thank you for today
+Good bye. See you 
+
+さようなら！また明日
+ ありがとうございました！また明日
+ ありがとうございました！また明日も宜しくお願いします。
+**
+おはようございます. 良い日を過してください. 
+
+-san!
+I'll continue MG shopping project.
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+-san!
+I have question
+What is its calculation formula!
+Or this is just fake data
+-san!
+I have question
+What is its calculation formula ?
+Or this is just fake data
+-san!
+I have question
+
+確認ありがとうございます。
+XDデザイン通りのスタイルで、ダミーデータをマークアップしてください。それで問題ないです。
+
+そういえば、「
+」をチェックボックスのラベルでWrap不要と思います。
+
+チェックボックスによるトグル操作（「
+」ボタンのactive/disable）と、「
+」「
+」のテキストリンクは同時に実装出来ないと思います。
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+
+この問題は解決したと思います。
+GitHUBのリモートリポジトリからソースコードをプルしてください。
+
+
+ここに答えがありました。
+
+ここに答えがありました。
+
+ここに答えがありました。
+
+ここに答えがありました。
+
+
+Linkbalプロジェクトで聞きたいことがあります。
+最新のソースコードをGitHUBのリポジトリからプルしてください。
+例えばこのページのvalidationのタイミングをfocus outではなくkeyupにすることは可能でしょうか。
+
+ここに答えがありました。
+
+-san!
+
+Please help me check!
+
+ありがとうございます。確認します。
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+-san!
+that's it?
+
+そこではないです。
+ 少々お待ち下さい
+
+XDのこの箇所
+下記の様に余白無しでpngを書き出すことは出来ますか？
+-san!
+I will edit it with PTS
+
+出来そうですか。宜しくお願いします。
+
+下記に上書きしてください
+
+
+
+下記に上書きしてください
+
+
+
+下記に上書きしてください
+
+
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+
+下記に上書きしてください
+
+
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+-san!
+I have to change all photos?
+
+全てではないです。
+赤い枠の写真だけです。
+
+下記に上書きしてください
+
+
+
+別件で依頼があります。
+こちらのXDデータから、赤枠のカメラの写真を余白無しで書き出すことは可能でしょうか
+
+-san!
+Is it because Slack deleted the image ... I can't understand your request
+So sorry! 
+
+delivery service確認しました。
+下記の修正をお願いします。
+*Delivery calculation modal*
+1. 「
+」button click → A modal will open to confirm whether to close the shipping charge calculation modal
+2. 「
+」click → The contents entered in the shipping charge calculation mode will be discarded and close modal → In-page link to 「サービスの流れ」section
+3. 「
+」click → Close the modal for confirmation
+TOP page
+「
+」button disable →「
+」check button when check →「
+」button active
+*TOP page*
+「
+」button disable →「
+」check button when check →「
+」button active
+*TOP page*
+「
+」button disable →「
+」check button when check →「
+」button active
+What does function it do?
+*TOP page*
+「
+」button disable →「
+」check button when check →「
+」button active
+What function it do?
+*When close shipping charge calculation modal*
+1. Open confirm whether to close the shipping charge calculation modal.
+2. 「
+」click → The contents entered in the shipping charge calculation mode will be discarded. Close modal.
+3. 「
+」click → Close the modal for confirmation
+
+リセット機能です。ごめんなさい依頼が不足してました。
+クリックしたらラジオボタンの入力値をリセットする様にしてください。
+*TOP page*
+「
+」button disable →「
+」check button when check →「
+」button active
+-san!
+Like this?
+ そうです！
+-san!
+Please help me check!
+Thank you so much!
+
+返信遅れてごめんなさい。
+移動中でした。
+確認します。
+ ノートPCで確認してますが、モーダルの上部が切れてしまいます。
+I am fixing it
+
+私のノートPCの解像度は1440x900px
+-san!
+I have completed
+
+ありがとうございます。確認します。
+
+すみません、今ノートPC環境しかないので、来週に確認します。
+ありがとうございました。
+-san! Yes!
+。
+外出先から移動致します。返信できないかもしれません。
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！来週も宜しくお願いします。
+ ありがとうございました。また来週。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます！本日も宜しくお願いします。
+
+こちらを確認しました。
+
+確認モーダルは、もしユーザーによるフォーム入力が無い場合は開かないでください。
+
+こちらを確認しました。
+一点、修正をお願いします。
+
+確認モーダルは、もしユーザーによるフォーム入力が無い場合は開かないでください。
+
+こちらを確認しました。
+一点、修正をお願いします。
+
+確認モーダルは、もしユーザーによるフォーム入力が無い場合は開かないでください。
+
+こちらを確認しました。
+一点、修正をお願いします。
+
+確認モーダルは、もしユーザーによるフォーム入力が無い場合は開かないでください。
+-san! Yes! I got it
+
+こちらを確認しました。
+一点、修正をお願いします。
+
+確認モーダルは、もしユーザーによるフォーム入力が無い場合は開かないでください。
+-san! Please help me check.
+-san! Please help me check.
+
+確認しました。修正内容が正確に伝わっていなかった様です。
+1. トップページ：「
+」クリック時→モーダル表示→フォーム入力が無いまま、モーダルを閉じる場合→確認モーダルを表示しないで、そのまま閉じる
+2. モーダル内の「
+」クリック時→フォーム入力が無いまま、モーダルを閉じる場合→確認モーダルを表示しないで、そのまま閉じるて、トップページの「サービスの流れを見る」のセクションに移動
+上記、宜しくお願いします。
+-san! I understand
+-san!
+Can you help me check?
+
+ごめんなさい、スレッドに気がつかなかった。
+確認しました。時々モーダルが閉じなくなります。
+例えば、、、
+
+入力フォーム「
+」に入力してから「
+」ボタンをクリックした時
+
+それとコンソールエラーが出てます。
+
+ が見当たらない様です。404エラーになっています。
+-san!
+Can you give me video about it
+-san!
+Can you give me video about it?
+-san!
+Can you give me video about it?
+ はい。少々お待ちください。
+ はい。少々お待ちください。
+-san!
+Can you give me video about it?
+-san!
+Can you give me video about it?
+
+動画を撮りました。
+どうやらクリック２回目で確認モーダルが表示される様です。
+-san! I have completed
+
+ありがとうございます！私は確認します。
+
+下記のテキストを一箇所直してください
+
+&lt;div class="ip"&gt;
+&lt;input type="text" value="0000000"&gt;&lt;span&gt;から&lt;/span&gt;
+&lt;div class="ip__txt"&gt;&lt;img src="./assets/img/db_arrow.png" alt=""&gt; 東京都 八王子市&lt;/div&gt;
+&lt;/div&gt;
+
+「
+」→「
+」
+-san! I have completed
+ 確認しました。OKです。
+クライアントに提出します。
+ありがとうございました。
+ 不要な画像素材もアップしてあるでしょうか。もし不要な画像素材が存在してたら削除してください。
+
+-san!
+I'm sorry! I have deleted it
+I don't know where it came from ... probably the source of an old project
+
+ありがとうございます。確認できました。
+** 
+Thank you for today
+Good bye. See you 
+
+ありがとうございました！また明日
+ ありがとうございました！また明日
+ ありがとうございました。明日も宜しくお願いします
+**
+おはようございます. 良い日を過してください. 
+ おはようございます！
+ありがとうございます。
+私は今日は午後18時に退勤予定です。
+
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+ おはようございます。今日も宜しくお願いします！
+
+linkbalプロジェクトの修正をお願いしたいです。
+ 修正箇所をPDFにまとめました。
+
+ 修正箇所をPDFにまとめました。
+
+-san!
+I got it
+-san!
+Yes!
+I got it
+-san!
+Yes!
+I got it
+-san!
+Yes!
+I got it
+ 修正箇所をPDFにまとめました。
+
+-san!
+Yes!
+I got it
+-san!
+Please help me!
+I just replaced HTML
+Can you give me text?
+-san!
+Please help me!
+I only replace HTML
+Can you give me text?
+-san!
+Please help me!
+I only replace HTML
+Can you give me text?
+-san!
+Please help me!
+I only replace HTML
+Can you give me text?
+ アスタリスクに置き換えてください。「
+」
+-san!
+Please help me!
+I only replace HTML
+Can you give me text?
+-san!
+Do you have any ideas?
+ input type paswordが近い形だと思います。
+少々お待ちください。
+
+これで大丈夫です。
+
+
+これで大丈夫です。
+
+
+これで大丈夫です。
+
+問題ないです。
+
+これで大丈夫です。
+
+
+これで大丈夫です。
+
+
+ありがとうございます。確認いたします。
+-san!
+I have completed
+Can you check help me?
+-san! I'll continue after lunch.
+
+linkbalプロジェクトの最新のソースコードをGitHUBからプルしましたか？
+競合は起きないと思いますが
+念の為、現時点で一回GitHUBのリモートリポジトリ のソースコードをプルしてください。
+-san!
+Yes! I pull it before I started to fix the error.
+
+チェックしました。完璧です。コミットしてください。
+コミットコメントは
+&gt;  [企業側] - FB対応
+でお願いします。
+-san! I have pushed
+ ありがとうございます。
+確認できました。クライアントに提出します。
+ ありがとうございます。
+確認することがきました。私はクライアントに提出します。
+ ありがとうございます。
+確認することがきました。私はクライアントに提出します。
+ ありがとうございます。
+確認することがきました。私はクライアントに提出します。
+ 追加の修正をお願いします。
+
+矢印の箇所を削除してください
+できたらコミットコメント
+&gt; 「削除する」を削除
+でプッシュしてください。
+-san!
+Please check ... if it's okay I'll push to Git
+
+-san!
+Please check ... if it's okay I'll push to Git
+
+
+ありがとうございます。確認しました。
+画面幅が狭い時も「
+」ボタンテキストが改行しない様に調節してもらえますか？
+-san!
+I have changed it.
+ 確認できました。
+ありがとうございます。
+プッシュしてください。
+-san! I have pushed.
+
+確認できました。
+ありがとうございます。
+
+今日はありがとうございました。
+また明日
+-san!
+Thank you! See you
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました！明日もよろしくお願いいたします
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします！
+ おはようございます。今日も宜しくお願いします
+
+delivery service プロジェクトの修正をお願いしたいです。
+
+トップページと、モーダル表示に関して修正がいくつかあります。
+まずはトップページの修正をお願いします。
+要件はこちらです
+
+トップページと、モーダル表示に関して修正がいくつかあります。
+まずはトップページの修正をお願いします。
+要件はこちらです
+
+トップページと、モーダル表示に関して修正がいくつかあります。
+まずはトップページの修正をお願いします。
+要件はこちらです
+
+トップページと、モーダル表示に関して修正がいくつかあります。
+まずはトップページの修正をお願いします。
+要件はこちらです
+
+トップページと、モーダル表示に関して修正がいくつかあります。
+まずはトップページの修正をお願いします。
+要件はこちらです
+
+-san!
+I have fixed "top"
+Please give me the repair file of "Modal".
+
+ありがとうございます。
+もう少しお待ちください。
+
+モーダルの修正要件PDFはこちらです。
+
+トップページの修正要件PDFの場所を変えました。
+
+
+モーダルの修正要件PDFはこちらです。
+
+トップページの修正要件PDFの場所を変えました。
+
+
+モーダルの修正要件PDFはこちらです。
+
+トップページの修正要件PDFの場所を変えました。
+
+-san! Yes! Thank you so much!
+
+モーダルの修正要件PDFはこちらです。
+
+トップページの修正要件PDFの場所を変えました。
+
+
+トップページの[1]について、テキストは画像ではなく、プレーンテキストでマークアップして、中央寄せにしてもらえるでしょうか。
+-san!
+I couldn't find this font before ... so I made it with pictures
+
+モーダルの修正要件PDFはこちらです。
+
+トップページの修正要件PDFの場所を変えました。
+
+
+理解しました。
+一時的に、
+に設定してあるフォントファミリーのままでマークアップしてもらえますか。
+-san!
+Here is the checkbox ... do I need to "css" it as "radio"?
+
+CSSはそのままで
+
+&lt;input type="checkbox" name="1" class="option-input radio"&gt;
+としてください
+としてください
+
+CSSは変えないでください
+-san!
+I have completed
+Can you help me check?
+Thank you so much! 
+
+ありがとうございます。確認します。
+
+モーダルについて、追加で修正をお願います。
+画面の高さ768pxで全て収まる様に余白などを調整して欲しいです。
+キャプチャを送ります。
+少々お待ちください。
+こちらです
+
+こちらです
+
+こちらです
+
+こちらです
+
+こちらです
+
+
+確認しました。下記の修正をお願いします。
+1. FB-1.pdf - [1] ：
+
+2. FB-2.pdf - [2]：チェックUIとテキストの高さを合わせて下さい
+-san!
+I have completed
+
+ありがとうございます。確認します。
+
+ここを修正してください
+
+-san!
+Can you help me check?
+
+チェックしました。完璧です。ありがとうございました
+クライアントに提出します。
+
+すみません、あと１つCSSの高さの指定を修正してください
+
+style.css:667
+media (max-height: 865px)
+.c-modal .modal-content .box-over {
+height: 306px;
+-san! I have changed
+
+ありがとうございます。
+確認できました！
+
+リンクバルプロジェクトの修正をお願いしたいです。
+「
+」テーブルに「
+」ブロックを追加してください。
+
+イメージを送りますので、少々お待ちください。
+
+イメージとテキストはこちらです。
+
+
+イメージとテキストはこちらです。
+
+
+イメージとテキストはこちらです。
+
+
+イメージとテキストはこちらです。
+
+-san! I have completed
+
+イメージとテキストはこちらです。
+
+
+ありがとうございます。
+確認します。
+
+追加で修正をお願いしたいです。
+下記のページに
+
+このページと同じ「
+」のブロックを追加してください。
+
+このページと同じ「
+」のブロックを追加してください。
+
+
+自動翻訳が少し変です。
+↑「
+」ブロックを追加してください。
+
+確認しました。リンクスタイルを統一したいです。
+
+text-decoration: underline;
+color: #171c61;
+
+
+-san!
+I have completed
+
+ありがとうございます。
+確認します。
+
+確認できました。ありがとうございます。
+下記のコミットコメントでプッシュしてください。
+&gt; [ユーザ側][管理側]に「参考資料」UIを追加
+-san! I have pushed.
+ ありがとうございます。確認できました。
+クライアントに提出します。
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました。明日もよろしくお願いいたします
+
+ありがとうございました。また明日
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします
+
+MG shoppingプロジェクトのLPコーディングをお願いしたいです。
+-san! Yes! I got it
+
+デザインXDはこちらです
+
+仕様は下記です
+1. 「
+」ボタンにリンクを設定（ target brank ）：
+2. 埋め込み動画の場所：
+3. テストサーバーの場所：
+4. 共通ヘッダー・フッターはここと同じ：
+以上です。宜しくお願いします。
+
+デザインXDはこちらです
+
+仕様は下記です
+1. 「
+」ボタンにリンクを設定（ target brank ）：
+2. 埋め込み動画の場所：
+3. テストサーバーの場所：
+4. 共通ヘッダー・フッターはここと同じ：
+以上です。宜しくお願いします。
+
+デザインXDはこちらです
+
+仕様は下記です
+1. 「
+」ボタンにリンクを設定（ target brank ）：
+2. 埋め込み動画の場所：
+3. テストサーバーの場所：
+4. 共通ヘッダー・フッターはここと同じ：
+以上です。宜しくお願いします。
+
+デザインXDはこちらです
+
+仕様は下記です
+1. 「
+」ボタンにリンクを設定（ target brank ）：
+2. 埋め込み動画の場所：
+3. テストサーバーの場所：
+4. 共通ヘッダー・フッターはここと同じ：
+以上です。宜しくお願いします。
+-san!
+Yes! I'll  coding it
+
+デザインXDはこちらです
+
+仕様は下記です
+1. 「
+」ボタンにリンクを設定（ target brank ）：
+2. 埋め込み動画の場所：
+3. テストサーバーの場所：
+4. 共通ヘッダー・フッターはここと同じ：
+以上です。宜しくお願いします。
+-san!
+I have completed
+Please help me check!
+
+ありがとうございます。確認します。
+
+確認しました。完璧と思います。
+「
+」ボタンのリンク設定や、メインビジュアルの画像サイズをフレキシブルに処理してくれてありがとうございました。
+私はクライアントに提出します。
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました！明日もよろしくお願いいたします
+
+今日はありがとうございました
+また明日。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+
+MG Shoppingプロジェクトの修正をお願いしたいです。
+
+下記のサイトの「
+」「
+」ボタンをマウスオーバーした時のスタイルを、
+の「
+」「
+」ボタンに適応してほしいです。
+
+下記のサイトの「
+下記のサイトの「
+」「
+」「
+」ボタンをマウスオーバーした時のスタイルを、
+」ボタンをマウスオーバーした時のスタイルを、
+の「
+」「
+の「
+」ボタンに適応してほしいです。
+
+」「
+」ボタンに適応してほしいです。
+
+下記のサイトの「
+」「
+」ボタンをマウスオーバーした時のスタイルを、
+の「
+」「
+」ボタンに適応してほしいです。
+
+下記のサイトの「
+」「
+」ボタンをマウスオーバーした時のスタイルを、
+の「
+」「
+」ボタンに適応してほしいです。
+
+-san! I have completed
+ ありがとうございます！これから確認します。
+
+完璧です！ありがとうございました。私はクライアントに提出します。
+
+追加をお願いします。で修正動画のURLを修正してください。
+
+ ↑私が修正しました。大丈夫です。
+-san! Thank you so much!
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！来週も宜しくお願いします
+** 
+おはようございます. 良い日を過してください. 
+ おはようございます。今週も宜しくお願いします！
+ お早うございます。本日もよろしくお願いいたします
+-san!
+Thank yoy for information.
+Can you tell me about the new project
+Does it have any new technology?
+
+フロントエンドの環境について考えています。
+決まったら連絡します。
+
+新プロジェクトの事前情報を共有します。
+
+女性が妊娠しているカップルの為の結婚式情報検索サービスサイトのリニューアルです。既存サイトは下記です。
+
+
+フロントエンド環境は、テンプレートエンジンに
+を採用しようと思います。テンプレートエンジンの導入により、下記のメリットを見込んでいます。
+1. ファイルインクルード：ヘッダー・フッター・共通ブロックを一元管理
+2. 変数の使用：ページタイトルなどのページ固有データをJSON形式で管理
+3. 繰り返し処理 ：for loopでテーブルダミーデータなど完結に表記
+4. テンプレートとデータの分離：条件分岐
+CSSプロセッサーはSASSを導入しようと思います。
+CSSフレームワーク、Bootstrap４も入れようと思ってます。
+現状は以上です。
+
+新プロジェクトの事前情報を共有します。
+
+女性が妊娠しているカップルの為の結婚式情報検索サービスサイトのリニューアルです。既存サイトは下記です。
+
+
+フロントエンド環境は、テンプレートエンジンに
+を採用しようと思います。テンプレートエンジンの導入により、下記のメリットを見込んでいます。
+1. ファイルインクルード：ヘッダー・フッター・共通ブロックを一元管理
+2. 変数の使用：ページタイトルなどのページ固有データをJSON形式で管理
+3. 繰り返し処理 ：for loopでテーブルダミーデータなど完結に表記
+4. テンプレートとデータの分離：条件分岐
+CSSプロセッサーはSASSを導入しようと思います。
+CSSフレームワーク、Bootstrap４も入れようと思ってます。
+現状は以上です。
+
+新プロジェクトの事前情報を共有します。
+
+女性が妊娠しているカップルの為の結婚式情報検索サービスサイトのリニューアルです。既存サイトは下記です。
+
+
+フロントエンド環境は、テンプレートエンジンに
+を採用しようと思います。テンプレートエンジンの導入により、下記のメリットを見込んでいます。
+1. ファイルインクルード：ヘッダー・フッター・共通ブロックを一元管理
+2. 変数の使用：ページタイトルなどのページ固有データをJSON形式で管理
+3. 繰り返し処理 ：for loopでテーブルダミーデータなど完結に表記
+4. テンプレートとデータの分離：条件分岐
+CSSプロセッサーはSASSを導入しようと思います。
+CSSフレームワーク、Bootstrap４も入れようと思ってます。
+現状は以上です。
+
+新プロジェクトの事前情報を共有します。
+
+女性が妊娠しているカップルの為の結婚式情報検索サービスサイトのリニューアルです。既存サイトは下記です。
+
+
+フロントエンド環境は、テンプレートエンジンに
+を採用しようと思います。テンプレートエンジンの導入により、下記のメリットを見込んでいます。
+1. ファイルインクルード：ヘッダー・フッター・共通ブロックを一元管理
+2. 変数の使用：ページタイトルなどのページ固有データをJSON形式で管理
+3. 繰り返し処理 ：for loopでテーブルダミーデータなど完結に表記
+4. テンプレートとデータの分離：条件分岐
+CSSプロセッサーはSASSを導入しようと思います。
+CSSフレームワーク、Bootstrap４も入れようと思ってます。
+現状は以上です。
+
+新プロジェクトの事前情報を共有します。
+
+女性が妊娠しているカップルの為の結婚式情報検索サービスサイトのリニューアルです。既存サイトは下記です。
+
+
+フロントエンド環境は、テンプレートエンジンに
+を採用しようと思います。テンプレートエンジンの導入により、下記のメリットを見込んでいます。
+1. ファイルインクルード：ヘッダー・フッター・共通ブロックを一元管理
+2. 変数の使用：ページタイトルなどのページ固有データをJSON形式で管理
+3. 繰り返し処理 ：for loopでテーブルダミーデータなど完結に表記
+4. テンプレートとデータの分離：条件分岐
+CSSプロセッサーはSASSを導入しようと思います。
+CSSフレームワーク、Bootstrap４も入れようと思ってます。
+現状は以上です。
+-san!
+Do you have the source code?
+
+何のソースコードですか？
+-san!
+I want a template...
+Lijke this....
+Can I structure it myself?
+I want to code based on a template ... to make it easier for you to understand ...
+-san!
+I want a template...
+Like this....
+-san!
+I want a template...
+Like this....
+
+環境設定は私がする予定でいます。
+なので、まだテンプレートは無いです。
+CSSフレームワークはBootstrap4をSasssで使いたいです。
+-san!
+I want a template...
+Like this....
+-san!
+I want a template...
+Like this....
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！
+ ありがとうございました！次は明後日出社します。宜しくお願いします。
+
+ありがとうございました！明日は日本チームはお休みです。
+新プロジェクトのフロントエンドが今夜共有出来そうでしたらするようにします。（出来ないかも知れない）
+水曜日にまた会いましょう
+////////////////////////////////////////
+Bin san
+PJ「マタニティプロジェクト」のGitHUBにコラボレーターとして招待しました。
+
+のあるディレクトリでターミナルコマンド
+を打つと
+ファイルがコンパイルされ
+が生成されます。
+テンプレートはまだ未完成です。
+
+は導入済みです。
+以上です。
+////////////////////////////////////////
+Bin san
+PJ「マタニティウェディング」のGitHUBにコラボレーターとして招待しました。
+ソースコードをプルし、
+
+////////////////////////////////////////
+Bin san
+PJ「マタニティウェディング」のGitHUBにコラボレーターとして招待しました。
+ソースコードをプルし、
+
+のあるディレクトリ
+↓
+ターミナルコマンド 
+のあるディレクトリ
+↓
+ターミナルコマンド 
+をタイプ
+↓
+
+をタイプ
+↓
+
+ファイルがコンパイルされ
+が生成される
+
+テンプレートはまだ未完成です。
+
+ファイルがコンパイルされ
+は導入済みです。
+以上です。
+が生成される
+
+テンプレートはまだ未完成です。
+
+は導入済みです。
+以上です。
+////////////////////////////////////////
+Bin san
+PJ「マタニティウェディング」のGitHUBにコラボレーターとして招待しました。
+ソースコードをプルし、
+
+のあるディレクトリ
+↓
+ターミナルコマンド 
+をタイプ
+↓
+
+ファイルがコンパイルされ
+が生成される
+
+テンプレートはまだ未完成です。
+
+は導入済みです。
+以上です。
+////////////////////////////////////////
+Bin san
+プロジェクト「マタニティウェディング」のGitHUBリポジトリにコラボレーターとして招待しました。
+
+ソースコードをプルし、
+
+のあるディレクトリ
+↓
+ターミナルコマンド 
+をタイプ
+↓
+
+ファイルがコンパイルされ
+が生成される
+
+テンプレートはまだ未完成です。
+
+は導入済みです。
+
+現状できているのはここまでです。
+お知らせまで。 （編集済み）
+**
+おはようございます. 良い日を過してください. 
+** 
+Thank you for today
+Good bye. See you 
+
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+
+下記の修正をお願いしたいです。
+
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+-san! Yes! I got it
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+
+1. モーダル内のフォームUIデザインをこの様にして下さい。プレースフォルダーのテキストサイズは14pxぐらいにして下さい。：
+2. 「
+」はデフォルトで
+にして下さい。（トップページとモーダルにあります。）
+以上です。
+-san! I have completed
+-san! I have completed
+
+ありがとうございます。私は確認します。
+
+「
+」の「
+」、「
+」の「
+」が見えない様です。
+
+
+「
+」の「
+」、「
+」の「
+」が見えない様です。
+
+
+「
+」の「
+」、「
+」の「
+」が見えない様です。
+
+-san!
+Please check again
+-san!
+Please check again
+
+確認しました。「出発」「到着」を太字にして下さい。
+-san! I have completed
+
+確認しました。完璧です！ありがとうございました。
+** 
+Thank you for today
+Good bye. See you 
+
+ありがとうございました！また明日
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました！明日もよろしくお願いいたします
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします
+ お早うございます
+。
+宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします！
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました
+！また明日。
+ お疲れ様です。明日もよろしくお願いいたします
+ ありがとうございました。明日も宜しくお願いします
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！
+ ありがとうございました！また来週もよろしくお願いします。
+ ありがとうございました
+
+また来週。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました。明日もよろしくお願いいたします！
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました
+また明日。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします
+ おはようございます。本日もよろしくお願いいたします
+
+以前対応してもらったエブリカラーデイズの修正とコンテンツの追加をお願いしたいです。
+
+指示書は今から送ります。
+-san! Yes! I got it
+
+PC psd：
+SP psd（長いので、2つに分けています）
+1：
+2：
+指示書：
+
+指示書を確認してもらって、どれくらいで対応できそうか教えてくれますか？急ぎというわけではなく、お客さんに日数を伝えたいからです。
+宜しくお願いします。
+-san!
+I will finish in today
+ ありがとうございます！宜しくお願いします。
+分からないことがあったら聞いてください。
+-san!
+After opening the PSD file my computer was very lag 
+
+Beacause to the large PSD file ... I will coding very slowly
+Is your computer laggy? after open PSD file
+ そうですね、かなり重いので...ごめんなさい。
+二つに分けてもすごく重いのです
+-san!
+Sorry! I'll continue after lunch.
+
+もし知っていたら教えてください。
+この画面のカルーセルスライダー箇所を過去に実装しましたか？Jqueryプラグイン
+が使われている様です。
+
+
+もし知っていたら教えてください。
+この画面のカルーセルスライダー箇所を過去に実装しましたか？Jqueryプラグイン
+が使われている様です。
+
+
+もし知っていたら教えてください。
+この画面のカルーセルスライダー箇所を過去に実装しましたか？Jqueryプラグイン
+が使われている様です。
+
+
+もし知っていたら教えてください。
+この画面のカルーセルスライダー箇所を過去に実装しましたか？Jqueryプラグイン
+が使われている様です。
+
+-san!
+I'm sorry!
+I do not know about it!
+ 回答ありがとうございます。問題ないです。
+
+もし知っていたら教えてください。
+この画面のカルーセルスライダー箇所を過去に実装しましたか？Jqueryプラグイン
+が使われている様です。
+
+
+こちらの修正をお願いしたいです。
+
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+-san!
+Can you let me know?
+You inform customers how many days will complete?
+because i need to do project by Ms Chie-san!
+ ビンさんが今日中に対応してもらえるとのことだったので
+余裕を持って明日中にお渡しするとお伝えしました！
+大丈夫そうですか？
+ 明日お客さんに渡したいと思っています。
+Yes! Thank you very much 
+Yes! Thank you very much 
+-san!
+Do you design?
+PSD
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+-san! Yes! I got it
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+
+
+1. 項目追加：「納車先情報  |　個人宅へ納車する*」 
+2. 注釈削除：「※個人宅納車手数料込み」
+以上です。
+-san!
+I have completed
+-san!
+Do you see this message ? 
+ 今見ました
+
+私は確認しました。
+1. ラジオボタンラベルは「
+」「
+」にしてください。
+2. ラジオボタン機能が有効で無いようです。
+3. 「
+〜」のチェックボックスはデフォルトでチェックを入れた状態だったと思います。
+-san!
+I have completed 
+ and 
+
+=======================
+
+
+I remember that you seem to have originally requested to be "checked".
+
+ありがとうございます。
+3は、デフォルトはチェック状態にできますか？
+
+全て修正されているのを確認できました。
+ありがとうございました
+-san!
+all okay?
+No problem?
+
+問題なしです！
+-san!
+I'm sorry! I have completed PC 90%
+I'll continue tomorrow
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日もよろしくお願いいたします
+ ありがとうございます！宜しくお願いします。
+ ありがとうございました！明日も宜しくお願いします。
+ ありがとうございました
+また明日。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+
+今、何か作業してますか？
+昨日直してくれたMG ショッピングプロジェクトの修正をお願いしたいです。
+
+-SAN!
+I'm a project of Ms Hayami Daitoku -san!
+-SAN!
+I'm a project of Ms Makiko Shirakawa  -san!
+-SAN!
+I'm a project of Ms Makiko Shirakawa  -san!
+-SAN!
+I'm a project of Ms Makiko Shirakawa-san!
+-san!
+Is it urgent?
+-SAN!
+I'm a project of Ms Makiko Shirakawa  -san!
+ 少し急ぎです。
+ボリュームの少ない修正内容です。
+-san! Yes! Please give for me!
+
+白河さんに確認します。
+モーダルの「
+〜」チェックが、二度目以降に外れてしまうので、チェック状態を維持する様にして欲しいです。
+-san! So sorry!
+I have completed
+
+確認できました。ありがとうございました。
+クライアントに提出します。
+-san!
+I have question!
+Seems like it just changed here?
+-san!
+I have question!
+Seems like it only changed here?
+-san!
+I have question!
+Seems like it only changed here?
+-san!
+Have you sent it to customers yet ... I see an error
+-san!
+Have you sent it to customers yet? ... I see an error
+-san!
+Have you sent it to customers yet? ... I see an error
+
+今のそれぞれのタイトルのフォントサイズを↓のように変更してください。
+PC：22px→26px
+SP：15px→18px
+-san!
+Have you sent it to customers yet? ... I see an error
+-san!
+yes it is 
+ 大丈夫そうですか？
+I changed a little  
+-san!
+No problem... Please don't worry!
+ ありがとうございます！宜しくお願いします。
+-san!
+Have you sent it to customers yet? ... I see an error
+ 今、気が付いた。
+私はスレッドの着信にいつも気がつかない。。。
+
+解消したエラーはJSのエラーでしたか？
+-san!
+Yes! It's a JS error
+
+お知らせありがとうございます。
+私はクライアントに伝えて、修正版を渡す様にします。
+-san!
+I have complete PC ver
+SP completed 60%
+I'll continue after lunch!
+Please don't worry! 
+ ありがとうございます！よろしくお願いします。
+-san!
+
+I have completed 
+
+Please help me check!
+ ありがとうございます！
+私は確認します。
+
+The red frame is on the left, can you center it?
+-san!
+I have completed
+ ありがとうございます！私は確認します。
+
+The red frame is on the left, can you center it?
+ OKです！あと、SPのこの2点を修正してください。
+
+The red frame is on the left, can you center it?
+
+The red frame is on the left, can you center it?
+ ごめんなさい。これも確認してください。
+-san!
+I have completed
+ ありがとうございます！私は確認します。
+ ごめんなさい。
+追加してもらった2人分、改行を消してもらえますか？
+他は完璧です。
+-san! I have completed
+ ありがとうございます！
+私はお客さんに渡します。
+-san!"
+Sorry for the long wait
+Because this project is very much a small detail ... and a lot of pictures
+ 全く問題ありません！
+ありがとうございます。
+
+ごめんなさい。クライアントから追加の依頼がありました。
+これを確認してもらいたいです。
+
+ リンク先は全て同じで大丈夫です。
+-san! Yes! i got it
+-san!
+I have completed
+ ありがとうございます！私は確認します。
+
+完璧です！ありがとうございます。
+ ごめんなさい！ここだけ、もう少しボタンの下に余白をつけてもらえますか？
+-san!
+Please help me check!
+ ありがとうございます！私は確認します。
+ 完璧です！ありがとうございます。私はクライアントに渡します。
+** 
+Thank you for today
+Good bye. See you 
+ ありがとうございました！明日もよろしくお願いします
+ ありがとうございました
+また明日。
+ ありがとうございました！
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。本日も宜しくお願いします！
+
+おはようございます。
+昨日作業してもらった
+
+こちら、クライアントからOKが出たので、案件終了です。
+ありがとうございました！
+-san!
+Yes! Thank you so much!
+Thank you for today
+Good bye. See you 
+ ありがとうございました
+また明日。
+ ありがとうございました。明日も宜しくお願いします！
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いします
+ おはようございます。今日も宜しくお願いします
+ 
+新規「ママ婚」のレスポンシブ制作をお願いいたします。
+SPはまだご用意しておりませんので、PCを先に進めてください。
+キービジュアル写真は３枚をフェードイン＆アウトで想定してます。
+テストサーバーに関しましては、後ほど前田さんからご説明あると思います。
+
+PSD
+
+
+PC用のfirst viewに関するリクエスト
+
+
+カラーCCライブラリ
+
+
+カラーチャート
+
+
+
+グリッドシステムで作成してませんので、
+ブレイクポイントで表示がおかしな所あれば随時提案させてください。
+-san!
+Does this project use "pug"?
+
+Pug.js を使います。
+今環境を整えています。お待ちください。
+午後に環境の説明の為のMTGをさせて頂く様に永田さんに伝えてあります。
+-san!
+Yes! I got it
+-san
+Thank you so much!
+
+フロントエンド環境が整いました。
+最新のGitHUBリポジトリをプルしてください。
+プレビュー環境はこちらです。
+
+詳細な説明は、午後4時のMTGでします。
+宜しくお願いします。
+
+MTGありがとうございました。
+こちらの追加修正を先に依頼したいです。
+
+
+XDの赤枠の商品を追加してください。
+
+リンク先は下記です。
+KT-DR01：
+ZDR026：
+HDR203G：
+宜しくお願いします。
+
+XDの赤枠の商品を追加してください。
+
+リンク先は下記です。
+KT-DR01：
+ZDR026：
+HDR203G：
+宜しくお願いします。
+
+XDの赤枠の商品を追加してください。
+
+リンク先は下記です。
+KT-DR01：
+ZDR026：
+HDR203G：
+宜しくお願いします。
+
+XDの赤枠の商品を追加してください。
+
+リンク先は下記です。
+KT-DR01：
+ZDR026：
+HDR203G：
+宜しくお願いします。
+
+上記の修正の元HTMLをテストサーバーにUPし忘れていました。
+少々お待ちください。
+
+XDの赤枠の商品を追加してください。
+
+リンク先は下記です。
+KT-DR01：
+ZDR026：
+HDR203G：
+宜しくお願いします。
+
+UPしました。
+-san! I have completed
+
+ありがとうございます。私は確認します。
+
+ 商品 KT-DR01 の商品写真の影を付けてください。
+-san! I have completed
+ ありがとうございます。私は確認します。
+
+完璧です。ありがとうございました。
+-san!
+I can't copy the text...
+(Header)
+
+私は確認します。
+
+そこはリンクで読み込まれている様です。
+レイヤー「header_pc」をダブルクリックすると読み込み元のアートボードが開きました。
+
+上記のPSDの参照の仕方あってますか？
+  あってます！ダブルクリックでheader用のPSD開いてください。
+同じディレクトリにPSDファイルがないとリンクが読み込まれないかもしれません
+  ちなみにhoverアクション時のデザインはまだなので、
+出来次第共有いたします。
+
+ありがとうございます！了解しました。
+-san!
+Yes! Thank you so much!
+-san!
+How to get these 2 files?
+ すいません、フォルダでお渡ししてませんでした
+
+
+ すいません、フォルダでお渡ししてませんでした
+
+
+ すいません、フォルダでお渡ししてませんでした
+
+
+
+Thank you for today
+Good bye. See you 
+ ありがとうございました！来週もよろしくお願いいたします
+ ありがとうございました！来週もよろしくお願いします。
+
+ありがとうございました。また来週。
+
+ありがとうございました。また来週。
+
+ありがとうございました。また来週。
+**
+おはようございます. 良い日を過してください. 
+-san!
+I have completed PC 50%
+I'll continue tomorrow
+
+Good bye. See you 
+** 
+おはようございます. 良い日を過してください. 
+ おはようございます。ごめんなさい、昨日は日本の祝日でした。
+今日も宜しくお願いします
+ お早うございます
+ おはようございます。本日もよろしくお願いいたします
+
+報告ありがとうございます！
+-san!
+Can you help me?
+Are there many "breakpoints" should I keep the same?
+
+変更したいですか？
+ and 
+ I changed it
+
+問題ないです。確認ありがとうございます。
+-san!
+can I change everything?
+
+はい。どの様に変更しますか？
+-san!
+I'm research it
+
+はい、理解しました。
+変更することは問題ないです。
+-san!
+Do you have any ideas for the 
+?
+
+私は確認します。
+先に進んでください。
+-san!
+By the way, is there a way to add 
+ only to the Top page?
+The remaining pages do not add 
+
+
+の条件分岐で、
+ をトップページのみに読み込む事ができます。
+条件分岐を私が作ります。
+-san!
+I have completed but there are 2 problems
+1. menu
+2. Separate js for each page
+I would like to consult from you 
+
+今の状態をGitHUBにプッシュしてください。
+test5にもUPしてください。
+-san!
+
+I have pushed
+-san!
+
+and I have pushed
+-san!
+
+and I have pushed
+-san!
+
+and I have pushed
+
+ありがとうございます。
+確認できました。
+二箇所修正してください
+①
+&gt; 1. menu
+
+
+↓
+
+
+②メインビジュアルのテキストをテキストタイプでマークアップしてください。
+また、テキスト「
+」は今後「
+
+ありがとうございます。
+確認できました。
+二箇所修正してください
+①
+&gt; 1. menu
+
+
+↓
+
+」に統一してください。
+
+
+②メインビジュアルのテキストをテキストタイプでマークアップしてください。
+また、テキスト「
+」は今後「
+」に統一してください。
+
+
+ありがとうございます。
+確認できました。
+二箇所修正してください
+①
+&gt; 1. menu
+
+
+↓
+
+
+②メインビジュアルのテキストをテキストタイプでマークアップしてください。
+また、テキスト「
+」は今後「
+」に統一してください。
+
+
+ありがとうございます。
+確認できました。
+二箇所修正してください
+①
+&gt; 1. menu
+
+
+↓
+
+
+②メインビジュアルのテキストをテキストタイプでマークアップしてください。
+また、テキスト「
+」は今後「
+」に統一してください。
+
+-san!
+Do you see under the width 1025 the menu will be broken
+
+①の修正で、崩れる時は1008pxになると思います。
+
+①の修正で、崩れる時は~1008~pxになると思います。
+
+①の修正で、崩れる時は~1008~pxになると思います。
+1012px
+
+①の修正で、崩れる時は~1008~pxになると思います。
+Can I reduce font-size, button size, ...?
+タブレット縦のブレークポイントを1024pxと想定して、1024以下をにSPデザインを適応してください。
+キャプチャの表示サイズを80%から100% にしてみてください
+
+①の修正で、崩れる時は~1008~pxになると思います。
+-san!
+Thank you so much!
+I think the menu under 1024 width will be -&gt; SP
+All the rest of the width less than 767 will be -&gt; SP
+
+はい、わかりました。
+宜しくお願いします。
+-san!
+I have completed
+
+
+テキストを修正してください。
+
+
+↓
+
+
+I have changed
+
+ありがとうございます。
+さらに、タイトルの文字間隔をPSDデザインの様に広くしてください。
+
+数値は、多分
+ 
+-san!
+I have completed
+with "perfect pixel"
+
+ あ、、、タイトルは.
+の事です。
+-san!  Please help me check!
+
+私は確認しました。
+PSDデザインによるとトップページのほとんどのテキストが
+
+
+の様です。
+
+明日でも大丈夫ですよ。
+修正は明日行っても問題ありません。
+-san!
+I changed it
+-san!
+I have pushed
+**
+Thank you for today
+Good bye. See you 
+ ありがとうございました。
+私は確認して、明日フィードバックします。
+ ありがとうございました。明日も宜しくお願いします！
+ ありがとうございました。明日もよろしくお願いいたします
+
+お早うございます。
+昨日のPCトップページの文字間隔について、今一度丁寧にPSDを確認して、調整してもらえますか？
+クリティカルではありませんが、サイトのトップページはサイトの印となり、ユーザーの入り口となる為、文字は読み易くして欲しいからです。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+
+-san!
+Please help me check!
+I follow the "perfect pixel".
+I almost see in PSD 
+ thing is 1
+But doing it with `` perfect fixel '' has a lot of value
+-san!
+I almost see in PSD 
+ thing is 1
+But doing it with `` perfect fixel '' has a lot of value
+-san!
+I almost see in PSD 
+ thing is 1
+But doing it with `` perfect fixel '' has a lot of value
+-san!
+I almost see in PSD 
+ thing is 1
+But doing it with `` perfect fixel '' has a lot of value
+
+ありがとうございます。
+私は確認します。
+-san!
+I almost see in PSD 
+ thing is 1
+But doing it with `` perfect fixel '' has a lot of value
+
+
+の指定について、Bootstrapで指定されている下記が初期値です。
+
+fiel : _rfs.scss
+
+// 1 rem = $rfs-rem-value px
+$rfs-rem-value: 16 !default;
+そして、Chromeの拡張機能を利用すると便利です。
+
+そして、Chromeの拡張機能を利用すると便利です。
+
+そして、Chromeの拡張機能を利用すると便利です。
+
+そして、Chromeの拡張機能を利用すると便利です。
+
+-san!
+font-size, line-height --&gt; rem ?
+そして、Chromeの拡張機能を利用すると便利です。
+
+
+remでお願いします。不可能な場合は相談してください。
+理由は下記です。
+1. Bootstrap4のテキストサイズはremで構築されている
+2. もし基本文字サイズを変更する場合、基本文字サイズを変換する事で全てのサイズのテキストに反映される
+-san!
+I converted all font-size to rem
+Thank you for teaching me
+
+どういたしまして。
+
+　について確認指定ます。
+フィードバックするので少々お待ちください。
+
+どういたしまして。
+
+　について確認しています。
+フィードバックするので少々お待ちください。
+
+どういたしまして。
+
+　について確認しています。
+フィードバックするので少々お待ちください。
+
+どういたしまして。
+
+　について確認しています。
+フィードバックするので少々お待ちください。
+
+どういたしまして。
+
+　について確認しています。
+フィードバックするので少々お待ちください。
+
+PDFの
+に修正をお願いします。
+-san!
+I have completed
+by the way
+How do you know the values ​​of "letter-spacing"?
+While PSD has a value of "100"
+
+ありがとうございます。
+私は確認します。
+&gt; While PSD has a value of "100"
+勝手に1pxあたり100%（=1px）の文字間隔と考えていました。
+
+申し訳ありません、下記の様に修正してください。
+
+letter-spacing:
+ 0.062rem　→ 0 .1rem
+0.137rem　→  0.22rem
+0.125rem　→  0.2rem
+
+そして「MATANITY WEDDING」については、PSDによって文字間隔が調整されているので、CSSで再現は難しそうです。
+考えます。
+
+申し訳ありません、下記の様に修正してください。
+
+申し訳ありません、下記の様に修正してください。
+
+申し訳ありません、下記の様に修正してください。
+
+申し訳ありません、下記の様に修正してください。
+
+letter-spacing:
+ 0.062rem　→ 0 .1rem
+0.137rem　→  0.22rem
+0.125rem　→  0.2rem
+
+そして「MATANITY WEDDING」については、PSDによって文字間隔が調整されているので、CSSで再現は難しそうです。
+考えます。
+
+申し訳ありません、下記の様に修正してください。
+
+letter-spacing:
+ 0.062rem　→ 0 .1rem
+0.137rem　→  0.22rem
+0.125rem　→  0.2rem
+
+そして「MATANITY WEDDING」については、PSDによって文字間隔が調整されているので、CSSで再現は難しそうです。
+考えます。
+
+「MATANITY WEDDING」について私は少し考えます。少々お待ちください。
+
+申し訳ありません、下記の様に修正してください。
+
+申し訳ありません、下記の様に修正してください。
+
+申し訳ありません、下記の様に修正してください。
+
+letter-spacing:
+ 0.062rem　→ 0 .1rem
+0.137rem　→  0.22rem
+0.125rem　→  0.2rem
+
+そして「MATANITY WEDDING」については、PSDによって文字間隔が調整されているので、CSSで再現は難しそうです。
+考えます。
+
+申し訳ありません、下記の様に修正してください。
+
+letter-spacing:
+ 0.062rem　→ 0 .1rem
+0.137rem　→  0.22rem
+0.125rem　→  0.2rem
+
+そして「MATANITY WEDDING」については、PSDによって文字間隔が調整されているので、CSSで再現は難しそうです。
+考えます。
+
+申し訳ありませんが「MATANITY WEDDING」だけは画像にしてください。
+そして、
+ でマークアップしてください。
+-san!
+Sorry for the late reply
+I have just finished lunch
+I have completed
+
+私は確認しました。
+ありがとうございました。とても綺麗だと思います。
+GitHUBにプッシュしてください。
+-san!
+I have pushed
+
+確認できました。ありがとうございました。
+次はトップページのSPのコーディングをお願い致します。
+大徳さんからの連絡を待っていてください。
+
+お疲れ様です。
+ビンさんがPCのコーディングを終えました。
+プレビューはこちらからご覧になれます。
+
+何か気になる点などあれば、ビンさんに修正依頼して頂けましょうか。
+そしてSPの方も出来上がり次第、ビンさんに投げてください。
+宜しくお願いします。
+  お疲れ様です。
+PCのコーディングありがとうございました！
+SPのデータが出来ましたので、ご確認お願いします。
+
+・SP top image
+
+・navi open image
+
+・PSD
+前回と同名PSD内へSP等も追加して上書きしております。
+パーツも分割して格納しております。
+
+
+  有難うございます
+対応します。
+  お疲れ様です。
+PCのコーディングありがとうございました！
+SPのデータが出来ましたので、ご確認お願いします。
+
+・SP top image
+
+・navi open image
+
+・PSD
+前回と同名PSD内へSP等も追加して上書きしております。
+パーツも分割して格納しております。
+
+
+  有難うございます
+対応します。
+  お疲れ様です。
+PCのコーディングありがとうございました！
+SPのデータが出来ましたので、ご確認お願いします。
+
+・SP top image
+
+・navi open image
+
+・PSD
+前回と同名PSD内へSP等も追加して上書きしております。
+パーツも分割して格納しております。
+
+
+  有難うございます
+対応します。
+  お疲れ様です。
+PCのコーディングありがとうございました！
+SPのデータが出来ましたので、ご確認お願いします。
+
+・SP top image
+
+・navi open image
+
+・PSD
+前回と同名PSD内へSP等も追加して上書きしております。
+パーツも分割して格納しております。
+
+
+  有難うございます
+対応します。
+-san!
+Yes! Thank you so much!
+  お疲れ様です。
+PCのコーディングありがとうございました！
+SPのデータが出来ましたので、ご確認お願いします。
+
+・SP top image
+
+・navi open image
+
+・PSD
+前回と同名PSD内へSP等も追加して上書きしております。
+パーツも分割して格納しております。
+
+
+  有難うございます
+対応します。
+ ありがとうございます。
+SPの方はKV写真をSP用に変えるかもしれません。（写真とテキストのバランスで）
+メニュー内の項目など、後ほど変更になってくるかもしれません。
+お手数ですが、ご対応よろしくお願いいたします
+
+I have completed 80% SP
+I'll continue tomorrow
+Thank you for today
+Good bye see you tomorrow 
+ ありがとうございました。明日も宜しくお願いします
+
+ありがとうございます！
+さようなら、また明日
+ ありがとうございます！明日もよろしくお願いいたします。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いします
+ おはようございます。今日も宜しくお願いします！
+
+今私はソースコードのチェックをしています。
+かなりHTMLのタグにCSSスタイルが適応されているので修正します。
+どの様にHTMLのタグにCSSスタイルを適応せずにマークアップするか実際に私もやってみます。
+
+トップページPCのHTML由来CSSスタイルを廃止してプッシュしました。
+
+
+ページごとまたは、共通で読み込むCSSとJSファイルの変数データ（_meta/pug）を配列化しました。
+
+Googleのタグマネージャーをヘッダーとフッターのテンプレートに挿入してプッシュしました。
+私の今日の更新はここまでです。
+全てプルして（もしコンフリクトが発生したら解決して）から、本日作業分をプッシュする様にしてください。
+-san! Yes! Thank you so much!
+↑GitHUBのリモートリポジトリについてです。
+宜しくお願います。
+-san!
+
+I have completed
+
+ありがとうございます。私は確認します。
+「
+」の下の価格がはみ出て見えました。
+検証端末はiPhone Xです。
+どうやらFont familyの問題の様に見えます。
+
+お疲れ様です。上のキャプチャの「通常価格より90万〜」の見出しはデバイスによって
+中途半端なところで改行されて問題ないでしょうか。
+SPの時は「通常価格より」で改行するいたしましょうか。
+
+お疲れ様です。上のキャプチャの「
+」の見出しはデバイスによって
+中途半端なところで改行されて問題ないでしょうか。
+SPの時は「
+」で改行するいたしましょうか。
+
+お疲れ様です。上のキャプチャの「
+」の見出しはデバイスによって
+中途半端なところで改行されて問題ないでしょうか。
+SPの時は「
+」で改行するいたしましょうか。
+ ありがとうございます。その様に改行でご対応お願いいたします
+
+今一通りSPデザイン確認いたしましたが、上記の様なケースが結構ありました。
+改行出来る場合もあれば、できない場合もあり、ちょっと方法確認する様に致します。
+
+お疲れ様です。上のキャプチャの「
+」の見出しはデバイスによって
+中途半端なところで改行されて問題ないでしょうか。
+SPの時は「
+」で改行するいたしましょうか。
+
+お疲れ様です。上のキャプチャの「
+」の見出しはデバイスによって
+中途半端なところで改行されて問題ないでしょうか。
+SPの時は「
+」で改行するいたしましょうか。
+ ありがとうございます！お手数お掛けします。
+こちらも確認してみます。
+
+左詰めにしてしまったら格好悪くなってしまいますか？
+PCでタイトルやサブタイトルについて
+「。」で改行
+「、」は改行しない
+とするのはいかがでしょうか
+ 通常価格の所は、飾りの/がありますので、以下にするのが良いかもしれません。
+通常価格より
+\90万～最大130万OFF/
+（センタリングで通常価格を小さめに、PCでも出来そう）
+
+了解しました。ありがとうございます。
+ 後から修正で申し訳ないです
+
+以下の問題になっている部分は、KV下の文章ですか？
+
+左詰めにしてしまったら格好悪くなってしまいますか？
+PCでタイトルやサブタイトルについて
+「。」で改行
+「、」は改行しない
+とするのはいかがでしょうか
+
+これでいいのかなと思っている程度なのですが、まとめます。
+少々お待ちください。
+ 
+すみません、優先度の高いタスクが発生し、フィードバックが遅れています。
+PCの時は問題なのですが、SPの時に文面や見出しがデバイス幅によって中途半端なところで改行されてしまうのが個人的に気になっています。
+特に中央寄せなので。
+大徳さんに相談し、改行位置の修正を明日などに痛いするかもしれません。
+
+iPhone5/SEの検証を念の為、宜しくお願いします。
+メインビジュアルが崩れるかもしれません。
+ まだちゃんと確認できていないのですが、その他にも修正して欲しいところがありましたので、
+明日内容を確認して依頼したいと思います。
+ちなみに、ブレイクポイントの種類ですが、どれくらいの数で確認とるべきでしょうか？
+
+そうですね、よくPCのファーストビューで見えるところにこれおいてくださいとか言われた時、ファーストビューはユーザー環境によって違うので、
+一応国内のデバイスのシェアを調べてそれて対応したりします。
+念の為、奥山さんか鈴木さんに確認して頂いても良いと思います。
+一般的には、　chromeの検証ツールにある種類とかそんな感じですかね
+ちょっと私はこの辺適当でよくないのですが、
+直近ではiPhone5/SEは、ブライダルサーチフェアの時によく望月さん（バックエンドエンジニア）から指摘きて修正した経緯があります。
+iPhone5/SEはでも結構画面の大きさ小さいですね
+逆に切っても良いか確認しましょうか
+一応シェアデータで裏付けとって
+-san!
+Sorry!
+Should I push to Git?
+ すいません！時間外ですので、明日また伺わせてください
+ 
+問題ないです！
+ GitHUBリポジトリにプッシュしてください
+-san! I have pushed
+**
+Thank you for today
+Good bye see you tomorrow 
+ありがとうございました！明日もよろしくお願いします。
+
+ありがとうございました
+また明日！
+ ありがとうございました。明日も宜しくお願いします！
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いします
+ おはようございます。今日も宜しくお願いします
+
+ママ婚サイトのコーディング有り難うございます。
+SPでナビゲーションメニューを開いた時の表示が大分異なっておりますので、
+サイズ・行間・文字間・文言の調整をお願いします！
+
+
+昨日SPの時に改行が気になった箇所をPDFにマークいたしました。
+
+ 
+念の為、お知らせいたします。
+別件で優先度高い案件がまた来てしまいフィードバックが遅れるかも知れません。
+
+昨日SPの時に改行が気になった箇所をPDFにマークいたしました。
+
+ 
+念の為、お知らせいたします。
+別件で優先度高い案件がまた来てしまいフィードバックが遅れるかも知れません。
+
+昨日SPの時に改行が気になった箇所をPDFにマークいたしました。
+
+ 
+念の為、お知らせいたします。
+別件で優先度高い案件がまた来てしまいフィードバックが遅れるかも知れません。
+ ありがとうございます。確認させていただきます。
+
+昨日SPの時に改行が気になった箇所をPDFにマークいたしました。
+
+ 
+念の為、お知らせいたします。
+別件で優先度高い案件がまた来てしまいフィードバックが遅れるかも知れません。
+
+昨日SPの時に改行が気になった箇所をPDFにマークいたしました。
+
+ 
+念の為、お知らせいたします。
+別件で優先度高い案件がまた来てしまいフィードバックが遅れるかも知れません。
+-san!
+So sorry!
+I have completed
+ありがとうございます！確認します。
+-san!
+I have completed
+
+
+ご相談a・ &gt; ご相談・
+
+以下の内容もお願いします！
+・SPのヘッダーの高さ60pxで、上下は中央揃え
+・ファーストビューの下の余白は60px（ヘッダー高さと同じ）
+・slick→hover等で止まらないように
+・ナビを開閉時にフェードイン・アウト効果
+-san! I have completed
+ ありがとうございます。
+その他の部分の依頼も合わせて確認します。
+その間にお時間ありましたら、別件の依頼があるのですが、
+よろしいですか？
+-san!
+Yes! Please
+
+「Qrieキュリエ」というサイトのレスポンシブコーディングをお願いいたします。
+まずはトップページだけお願いします。
+
+■PSDフォルダ
+
+■TOP(PC&amp;SP / header&amp;footer &gt; link PSD)
+
+■PC images
+
+■SP images
+
+
+「Qrieキュリエ」というサイトのレスポンシブコーディングをお願いいたします。
+まずはトップページだけお願いします。
+
+■PSDフォルダ
+
+■TOP(PC&amp;SP / header&amp;footer &gt; link PSD)
+
+■PC images
+
+■SP images
+
+
+「Qrieキュリエ」というサイトのレスポンシブコーディングをお願いいたします。
+まずはトップページだけお願いします。
+
+■PSDフォルダ
+
+■TOP(PC&amp;SP / header&amp;footer &gt; link PSD)
+
+■PC images
+
+■SP images
+
+
+テスト環境は、以下のクライアントのサーバーにてお願いいたします。
+
+URL：
+
+Basic認証
+ID：
+admin
+Pass：
+adminqrie
+
+FTP：
+ポート：２１
+ホスト名：
+
+ユーザ：
+Pass：adminqrie
+
+「Qrieキュリエ」というサイトのレスポンシブコーディングをお願いいたします。
+まずはトップページだけお願いします。
+
+■PSDフォルダ
+
+■TOP(PC&amp;SP / header&amp;footer &gt; link PSD)
+
+■PC images
+
+■SP images
+
+-san!
+How many pages ?
+If many pages I would do it with 
+ like 
+ project
+
+「Qrieキュリエ」というサイトのレスポンシブコーディングをお願いいたします。
+まずはトップページだけお願いします。
+
+■PSDフォルダ
+
+■TOP(PC&amp;SP / header&amp;footer &gt; link PSD)
+
+■PC images
+
+■SP images
+
+
+今の所、11ページ程度になるかと思います。
+最終的にはwordpressにする予定です。
+pugについて分かっていないのですみません
+-san!
+sorry to bother
+Although I know "pug" is to write HTML faster.
+But I have a question.
+Can this project apply "pug.js"?
+
+pug.js使いたいですか？
+-san! Yes
+I think is possible
+
+使ってください。
+
+Qurieプロジェクトでは私はテンプレートを作成出来ませんが、問題ないですか？
+-san!
+Yes! no problem
+Thank you so much!
+素晴らしいです！
+GitHUBのリポジトリもあとで用意いたします。
+-san!
+Is it bootstrap?
+いえ、こちらもグリッドシステムに沿って作成しておりません。
+セクション間等のマージンは共通になっております。
+SPを375pxで作成してますので、また320px等でレイアウト調整が必要になるかもしれないですね。
+お手数掛けてすいません！
+-san!
+Yes!
+sorry for bothering you
+
+忙しい時にすいません。
+ママ婚の方ですが、依頼しました以下の内容は更新されてますか？
+
+・SPのヘッダーの高さ60pxで、上下は中央揃え
+・ファーストビューの下の余白は60px（ヘッダー高さと同じ）
+・ナビを開いているときにbodyがスクロールしない様に
+-san!
+I have completed
+Please check on actual device
+ありがとうございます。引き続きよろしくお願いいたします。
+-san! -san!
+
+ i have pushed
+
+ I have completed 80% PC
+
+**
+Thank you for today
+Good bye see you 
+ ありがとうございました！次までに依頼内容をまとめておきます。
+ ありがとうございました！来週も宜しくお願いします。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします！
+  おはようございます。本日もよろしくお願いします
+ お疲れ様です。
+ママ婚の方で、検証ツールで320px(iphone5/se)を確認すると、
+以下の様に崩れてしまいます。
+実機で確認できていないのですが、どうなんですかね？
+ 
+-san!
+Yes! I'll fix
+ ありがとうございます。追加で修正希望ありますので、
+すいませんが、随時内容をお渡しします
+-san!
+Wedding and Qrice
+Which project will be a priority?
+Qrice I have completed 95%
+ 先にQrieのトップを終わらせてください。
+
+QueriプロジェクトのGitHUBリポジトリを作成しました。
+今日から帰る時は必ずプッシュする様にしてください。
+
+
+ちょっと翻訳が変でした。
+*家に帰る前に*プッシュしてください。
+  ママ婚の方です。
+PCで確認していまして、テキストサイズがカンプより全体的に1pxサイズが大きいのですが、
+remの設定・計算で何かズレとか起きてますか？
+
+確認致します。
+
+もしかして、ベースのフォントサイズは15pxでしょうか。
+ もしかしてです。
+ あ、ちょっとまってください
+
+了解しました。フォントサイズはベース16pxでrem算出されているので
+ベースフォントサイズの変数を修正すれば大丈夫です。
+ ベースは16pxで合ってます。游ゴシックのところです。
+
+確認致します。remの算出はズレは出ないはずなのですが。
+ ヘッダーナビのメニュー等が1px（.1rem?）大きい感じします。
+
+PSD通りのところとそうで無いところある様です。
+ピックアップしてビンさんに直してもらう様に致します。
+remはこの様な感じで、ベースの16pxとしての相対値となるのです。
+
+1px
+0.062rem
+1.6px
+0.1rem
+2px
+0.125rem
+2.2px
+0.137rem
+7px
+0.437rem
+8px
+0.5rem
+9px
+0.562rem
+10px
+0.625rem
+11px
+0.687rem
+12px
+0.75rem
+13px
+0.812rem
+14px
+0.875rem
+15px
+0.937rem
+16px
+1rem (base)
+18px
+1.125rem
+20px
+1.25rem
+22px
+1.375rem
+24px
+1.5rem
+26px
+1.625rem
+28px
+1.75rem
+30px
+1.875rem
+32px
+2rem
+34px
+2.125rem
+36px
+2.25rem
+38px
+2.375rem
+40px
+2.5rem
+60px
+3.75rem
+ ありがとうございます！解決しました。
+-san! -san!
+
+sorry for disturbing
+I've done
+But please advise me the effect when hovering the button
+By the way ... do I need to add backgroud-color to header?
+ ありがとうございます。確認して連絡します。
+-san! -san!
+I'll continue after lunch.
+-san!
+I have completed
+
+ 320pxのカンプを作成しています。
+少々お待ちください。
+
+ファーストビューです。以下の画像で確認お願いします。
+上下60px、「最短４週間」の円は画面右寄せに、
+その下のテキストは左右が揃う様に調整お願いします。
+
+ ボタンは「ご相談・」を削除して「お問合せ」にしてみてください。
+上下センター揃えでお願いします。
+
+「おなかの赤ちゃんと一緒に～」18px
+「-マタニティウエディング-」20px
+ ヘッダーのボタンが押せない状態になってますので、修正お願いします。
+-san!
+Does it apply to all screens in SP?
+Or only applied on 320 screen?
+ -&gt; 
+ 375px以上は大丈夫でしたので、その下です。
+ 374px以下の時だけ、ボタン内の「ご相談・」を非表示にしたいです。
+ （  ）
+SP版の修正が終わったら、PC版のフォントサイズの修正をお願いしたいです。
+修正箇所はPDFにまとめました。
+さらに、 
+ （  ）
+SP版の修正が終わったら、PC版のフォントサイズの修正をお願いしたいです。
+修正箇所はPDFにまとめました。
+さらに、 
+ によく使うフォントサイズの変数を追加し、GitHUBリポジトリにプッシュしました。
+プルして使用してください。
+
+ によく使うフォントサイズの変数を追加し、GitHUBリポジトリにプッシュしました。
+プルして使用してください。
+
+ （  ）
+SP版の修正が終わったら、PC版のフォントサイズの修正をお願いしたいです。
+修正箇所はPDFにまとめました。
+さらに、 
+ によく使うフォントサイズの変数を追加し、GitHUBリポジトリにプッシュしました。
+プルして使用してください。
+
+ （  ）
+SP版の修正が終わったら、PC版のフォントサイズの修正をお願いしたいです。
+修正箇所はPDFにまとめました。
+さらに、 
+ によく使うフォントサイズの変数を追加し、GitHUBリポジトリにプッシュしました。
+プルして使用してください。
+
+
+
+ 　
+ →88%
+-san!
+
+I have completed
+ ありがとうございます。
+ボタンのフォントサイズが小さくしてもらってますが、削除してください。そして上下左右センター揃えでお願いします。
+
+
+
+ →削除
+ slickを動かして、クリックした時に止まらないようにしてください。
+
+
+
+追加
+
+-san!
+Can you check it all?
+ slick sliderの写真上でクリックすると動きが止まりますので、動かしてください
+ 374px以下の時、
+
+ 　→　
+-san!
+I think it's OK
+
+こちらは私のカンプのミスです。すいません！
+他のセクションと同じマージンです。
+
+ 　→
+ →
+ ありがとうございます。
+
+ についてご相談で、600px以上の表示は問題ないのですが、
+599px以下の場合に、下記イメージの様な改行で表示できますか？
+
+-san!
+I have completed
+ すいません、
+ヘッダーの項目名が変更になりました。スマホのメニューも変更ください
+
+
+ →
+
+
+ →
+
+済みません、MTGでした。
+問題ありませんか？
+
+自動翻訳が少し変でした。
+ごめんなさい、MTGでした。
+問題ありませんか？
+-san!
+I have completed
+ ありがとうございます！
+（翻訳誤りでした；）PCのヘッダーメニューも変更おねがいします
+san!
+sorry!
+Can you tell me more "MTG"
+Meeting?
+PC menu TOO
+-san! I have completed
+ フォントサイズについて、問題無いですか？
+私はMTGに出ていて現状を把握してません。
+-san! No proble! Thank you so much!
+ ありがとうございます！
+
+SPの確認をしています。
+ソースコードを可能な限り先方に第一弾お渡ししたく思います。
+大徳さんの方は進行状況いかがでしょうか。
+ ありがとうございます。
+ビンさんのおかげでソースはある程度まとまってきました。
+こちらは式場検索のカンプを格納いたしました。
+ちょっと寂しいのでおいおい変更するかもしれません。
+パスを送付しますので、ご確認お願いします。
+
+PNG
+
+PSD
+
+
+了解しました。ありがとうございます。
+今SPで表示されている改行は問題なさそうでしょうか。
+ 正直言うとまだ改行問題、c-section01だけです。
+その他の修正伝達等でなかなか；
+**
+Thank you for today
+Good bye see you 
+ そうなんですね、改行についてビンさんには指示を出した状態でしょうか。
+
+ちょっと待ってください。
+ いえ、文面で説明するのが難しかったので、カンプ作成してる状態です。
+
+matanityプロジェクト
+GitHUBに今日の作業分をプッシュしてください。
+-san!
+I have pushed
+
+
+ありがとうございました
+ 了解しました。
+Section01は修正済みでした。
+
+ここと、
+
+
+まだ作業をお願いできますか？
+-san!
+Yes!
+No problem?
+
+お願いしたいことがあります。
+SP版を実際のiPhoneXで確認した時
+価格がはみ出てしまってします。
+フォントファミリーの問題と思われます。
+あと、section01でやって頂いたように改行位置を修正してもらいたいです。
+section02
+
+section02
+
+section02
+
+section02
+
+section04
+-san!
+Can I reduce font-size?
+ 
+ここは小さい時は、2x2→1x4にするべきですかね
+ 
+カラムをですか
+はい
+
+カラム（行）をSPの時は一行にしてください。
+フォントサイズは再確認します。
+ 
+ection05もsection01同様の改行をお願いします。
+
+
+カラムは一行にしましたか？
+まだだったらやってほしいことがあります。
+-san!
+Can you tell me more it?
+
+フォントサイズを24pxから22pxにしても問題無いでしょうか。
+
+少々お待ちを。
+フォントサイズ小さくするで問題ないか大徳さんに確認します。
+ 見て判断したいです
+
+了解です。
+
+22pxにしてtest5で大徳さんにレビューを依頼してください
+↑フォントサイズを24→22px
+-san!
+Do I only changed the screen 320?
+375 is not beautiful...
+
+SP版なので、
+メディアクエリーは
+-san! &lt;767?
+
+メディアクエリーを確認します。
+section01の修正はこのメディアクエリーで修正してくれていますね。
+同じようにしてください。
+ところでこの599pxという値はどこから算出しましたか？
+-san!
+Daitoku-san gave me...
+-san!
+I have complted
+-san!
+I have completed
+-san!
+I have completed
+
+
+これクロームの検証の最小幅iphone5で入りそうです。
+改行よりletter-spacingの方が良い感じでしょうか
+-san!
+I have completed
+
+ありがとうございました
+
+あなたはもう帰る時間ですよね？
+GitHUBにプッシュしてください。
+-san!
+I can still stay working
+
+私は確認するので少し待ってください
+ chrome320pxで入るは入りますが、実機で入ってない時が以前ありましたので、改行でも問題ないです。
+
+そうなんですよ
+ギリギリだと、そういう問題が、、、改行でOKでよかったです！
+-san!
+I have completed
+  よろしくお願いいたします。
+
+通常価格より〜の価格
+2カラムのままで、入りきっていました。（iPhoneX
+確認していただけますようでしょうか
+ありがとうございます。入りましたね
+上下左右間のマージンを狭めても問題ございません。
+
+修正指示あれば対応します。
+
+大丈夫です！ありがとうございました
+助かりました！
+ ありがとうございます！
+実機で価格はみでた際は、上下左右間のマージンを狭めても問題ございません。
+よろしくお願いいたします！
+  すいません；
+ipad以降、プランが３＋１になるところ、2x2か入れば4x1の方がいいかと思います。
+
+あ、そこはい、そうですね
+
+ ↑こうなれば良い感じでしょうか
+ はい。お願いします！
+-san! Yes! I'll changed it
+
+できる？！ありがとうございます！
+-san!
+Yes!
+Does it apply only to Ipad (768)?
+ ipadpro (1024)?
+
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,//SP
+  md: 768px,//tablet
+  lg: 992px,//PC
+  xl: 1240px
+) !default;
+
+ipadProはPCとみなしてください
+-san! I have completed
+
+私は確認します
+ いかがでしょうか
+いいです！
+
+問題ないです！ありがとうございました！
+-san!
+I'll push to git right now
+Please wait for me
+-san!
+I have push
+-san!
+By the way, I pushed the  Queri project environment to Git...
+
+
+ありがとうございます！確認できました。
+Please give me advice tomorrow
+**
+Thank you for today
+Good bye see you 
+ ありがとうございました！
+ ありがとうございました。明日も宜しくお願いします。
+
+ビンさんがQueriのホバー時のエフェクト明日教えてくださいだそうです。
+あとQueriのGitHUBを設置しました。
+
+管理者でログインするとGitHUBにログインでき、登録中のリポジトリにアクセスしてソースコードの差分の参照が可能です。
+先方などに提示が必要な場合などご活用ください。
+
+ 了解しました！ありがとうございます。
+-san!
+According to the news, there are many cases of high fever ... but most of them are alright ... so everything is fine ..
+Does your daughter go to school?
+In Vietnam, all students leave school
+
+Everyone, please take care of your health 
+
+日本は病気の影響より人々がパニックを起こしがちになっています。娘は明日から当分学校が休みです。
+明日から全ての学校が休学になります。
+ビンさんも注意してください。
+
+検索結果ページ（PC）が出来ましたので、確認・コーディングお願いいたします。
+psdフォルダ内の以下ファイルです。
+03.検索結果.psd
+03.検索結果_item.psd
+pager_pc.psd
+header_pc.psd（更新しました）
+
+イメージ画像
+
+-san! -san!
+By away....if the screen is minimized...
+
+Do you think the design must be changed?
+
+現行サイトでは同じ問題が起きてました。
+
+
+現行サイトでは同じ問題が起きてました。
+
+
+現行サイトでは同じ問題が起きてました。
+
+
+現行サイトでは同じ問題が起きてました。
+
+ 
+ユーザに画面幅を広げてもらうしかないですね。
+念の為、改修要望確認します。
+ 
+サイドバーを何pxでSP用に設定するかも決められた方がいいかもです。
+-san!
+So sorry!
+Can you give me the PSD link?
+I lost the link ... 
+PSDフォルダーこちらです
+
+PSDフォルダーこちらです
+
+
+ブレークポイントは未定ですか？
+ 
+改修要件確認しました。
+特に要望は出てません。
+
+ホバー時に見切れる要素については
+今回、現行サイトと違ってレスポンシブなので、特に問題ないです。
+見切れる→SP表示
+を適応すれば良いと思います。
+
+今一般的にどれくらいがいいかご存知ですか？
+以前同じ様なサイト制作のデータがありますので、ブレークポイント（サイドバー→SP）確認してみます。
+
+多分、ウェブサイト趣旨やアクセスユーザの閲覧環境のシェアなどによって変わってくるので、そこから調査しないとならないかもしれないです。
+
+
+&gt; 見切れる→SP表示
+&gt; を適応すれば良いと思います。
+これダメですね。
+幅が狭い時はOKですが、高さが低い時も見切れるのでレスポンシブで対応不可能でした。
+
+高さについては
+吹き出しを上にだすことで回避できますが
+選択時にカーソルを上に持って行かなくてはならない事になりますね
+ 
+ブレークポイントとホバー時見切れる問題は保留にしてください。
+
+間違えました。ブレークポイントを設定出来そうでしょうか。
+
+このサイトだと768（ipad）以上でサイドバーを通常表示に変化させていて、
+（古いのでなんとも言えませんが）
+
+
+このサイトだと768（ipad）以上でサイドバーを通常表示に変化させていて、
+（古いのでなんとも言えませんが）
+
+
+このサイトだと768（ipad）以上でサイドバーを通常表示に変化させていて、
+（古いのでなんとも言えませんが）
+
+
+このサイトだと768（ipad）以上でサイドバーを通常表示に変化させていて、
+（古いのでなんとも言えませんが）
+
+ 今ヘッダーを1024あたりでPC用に変更頂いてるので、
+そのあたりで、サイドバー出すでもいいのかと思ってます。
+
+このサイトだと768（ipad）以上でサイドバーを通常表示に変化させていて、
+（古いのでなんとも言えませんが）
+
+
+ありがとうございます！
+
+すみません、優先度の高いタスクが入り対応させて頂きたく。
+ブレークポイントの件、きちんと確認出来ておりません。
+ タスク優先してください
+
+後ほど確認していただければいいのですが、
+ホバーのサブリンク表示はPC時（UA?1024px?）に
+フッターに高さがあるのでスクロールで見切れないかと思います。
+PC以外の時は、現行サイトのスタイルで、カラムを４Xとかに変化させるべきかなと考えてます。
+
+パンくずリストのイメージです。
+以下サイトをSP(320px)で確認してみてください。(フッターの上にあります。)
+１行にできればと思います。
+
+-san!
+Want it on a row?
+No need to resemble the design ""?
+出来れば１行におさめたいですね。
+色とかデザインは似てなくていいです。
+-san! Yes!
+I'll change it later
+ 
+検索ページ（PC以外）はハナユメの流れがいいのではと思いました。
+今PCだとサブメニューは一つ選択ですが、
+複数選択して表示の方が良いのか、また、実装には問題ありませんか？
+
+ 
+検索ページ（PC以外）はハナユメの流れがいいのではと思いました。
+今PCだとサブメニューは一つ選択ですが、
+複数選択して表示の方が良いのか、また、実装には問題ありませんか？
+
+ 
+検索ページ（PC以外）はハナユメの流れがいいのではと思いました。
+今PCだとサブメニューは一つ選択ですが、
+複数選択して表示の方が良いのか、また、実装には問題ありませんか？
+
+
+こちら、あまり発生しないでしょうかが、例えばこの様な時、サブリンクが見えないなあと。
+出来たら考慮したいと個人的に思いました。
+
+
+
+こちら、あまり発生しないでしょうかが、例えばこの様な時、サブリンクが見えないなあと。
+出来たら考慮したいと個人的に思いました。
+
+
+
+こちら、あまり発生しないでしょうかが、例えばこの様な時、サブリンクが見えないなあと。
+出来たら考慮したいと個人的に思いました。
+
+
+
+確認致します。
+ 
+検索ページ（PC以外）はハナユメの流れがいいのではと思いました。
+今PCだとサブメニューは一つ選択ですが、
+複数選択して表示の方が良いのか、また、実装には問題ありませんか？
+
+
+こちら、あまり発生しないでしょうかが、例えばこの様な時、サブリンクが見えないなあと。
+出来たら考慮したいと個人的に思いました。
+
+
+そうですよね、PCもハナユメにならった方がいいのかなーと。
+ 
+検索ページ（PC以外）はハナユメの流れがいいのではと思いました。
+今PCだとサブメニューは一つ選択ですが、
+複数選択して表示の方が良いのか、また、実装には問題ありませんか？
+
+
+デザイン引き直す感じなってしまいますね。
+通話しても大丈夫でしょうか。
+大丈夫です。お願いします。
+-san!
+
+I have completed
+This issue has been resolved
+-san!
+Can you tell me more it?
+ありがとうございます。
+デザイン作成してからお知らせします。
+先にSPの方が早く出来そうです。
+
+
+I have pushed to Git
+Thank you for today
+Good bye see you 
+ ありがとうございました！明日もよろしくお願いいたします
+
+ありがとうございました！
+また明日
+ ありがとうございました！明日も宜しくお願いします。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日も宜しくお願いします
+ おはようございます。今日もよろしくお願いいたします
+ お疲れ様です。
+式場検索ページが仕様変更になりました。
+デザインが出来ましたので共有いたします。
+繊維・動作の感じは、hanayumeのサイト（）と同じイメージになります。
+
+■PCイメージ
+①
+②
+
+■SPイメージ
+①
+②
+③
+
+■PSD
+
+
+PSDフォルダー
+
+繊維→遷移
+-san! Yes! I got it
+
+あ！大徳さん、
+複数・複数じゃないではなかったでしょうか？
+ ちょっと待ってください 
+すいません！こちらいったんストップしてください。確認します。
+
+ビンさん、ごめんなさい
+
+大徳さんのデザインで、チェックボックスとのところはチェックボックスが無くなる予定です。
+
+大徳さんのデザインで、チェックボックスとのところはチェックボックスが無くなる予定です。
+
+大徳さんのデザインで、チェックボックスとのところはチェックボックスが無くなる予定です。
+何故ならば、検索画面の仕様は、選択項目が１つだからです。
+
+大徳さんのデザインで、チェックボックスとのところはチェックボックスが無くなる予定です。
+何故ならば、search page は、選択できる項目が１つだけだからです。
+-san!
+You mean like that
+
+はい！合ってます。
+• PCはテキストリンク
+• SPはリンクブロック
+になります。
+PCの場合のリンクテキストの配色や挙動については大徳さんにきいいて下さい。
+-san!
+Do you have a new design ? ... please send me
+ 少々お待ちください
+ 検索結果ページ（PC）はどんな感じですか？
+
+ 検索結果ページ（PC）はどんな感じですか？
+
+ 検索結果ページ（PC）はどんな感じですか？
+
+-san!
+
+I reported it yesterday
+don't you see it?
+ 申し訳ないです！こちら見落としてました
+
+確認します。
+ 検索結果ページ（PC）はどんな感じですか？
+
+
+検索結果ページの下記を修正して下さい。
+text box → select box
+
+
+検索結果ページの下記を修正して下さい。
+text box → select box
+
+
+検索結果ページの下記を修正して下さい。
+text box → select box
+
+
+検索結果ページの下記を修正して下さい。
+text box → select box
+
+
+検索結果ページの下記を修正して下さい。
+text box → select box
+
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+
+.c-section01 .box-item .row .imgs
+
+↓
+
+.c-section01 .box-item .imgs
+
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+[2]
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+.c-section01 .box-item .row .imgs
+
+[2]
+
+
+~↓~
+
+.c-section01 .box-item .row .imgs
+.c-section01 .box-item .imgs
+
+~↓~
+
+.c-section01 .box-item .imgs
+
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+~.c-section01 .box-item .row .imgs~
+~↓~
+~.c-section01 .box-item .imgs~
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+ 
+お待たせしました。以下の内容でご確認お願いいたします。
+
+■PC
+
+
+■SP
+
+
+
+■PSD
+
+
+理由が合って削除できない場合
+
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+~.c-section01 .box-item .row .imgs~
+~↓~
+~.c-section01 .box-item .imgs~
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+
+.c-section01 .box-item .row .imgs
+
+~↓~
+
+.c-section01 .box-item .imgs
+
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+~.c-section01 .box-item .row .imgs~
+~↓~
+~.c-section01 .box-item .imgs~
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+
+.c-section01 .box-item .row .imgs
+
+~↓~
+
+.c-section01 .box-item .imgs
+
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+ 検索結果画面について。下記を修正していただけるでしょうか。
+[1]
+
+.c-section01 .box-item .list p.text {
+   font-size: 0.875rem;
+}
+
+↓
+
+
+.c-section01 .box-item .list .text {
+   font-size: 0.875rem;
+}
+
+[2]
+~.c-section01 .box-item .row .imgs~
+~↓~
+~.c-section01 .box-item .imgs~
+[3]削除
+
+.c-section01 .box-item .row .imgs {
+    width: 140px;
+}
+
+理由が合って削除できない場合
+
+.c-section01 .box-item .imgs {
+    width: 140px;
+}
+
+有難うございます！
+確認しました。SPの「このエリアで検索」ボタンは取っていただけましたでしょうか。
+プレビューで見えてまして。
+タップで遷移なので、検索ボタンは要らなくなります
+そうでした！少々お待ちを。
+
+戻るボタン、なんですが、他のエリアを選択する　が一つ戻るの役割をしているので、
+ハナユメと同じに「キャンセル」に変更する方がいい気がしてきました。
+
+いま見てました。
+少々お待ちを
+
+「キャンセル」でお願いします！
+了解です！
+
+こちらでご確認お願いいたします。
+
+
+
+
+有難うございます！
+一点、きになる事があります。
+少々お待ちください。
+-san! I have completed
+
+
+有難うございました！私は確認します。
+ 
+PSDを上書き更新しました！
+
+
+検索結果ページについて、もう１つ修正をお願いしたいです。
+「*
+*」の「
+」は全選択の為のチェックボックスです。
+チェックされた時は、その下のすべての項目にチェックが入るようにしてください。
+反対に、チェックが外れた時はその下のすべての項目のチェックが外れるようにしてください。
+ チェックって無くなりましたよね；システム的な話ですか？
+すいません！結果の方ですね
+
+はいそうです！
+ 先ほどの
+の修正依頼は、こちらの挙動とほぼ同じです。
+
+ 先ほどの
+の修正依頼は、こちらの挙動とほぼ同じです。
+
+ 先ほどの
+の修正依頼は、こちらの挙動とほぼ同じです。
+
+ 先ほどの
+の修正依頼は、こちらの挙動とほぼ同じです。
+
+ 先ほどの
+の修正依頼は、こちらの挙動とほぼ同じです。
+
+-san!
+
+I have completed
+-san! -san!
+
+I'll continue tomorrow
+-san!
+I'll pushe to Git right now
+ 有難うございます！早いですね！私は確認します。
+-san!
+I'll push to Git right now
+-san!
+I'll push to Git right now
+
+検索結果ページについて１つ追加でお願いしたい事があります。
+「
+」の個別の項目すべてにチェックを入れた時は
+「
+」にチェックを入れるようにしてもらえますか？
+ ありがとうございます。
+検索結果ページのボタンのフォントが異なりますので、確認お願いします
+
+イメージはこちらでです。
+
+
+イメージはこちらでです。
+
+
+もう帰る時間ですよね？
+
+残りは明日お願いします。
+
+有難うございました！また明日
+-san! -san!
+So sorry!
+
+I have completed
+ ありがとうございます！明日もよろしくお願いいたします
+-san!
+Can I push to Git tomorrow?
+
+OK！
+**
+Thank you for today
+Good bye see you 
+
+また明日！
+ ありがとうございました。明日も宜しくお願いします。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。本日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+ おはようございます
+
+宜しくお願いします！
+
+検索pageを優先してコーディングして下さい。
+その後、検索結果page(PC)の修正依頼を予定しています。
+-san!
+2 buttons have the same function?
+
+異なります。
+少々お待ちください
+
+「
+」は他のエリアを選択するという意味です。この画面に戻ります。
+
+「
+」は検索をキャンセルするという意味でトップページに戻ります。
+
+「
+」は他のエリアを選択するという意味です。この画面に戻ります。
+
+「
+」は検索をキャンセルするという意味でトップページに戻ります。
+
+「
+」は他のエリアを選択するという意味です。この画面に戻ります。
+
+「
+」は検索をキャンセルするという意味でトップページに戻ります。
+
+「
+」は他のエリアを選択するという意味です。この画面に戻ります。
+
+「
+」は検索をキャンセルするという意味でトップページに戻ります。
+-san! Yes! Thank you so much!
+
+「
+」は他のエリアを選択するという意味です。この画面に戻ります。
+
+「
+」は検索をキャンセルするという意味でトップページに戻ります。
+-san!
+Is it position: fixed?
+intended to bottom?
+
+はい、「
+」ボタンは画面下部に固定ににしてください・
+-san!
+
+I have completed
+-san!
+
+I have completed
+Please help me check
+Thank you so much!
+
+有難うございました！私は確認します。
+検索結果ページの修正をしたいです。
+
+ざっときになるとことがないか目を通していただけますでしょうか。
+私も確認致します。
+-san! Yes!
+Please give for me!
+So sorry!
+But... I'll continue lunch
+  私も確認します。ありがとうございます。
+ 了解！
+
+後ほど依頼をスラックします。
+-san!
+
+I have completed
+Please help me check
+Thank you so much!
+-san!
+I have comeback
+ここのUIの修正をお願いしたいです。
+セレクトボックスの矢印と背景は画像ではなくCSSで組んでください
+また、入力エリアが狭いので広く調整してください。
+矢印のCSSはこちらを参照してください
+
+矢印のCSSはこちらを参照してください
+
+-san!
+
+I have completed
+Please help me check!
+
+有難うございます。私は確認してます。
+
+入力値が途中で切れてしまうので、9で切れるようにpaddingを調整してください
+-san!
+Please check again
+
+有難うございます。私は確認しました。
+セレクトボックスの背景色を #fff にしていただけますか？
+-san!
+I have completed
+ 有難うございます！
+あと、いくつかバーツのborder-radiusを修正して欲しいと思ってます。
+少々お待ちください
+
+
+ベージ全体
+• buttun -  border-radius: 0.187rem
+右カラム
+• checkbox - border-radius: 0.125rem;
+• selectbox - border-radius: 0.125rem;
+左カラム
+・「
+」-  border-radius: 0;
+
+さらに、検索ページのSP版のデザインがFixしました。
+コーディングをお願いします。
+
+
+さらに、検索ページのSP版のデザインがFixしました。
+コーディングをお願いします。
+
+
+さらに、検索ページのSP版のデザインがFixしました。
+コーディングをお願いします。
+
+
+さらに、検索ページのSP版のデザインがFixしました。
+コーディングをお願いします。
+
+
+さらに、検索ページのSP版のデザインがFixしました。
+コーディングをお願いします。
+
+-san!
+I have completed
+ 有難うございます。
+私は確認します。
+
+ここは0にしてください
+-san!
+Can you explain why?
+because I don't see its css with 
+ 
+
+一点伝え忘れておりました。
+先ほど私た検索結果ページのSP版のブレークポイントは
+959/960
+です。
+
+-san!
+Can you explain why?
+because I don't see its css with 
+ 
+
+or each browser
+-san!
+-san!
+Can you explain why?
+because I don't see its css with 
+ 
+
+or each browser
+
+理解しました。
+mac book proの私の環境では、border-radiusは5pxになっています。
+
+_user agent stylesheet なので、CSSで改めて設定してください。_
+どの環境でも0に見えるように
+-san!
+Thank you professor
+I have changed it
+-san!
+Can you explain why?
+because I don't see its css with 
+ 
+
+or each browser
+
+私は確認しました。問題ないです。
+有難うございました！
+-san!
+these SP designs ... can you tell me where it is in the PSD file?
+PSD
+ こちら確認お願いします。
+
+-san!
+it is here?
+下の部分ですか？
+-san! Yes!
+PCとほぼ同じなので、省略しています。
+変更になるところは、チェックボックスです。
+-san!
+all that right?
+そうです！
+閉じるボタンは最下部へ固定です。
+絞り込むボタンが見える様にお願いします
+この検索ボックスは、下から出てきて、上まで到達するイメージです。
+ 検索ページもですが、ボタンの高さを50pxにしてください。
+最下部の
+ 等のボタン内側は40pxで、外枠もヒット領域にしてください。
+Search page too
+
+最新の状態をバックログGitのリポジトリにプッシュしてください。
+-san! -san!
+Yes! I'll note
+Can you guys let me know?
+ Can I return home on time today?
+ Because I have to go to my hometown
+ ありがとうございます。私からは次回で問題ないです。
+
+大丈夫です。
+最新の状態をプッシュは今日お願いできますか？
+-san!
+I'll push to Git when I'm about to leave the company ... please don't worry
+
+有難うございました。お願いします！
+-san!
+
+
+-- &gt; I'll do it on Monday ... So sorry 
+
+--------------------------------------------------------------------
+-san!
+I have pushed to Git
+--&gt; link : 
+------------------------------------------------------------------------
+
+
+PC  ---&gt; completed
+SP  ---&gt; completed 70%
+---&gt; link : 
+-------------------------------------------------------------------------
+
+Have a nice weekend 
+
+Good bye!
+See you 
+ ありがとうございました！また来週
+ ありがとうございました。来週も宜しくお願いします！
+
+有難うございました！また来週
+良い週末を
+-san!
+
+
+-- &gt; I'll do it on Monday ... So sorry 
+
+--------------------------------------------------------------------
+-san!
+I have pushed to Git
+--&gt; link : 
+------------------------------------------------------------------------
+
+-san!
+
+
+PC  ---&gt; completed
+SP  ---&gt; completed 70%
+---&gt; link : 
+-------------------------------------------------------------------------
+
+Have a nice weekend 
+
+Good bye!
+See you 
+
+-- &gt; I'll do it on Monday ... So sorry 
+
+--------------------------------------------------------------------
+-san!
+I have pushed to Git
+--&gt; link : 
+------------------------------------------------------------------------
+
+
+PC  ---&gt; completed
+SP  ---&gt; completed 70%
+---&gt; link : 
+-------------------------------------------------------------------------
+
+Have a nice weekend 
+
+Good bye!
+See you 
+-san!
+
+
+-- &gt; I'll do it on Monday ... So sorry 
+
+--------------------------------------------------------------------
+-san!
+I have pushed to Git
+--&gt; link : 
+------------------------------------------------------------------------
+
+
+PC  ---&gt; completed
+SP  ---&gt; completed 70%
+---&gt; link : 
+-------------------------------------------------------------------------
+
+Have a nice weekend 
+
+Good bye!
+See you 
+-san!
+
+
+-- &gt; I'll do it on Monday ... So sorry 
+
+--------------------------------------------------------------------
+-san!
+I have pushed to Git
+--&gt; link : 
+------------------------------------------------------------------------
+
+
+PC  ---&gt; completed
+SP  ---&gt; completed 70%
+---&gt; link : 
+-------------------------------------------------------------------------
+
+Have a nice weekend 
+
+Good bye!
+See you 
+Bin san
+検索pageを少し修正し、バックログリポジトリにプッシュしました。
+来週作業を始める前にプルしてください。
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今週も宜しくお願いします！
+ おはようございます。本日もよろしくお願いいたします
+
+お早うございます
+
+お早うございます。宜しくお願いします
+
+お早うございます。宜しくお願いします
+
+お早うございます。宜しくお願いします
+-san!
+Would you like to change the icon?
+
+確認有難うございます。
+変更不要です。
+-san!
+
+---------------------------------------------------
+ -san!
+
+
+
+--------------------------------------------------------------
+I have completed.
+Please help me check!
+-san! -san!
+
+
+---------------------------------------------------
+
+
+--------------------------------------------------------------
+I have completed.
+Please help me check!
+-san! -san!
+
+
+---------------------------------------------------
+
+
+--------------------------------------------------------------
+I have completed.
+Please help me check!
+
+有難うございます！私は確認します。
+ ありがとうございます。私も確認します。
+-san! -san!
+
+
+---------------------------------------------------
+
+
+--------------------------------------------------------------
+I have completed.
+Please help me check!
+-san! -san!
+
+
+---------------------------------------------------
+
+
+--------------------------------------------------------------
+I have completed.
+Please help me check!
+
+iPhoneXで検索結果画面を確認しました。
+「
+」ボタンタップ→select box タップした時に、キャプチャの様に
+• 画面がズームされる
+• 「閉じる」ボタンの位置が変
+という問題が起こります。修正していただけますでしょうか。
+
+iPhoneXで検索結果画面を確認しました。
+「
+」ボタンタップ→select box タップした時に、キャプチャの様に
+• 画面がズームされる
+• 「
+」ボタンの位置が変
+という問題が起こります。修正していただけますでしょうか。
+
+iPhoneXで検索結果画面を確認しました。
+「
+」ボタンタップ→select box タップした時に、キャプチャの様に
+• 画面がズームされる
+• 「
+」ボタンの位置が変
+という問題が起こります。修正していただけますでしょうか。
+
+iPhoneXで検索結果画面を確認しました。
+「
+」ボタンタップ→select box タップした時に、キャプチャの様に
+• 画面がズームされる
+• 「
+」ボタンの位置が変
+という問題が起こります。修正していただけますでしょうか。
+
+もうひとつ、select boxの背景色に隙間が見えるので、見えない様にして頂きたいです。
+
+iPhoneXで検索結果画面を確認しました。
+「
+」ボタンタップ→select box タップした時に、キャプチャの様に
+• 画面がズームされる
+• 「
+」ボタンの位置が変
+という問題が起こります。修正していただけますでしょうか。
+
+下記内容お願いします！
+• 
+ ボタン、
+ ボタンの外に1pxのボーダーが見えますので、消してください。
+• チェックボックスのボタンの高さが40px程度になっているので、50px程度に大きくしてください。
+• ピンクの
+ ボタンの下の余白をもう少し広げてください。
+-san! -san! So sorry! I'll continue after lunch
+• 
+
+• 
+
+-san!
+Which two buttons are they?
+Can you tell me?
+画像を作成しますので少々お待ちください。
+-san! -san! I have completed
+
+ ありがとうございます！先ほどの内容はOKです。
+
+有難うございます。私は確認します。
+
+PCの式場ページのデザインが出来ました。
+以下のPSDをご確認ください。
+
+-san! Yes! I got it
+ こちらの検索ページのボタンも高さを50px程度にしてください。
+
+-san!
+I have completed
+-san!
+What should I name it
+detail page?
+-san!
+What should I name it?
+detail page?
+-san!
+What should I name it?
+detail page?
+-san!
+What should I name it?
+detail page?
+
+(root)/10000/index.html
+
+上記でお願いします。
+-san!
+What should I name it?
+detail page?
+
+search pageで一点、修正をお願いできますか。
+
+&lt;li class="border-bottom border-chestnut px-0 px-md-2"&gt;
+
+
+クラスを追加してください↓
+
+&lt;li class="border-bottom border-chestnut px-0 px-md-2 w-100"&gt;
+
+このブロックが１、２個の時に下線が切れてしまうので
+
+&lt;div class="link d-block d-md-inline-block ml-0 ml-md-5 px-3 px-md-0"&gt;
+
+
+ありがとうございます。
+
+iPhoneXで検索結果画面を確認しました。
+「
+」ボタンが「
+」ボタンと重なり見えないです。
+（select boxに入力した場合は発生しない）
+キャプチャを送ります。
+-san!
+That's strange ... I checked it on Iphone 6, android
+all no problem 
+
+ピンクの「
+」ボタンが見えますか？
+
+多分、iPhoneXだけの問題かもしれません。
+以前同じ問題がブライダルサーチフェアプロジェクトの時にあった様な記憶です。
+過去のデータを探してみます。
+-san!
+
+Can you help me check?
+-san!
+
+Can you help me check
+
+確認できました！大丈夫です。有難うございました。
+
+「
+」ボタンのリンク先を設定して欲しいです。
+ここへリンク設定してください。
+(root)/10000/index.html
+
+追加でリンク設定をお願いします。
+search pageのテキストリンク全てを
+(root)/tokyo/koukyo/
+にしてください。
+-san! Please help me check
+
+有難うございます。私は確認します。
+
+私は確認しました。完璧です。有難うございました。
+GitHUBリポジトリにプッシュしてください。
+-san!
+Yes! I will push up git ... when I leave the company...
+
+I have completed 40% "detail page" PC ver
+
+==============================================================
+-san!
+I have pushed to Git
+
+
+✿◕ ‿ ◕✿ ❀◕ ‿ ◕❀ ❁◕ ‿ ◕❁
+Thank you for today!
+Good bye! See you 
+ ありがとうございました。明日もよろしくお願いいたします
+ ありがとうございました。明日も宜しくお願いします！
+
+有難うございました！また明日
+**
+おはようございます. 良い日を過してください. 
+ おはようございます。今日もよろしくお願いいたします
+ おはようございます。今日も宜しくお願いします！
+ お早うございます。宜しくお願いします！
+-san!
+by the way
+Can you tell me the breakpoint?
+-&gt; 959/960?
+ 
+検索結果画面と同じ
+です。
+-san!
+I have question
+Should I put the link here?
+
+少々お待ちを
+here too ... do I need a link?
+
+あとで追加するかもしれませんが、現時点ではリンクは不要です。
+ ( )
+クライアントからラベルテキストの一覧が届きました。
+ラベルテキストを変更して頂きたく思います。
+少々お待ちください。
+ ( )
+
+箇所のラベルを下記に置き換えてください
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

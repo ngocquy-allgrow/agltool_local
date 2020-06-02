@@ -1,0 +1,70 @@
+自動翻訳テスト
+
+Hi Fukuda-san.
+I have fixed it. Can you help me to check it?
+
+Thank you! I'll check it now.
+
+Is it possible to change the breakpoint settings depending on the layout (image placement) and the font and margin values?
+
+Font size and margins will still switch at 812px device width.
+The arrangement of the images changes depending on the orientation of the screen.
+Is it possible??
+
+Currently, I have set the layout change on orientation. I also set fonts and margin based on breakpoint 812px. Is there anything I haven't done right here?
+
+Thank you, Dong.
+and please fade out the text "launch inc is ..." when you click "About us".  (Only if the screen orientation is landscape)
+
+I understand. I will fix it now. Thank you.
+
+Hi Fukuda-san.
+I have fixed it.
+
+Sorry, there is another fix.
+If so, can this be fixed?
+
+Sorry, there is another fix.
+If so, can this be fixed? (Only if the screen orientation is portrait)
+
+Sorry, there is another fix.
+If so, can this be fixed? (Only if the screen orientation is portrait)
+
+Sorry, there is another fix.
+If so, can this be fixed? (Only if the screen orientation is portrait)
+
+I think it can be fixed. I will fix it now.
+
+Hi Fukuda-san.
+I have fixed it
+
+Sorry, there is another fix.
+If so, can this be fixed? (Only if the screen orientation is portrait)
+
+Thank you! I'll check it now.
+
+Thank you, Dong. Perfect!
+
+Thank you. If there is no task, I would like to go home. Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. I wish you all the best on this day!
+
+Hi, Dong!
+I have one request to you about our site you created yesterday.
+When browsing the site with a smartphone or iPad, if you set the height at 100vh depending on the browser, the display may be shifted by the height of the address bar of the browser.
+Is there another way to solve this problem?
+
+I will research it. It may take about 30 minutes
+
+Hi Fukuda-san.
+I have fixed it. Can you help me to check it? Thank you
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!

@@ -1,0 +1,817 @@
+Chào buổi tối
+
+
+Chào buổi tối
+
+
+Good morning  ! I will start work from today, I have received documents on the Trello.
+After reading MEMO card, I will put a check mark a confirmation!
+Looking forward to your help!
+Thanks a lot!
+Good morning  ! We will start work from today, we have received documents on the Trello.
+After reading MEMO card, we will put a check mark a confirmation!
+Looking forward to your help!
+Thanks a lot!
+Good morning  ! We will start work from today, we have received documents on the Trello.
+After reading MEMO card, we will put a check mark a confirmation!
+Looking forward to your help!
+Thanks a lot!
+Good morning  ! We will start work from today, we have received documents on the Trello.
+After reading MEMO card, we will put a check mark a confirmation!
+Looking forward to your help!
+Thanks a lot!
+おはようございます
+
+今日から宜しくお願いします。
+私はあなたに期待しています。
+Good morning  ! We will start work from today, we have received documents on the Trello.
+After reading MEMO card, we will put a check mark a confirmation!
+Looking forward to your help!
+Thanks a lot!
+Hi  We have finished reading the material on the MEMO card in Trello.
+Thanks a lot!
+Hi  We have finished reading the material on the MEMO card in Trello.
+Thanks a lot!
+Hi  We have finished reading the material on the MEMO card in Trello.
+Thanks a lot!
+
+I had reported what I have done into google sheet.
+Today' s progress:
+
+I am so sorry about this delay.
+I will also try my best tomorrow.
+Thanks a lot.
+
+today's progress:
+Reading MEMO card document: 2h (100%)
+Connect to server BRAND REVALUE: 6h( 80%)
+( about detail, you can check in google sheet that  have send. )
+Tomorrow's plan:
+I will continue to do set-up enviroment  and try to finished it : (8h)
+I am so sorry for that my delay.
+Thanks a lot!
+Good morning 
+I hope you have a nice day.
+To day I continue to do set-up enviroment and I wil try finished it.
+estimate time: (8h).
+Thanks a lot!
+
+IPアドレス見直しました。Production envirionmentの接続、再度試みて見てください。
+Thanks .
+I will check it again now.
+Hi 
+It's ok.
+Thanks a lot!
+ S3に接続するにはWinSCPを使ってみてください。（windowsの場合）
+その他のFTP接続はFilezillaで良いと思います。
+「BRAND REVALUE」のimgのみS3を使用します。
+Thanks 
+I will try it now!
+Hi 
+This is my today progress:
+set-up enviroment BRAND-VALUE site. finished (8h)
+Tomorrow I will start to do new task.
+Thanks a lot!
+Hi 
+This is my today progress:
+set-up enviroment BRAND-VALUE site. finished (8h)
+Tomorrow I will start to do new task and continue to do set-up enviroment fot other site
+Thanks a lot!
+Hi 
+This is my today progress:
+set-up enviroment BRAND-VALUE site. finished (8h)
+Tomorrow I will start to do new task and continue to do set-up enviroment fot other site
+Thanks a lot!
+Hi 
+This is my today progress:
+set-up enviroment BRAND-VALUE site. finished (8h)
+Tomorrow I will start to do new task and continue to do set-up enviroment fot other site
+Thanks a lot!
+Hi 
+This is my today progress:
+set-up enviroment BRAND-VALUE site. finished (8h)
+Tomorrow I will start to do new task and continue to do set-up enviroment fot other site
+Thanks a lot!
+Good morning  
+I hope you have nice day!
+My work plan today:
+to do new task on trello: 100% (1h)
+contineu set-up environment other site (7h)
+Thanks a lot!
+hi 
+This is today progress:
+task2-1
+ 0.5h
+task2-2: 50% (2h)
+I'm sorry, my environment has a problem so it took a lot of time to fix, now it's okay, from tomorrow I will work more effectively.
+Tomorrow's plan:
+I will set-up enviroment other site follow your request in trello.
+Thanks a lot
+Good morning  
+I hope you have nice day!
+My work plan today:
+I will continue to do task2-2 and finished it as soon as possible (2h)
+set-up enviroment other site follow your request in trello.
+Thanks a lot!
+Hi 
+This is today progress:
+task2-2: 80% (4h)
+set-up enviroment for B site. 100% (4h)
+tomorrow's plan:
+finish task2-2
+set-up eviroment for one-style.
+Thanks a lot!
+Good morning 
+I hope you have nice day.
+I have received new task on trello.
+My word plan today:
+Finish task2-2: (1h)
+Start to do task2-3.
+ I am checking task2-3 request,then I will tell you estimate time for task .
+Thanks a lot!
+Hi 
+Today progress:
+• Task2-2:80% 
+• About task2-3: 
+ will explain to you later.
+Because I had problem about the setup with git and local environment, so I worked slow.
+I'm so sorry for that.
+I will try my best on next week.
+Thank you.
+Good morning Mr. 
+I hope you have a good day!
+My work plan to day:
+Continue to do task2-2:(1h)
+Continue to do task2-3:
+Thanks a lot!
+Hi 
+Today progress:
+Finish task2-2:1h
+task2-3:60%.
+Tomorrow's plan:
+ task2-3
+2h
+task2-4
+2h
+I hope you have a good holiday.
+Thanks a lot!
+Good morning Mr. 
+I hope you have a good day!
+My work plan to day:
+Continue to do task2-3:(2h)
+Continue to do task2-4:2h
+Thanks a lot!
+Hi 
+Today progress:
+task2-3:finished
+task2-4: finished
+Tomorrow's plan:
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3:90%
+task2-4: 90%
+Tomorrow's plan:
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3:90%
+task2-4: 90%
+Tomorrow's plan:
+To do new task.
+Thanks a lot!
+Good morning Mr. 
+I hope you have a good day!
+My work plan today:
+Continue to do task2-3:(2h)
+Continue to do task2-4:2h
+Thanks a lot!
+Hi 
+Today progress:
+task2-3:90%
+task2-4: 90%
+Tomorrow's plan:
+To do new task.
+Thanks a lot!
+Good morning 
+My work plan today:
+finish task2-3
+finish task2-4
+set-up environment.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3:90%
+task2-4: 90%
+Tomorrow's plan:
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3: 90%.
+task2-4: finished.
+task2-5: 80%.
+Tomorrow's plan:
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3: 90%.
+task2-4: finished.
+task2-5: 80%.
+Tomorrow's plan:
+finish task2-3
+finish task2-5
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3: 90%.
+task2-4: finished.
+task2-5: 80%.
+Tomorrow's plan:
+finish task2-3
+finish task2-5
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3: 90%.
+task2-4: finished.
+task2-5: 80%.
+Tomorrow's plan:
+finish task2-3
+finish task2-5
+To do new task.
+Thanks a lot!
+Hi 
+Today progress:
+task2-3: 90%.
+task2-4: finished.
+task2-5: 80%.
+Tomorrow's plan:
+finish task2-3
+finish task2-5
+To do new task.
+Thanks a lot!
+
+Good morning!
+My work plan today:
+finish task2-3:1h
+finish task2-5:1h
+start to do task2-7:
+Thanks a lot!
+
+today progress:
+finish task2-3:1h
+finish task2-5:1h
+task2-6: 40%
+Tomorrow's plan:
+continue to do task2-6.
+Thanks a lot!
+Good morning!
+continue to do task2-6
+Thanks a lot!
+Good morning 
+I hope you have a nice week.
+Our work plan today:
+Continue to do task2-6.
+Finish task2-8 (1h)
+Thanks a lot!
+
+Today progress:
+I have remove the link in SEIKO, IWC, Patek philippe brand.
+task2-8:90%
+I am apologize for my delay.
+Tomorrow's plan:
+Tomorrow , I will upload to test server.
+finish task2-8.
+Thanks a lot!
+
+Good morning 
+I hope you have nice day!
+My work plan today:
+Finish task2-6:list completed. (1h)
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+Finish task2-8: 1h
+Thanks a lot!
+
+Today progress:
+task2-6: completed list
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+task2-8:90%
+task priority:90%
+Tomorrow's plan:
+finish task priority
+continue todo task2-6
+finish task2-7
+finish task2-8
+Thanks a lot!
+
+Good morning!
+my work plan today:
+finish priority task: (2h)
+continue to do task2-6. (2h)
+finish task2-8. (1h)
+finish task2-7(3h)
+Thanks a lot!
+
+today progress:
+finish task2-6:
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+finish task 2-7:
+task2-8:90%
+task2-6: 50%
+• audemars piguet
+• vacheron constantin
+• breguet
+• A. Lange &amp; Söhne
+• hublot
+• panerai
+tomorrow's plan:
+start task2-9.
+
+today progress:
+finish task2-6:
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+finish task 2-7:
+task2-8:90%
+task2-6: 50%
+• audemars piguet
+• vacheron constantin
+• breguet
+• A. Lange &amp; Söhne
+• hublot
+• panerai
+tomorrow's plan:
+start task2-9.
+Thanks a lot!
+
+today progress:
+finish task2-6:
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+finish task 2-7:
+task2-8:90%
+task2-6: 50%
+• audemars piguet
+• vacheron constantin
+• breguet
+• A. Lange &amp; Söhne
+• hublot
+• panerai
+tomorrow's plan:
+start task2-9.
+Thanks a lot!
+
+today progress:
+finish task2-6:
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+finish task 2-7:
+task2-8:90%
+task2-6: 50%
+• audemars piguet
+• vacheron constantin
+• breguet
+• A. Lange &amp; Söhne
+• hublot
+• panerai
+tomorrow's plan:
+start task2-9.
+Thanks a lot!
+
+today progress:
+finish task2-6:
+• オメガ
+• セイコー
+• IWC
+• ブライトリング
+• パテックフィリップ
+finish task 2-7:
+task2-8:90%
+task2-6: 50%
+• audemars piguet
+• vacheron constantin
+• breguet
+• A. Lange &amp; Söhne
+• hublot
+• panerai
+tomorrow's plan:
+start task2-9.
+Thanks a lot!
+Good morning 
+my work plan today:
+finish task2-8:1h
+start to do task2-9
+Thanks a lot!
+
+today progress:
+task2-9:40% (4h)
+task2-8:95%
+task2-6: audemarspiguet  （50％）
+vacheron 　（50％）
+breguet 　（50％）
+alange-soehne 　（50％）
+hublot 　（50％）
+panerai 　（50％）
+ーーーーーーーーーーーーーーーーーーーー
+Tomorrow’S plan
+finish task2-9.
+Thanks a lot!
+Good morning 
+my work plan today:
+finish task2-8:1h
+finish task2-9
+Thanks a lot!
+
+Since it is a weekend today, if the check time of "2-9" is late, please deploy next week.
+
+Japan is a public holiday on Monday
+
+I understand!
+Thanks a lot!
+
+today progress:
+task2-9:70%
+task2-6
+
+• audemarspiguet 
+• vacheron 　
+• breguet 　
+• alange-soehne 　
+• hublot 　
+• panerai 　
+Thanks a lot!
+
+My work plan today:
+task2-9:(finish) 5h (in my local)
+task2-10: finish 1h. (in my local)
+Thanks a lot!
+
+My work plan today:
+task2-9:(finish) 5h (in my local)
+task2-10: finish 1h. (in my local)
+task2-11:1h
+Thanks a lot!
+
+My work plan today:
+task2-9:(finish) 5h (in my local)
+task2-10: finish 1h. (in my local)
+task2-11:1h
+Thanks a lot!
+
+today progress:
+finish task2-9:6h (on my local)
+finish task2-10:2h (on my local)
+tomorrow's plan:
+finish task2-8 (production)
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local)
+Thanks a lot!
+
+My work plan today:
+finish task2-8 (production)
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+
+Thanks a lot!
+
+today progress:
+finish task2-8:1h
+finish task2-9(test-server)4h
+• fix task2-9:3h
+finish task2-10(test-server)1
+doing task2-11(local):2h
+tomorrow's plan:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+today progress:
+finish task2-8:1h
+finish task2-9(test-server)1h
+fix task2-9:3h
+finish task2-10(test-server)1
+doing task2-11(local):2h
+tomorrow's plan:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+today progress:
+finish task2-8:1h
+finish task2-9(test-server)1h
+fix task2-9:3h
+finish task2-10(test-server)1
+doing task2-11(local):2h
+tomorrow's plan:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+today progress:
+finish task2-8:1h
+finish task2-9(test-server)1h
+fix task2-9:3h
+finish task2-10(test-server)1
+doing task2-11(local):2h
+tomorrow's plan:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+today progress:
+finish task2-8:1h
+finish task2-9(test-server)1h
+fix task2-9:3h
+finish task2-10(test-server)1
+doing task2-11(local):2h
+tomorrow's plan:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+Good morning
+my work plan today
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+today progress:
+fix task2-9 ( test-server)1h
+ task2-11(local):
+• rolex column: 100% (4h)
+• rolex technical: 30% (2h)
+tomorrow's plan:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+
+Good morning
+my work plan today:
+finish task2-9(production)
+finish task2-10(production)
+doing task2-11(local):
+Thanks a lot!
+today progress:
+fix task2-10 finish
+task2-9
+ 3h
+ task2-11(local):
+• rolex technical: 40% (4h)
+tomorrow's plan:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+today progress:
+fix task2-10 finish
+task2-9: 3h
+ task2-11(local):
+• rolex technical: 40% (4h)
+tomorrow's plan:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+.Good morning
+my work plan today:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+
+Good morning
+my work plan today:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+
+Good morning
+my work plan today:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+
+Good morning
+my work plan today:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+
+Good morning
+my work plan today:
+finish task2-9(production)
+doing task2-11(local):
+Thanks a lot!
+
+today progress:
+finish task2-9:5h
+ task2-11(local):
+• rolex technical: 70% (3h)
+Thanks a lot!
+
+Good morning 
+I hope you have nice week.
+My work plan  today:
+doing task2-11(local):
+Thanks a lot!
+today progress:
+finish task2-9:5h
+ task2-11(local):
+rolex technical: 100% (6h)
+add content rolex-page.
+check task3-1.
+tomorrow's plan:
+to do task3-1:
+continue to do task2-11.
+Thanks a lot!
+
+today progress:
+task2-11
+100% ( checking)
+tomorrow's plan:
+task2-11: finish
+task3-2:finish
+task3-3:finish
+Thanks a lot!
+
+good morning!
+Today's task:
++ 【3-2】The strange font :100% (2h)
++ 【3-3】Stamp page (estimate time: 100% (2h)
+Thanks a lot!
+
+Today's progress(03/05/2020):
+    - Task 3-2: 100%
+    - Task 2-11:
+         + Fix bug and deploy task 2-11 to test server (100%)
+Next plan:
+   - Task 2-11:
+         + Deploy task 2-11 to product server (1h)
+    -Task 3-3 (2h)
+Thanks a lot!
+
+good morning.
+Today' task:
+  - Task 2-11:
+     + Deploy task 2-11 to product server (1h)
+*  *- Task 3-3 :
+     + fix on local (2h)
+  - Task 2-6 :
+     + fix on local (*Not estimated yet*)
+Thanks a lot!
+
+Today’s progress(03/06/2020):
+  - Task 2-11:
+     + Fix bug, deploy task 2-11 to test server and product server: 3h (100%)
+  - Task 3-3 :
+     + Fix on local, deploy tasm 3-3 to test server and product server: 4h (100%)
+  - Task 2-6 :
+     + Franckmuller brand: 1h (50%)
+Next plan:
+   - Task 2-2-1: (2h)
+   -Task 3-5: (2h)
+   -Task 3-6: (4h)
+Thanks a lot!
+
+Today's plan:
+   - Task 2-2-1:
+            + Local Enviroment (0.5h)
+            + Deploy to test server (0.5h)
+   - Task 3-5: (2h)
+            + Fix Local: 2h
+   - Task 3-6:
+            + Fix Local: 5h
+Thanks a lot!
+
+Today’s progress(03/09/2020):
+  - Task 2-2-1:
+     + Fix bug, deploy task 2-11 to test server : 1h (100%)
+  - Task 3-3 :
+     + Fix on local, deploy task 3-3 to test server and product server: 3h (100%)
+ - Task 3-5 :
+     + Fix on local: 3h (50%)
+  - Task 2-6 : (On local)
+     + Richardmile brand: 0.5h (100%)
+     + Roger dubuis brand: 0.5h (30%)
+Next plan:
+   - Task 3-5: (2h)
+   - Task 2-6: (6h)
+Thanks a lot!
+
+Today’s progress(03/09/2020):
+  - Task 2-2-1:
+     + Fix bug, deploy task 2-11 to test server : 1h (100%)
+  - Task 3-5 :
+     + Fix on local, deploy task 3-3 to test server and product server: 3h (100%)
+ - Task 3-6 :
+     + Fix on local: 3h (50%)
+  - Task 2-6 : (On local)
+     + Richardmile brand: 0.5h (100%)
+     + Roger dubuis brand: 0.5h (30%)
+Next plan:
+   - Task 3-6: (2h)
+   - Task 2-6: (6h)
+Thanks a lot!
+
+Today’s progress(03/09/2020):
+  - Task 2-2-1:
+     + Fix bug, deploy task 2-11 to test server : 1h (100%)
+  - Task 3-5 :
+     + Fix on local, deploy task 3-3 to test server and product server: 3h (100%)
+ - Task 3-6 :
+     + Fix on local: 3h (50%)
+  - Task 2-6 : (On local)
+     + Richardmile brand: 0.5h (100%)
+     + Roger dubuis brand: 0.5h (30%)
+Next plan:
+   - Task 3-6: (2h)
+   - Task 2-6: (6h)
+Thanks a lot!
+
+Good morning
+Today's plan:
+   - Task 2-6:
+            + Local Enviroment (6h)
+   - Task 3-6:
+            + Fix Local: 2h
+Thanks a lot!
+
+Today’s progress(03/09/2020):
+  - Task 2-2-1:
+     + Fix bug, deploy task 2-11 to test server : 1h (100%)
+  - Task 3-5 :
+     + Fix on local, deploy task 3-3 to test server and product server: 3h (100%)
+ - Task 3-6 :
+     + Fix on local: 3h (50%)
+  - Task 2-6 : (On local)
+     + Richardmile brand: 0.5h (100%)
+     + Roger dubuis brand: 0.5h (30%)
+Next plan:
+   - Task 3-6: (2h)
+   - Task 2-6: (6h)
+Thanks a lot!
+
+What do you specifically do in 2hours of 3-6?
+We will consider whether to do this case.
+
+ok
+I got it.
+Thanks for your remind.
+Thanks a lot!
+
+Good morning
+Today's plan:
+   - Task 2-6:
+            + Local Enviroment (8h)
+Thanks a lot!
+
+Good morning
+Today's plan:
+   - Task 2-6:
+            + Local Enviroment (8h)
+Thanks a lot!
+
+Good morning
+Today's plan:
+   - Task 2-6:
+            + Local Enviroment (8h)
+Thanks a lot!
+
+Good morning
+Today's plan:
+   - Task 2-6:
+            + Local Enviroment (8h)
+Thanks a lot!

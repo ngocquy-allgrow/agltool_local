@@ -1,0 +1,1221 @@
+自動翻訳テスト
+
+Hi Fukuda-san.
+Happy new year! I wish you all the best.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Goodbye. See you next week!
+
+Dong、こんにちは！
+muracoのアカウント情報をまとめましたので、以下ご確認ください。
+
+
+【Shopify account】
+
+store name:
+muracodesigns
+
+user:
+
+
+password:
+shopifymuraco_2019
+
+
+
+【FTP account】
+
+server:
+
+
+user:
+muracoserver
+
+password:
+u6lzgx69
+
+directory:
+/muracodesigns.com/public.html/journal/
+
+*Operate in the following subdomains.
+
+
+
+
+【Data Base】
+
+database name:
+muracoserver_wp
+
+host:
+
+
+user:
+muracoserver_usr
+
+password:
+u6lzgx69
+
+また、今回のサイト構成案の資料もお送りします。（日本語のみでごめんなさい。）
+お時間がある際にご確認ください。
+
+Hi Fukuda-san.
+I have checked all the information. almost anything can be connected. After I set up wordpress, I will check the database connection later. Also, I have received documentation for site structure. I will check it now. Thank you!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning! I wish you all the best on this day
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning!
+
+Hi Fukuda-san.
+Goodbye! See you next week!
+ 
+デザインの共有が遅れており申し訳ありません。現在クライアントにデザインを確認してもらっているので、もう少しお待ちください。
+引き続き宜しくお願い致します！
+
+Hi Fukuda-san.
+Yes, I understood. Thank you very much.
+
+こんにちは、Dong。
+Shopifyのシステムが関わるページについて、リサーチをして貰いたいです。
+
+・Shopping Cart / Check out
+・Login
+・Sign up
+・Account（History、Wish List、Address）
+・Contact Form
+
+上記5種類のページですが、テンプレートのカスタマイズがどこまでできるのか、各ページごとにリサーチしてもらえますか？
+テンプレートを直接修正できないページがあれば、教えてください。
+宜しくお願い致します！
+
+ちなみにページの構成ですが、添付した画像の構成でページ作成を行います。
+（一部日本語で申し訳ありません！）
+
+I understand. I will research it next Monday. Thank you
+
+Goodbye. See you next Monday!
+
+Hi Fukuda-san.
+Good morning. Today I will give you statistics about the extent of possible custom pages above. Please wait for me a bit. I will finish it soon.
+
+Thank you for your research!
+I proceed with the design, assuming you can customize a template other than the checkout page.
+
+By the way, is it impossible to customize button colors and fonts on the checkout page?
+Shopify Plus is very expensive and will not be used.
+
+I can customize button colors, fonts on the checkout page.
+
+I can customize button colors and fonts on the checkout page.
+
+I can customize button colors and fonts on the checkout page.
+
+I can customize button colors and fonts on the checkout page.
+
+I can customize button colors and fonts on the checkout page.
+
+お待たせしているデザインですが、まだクライアントから返答が来ていないので修正が入る可能性はありますが、現段階のものをお渡ししておくので、構成をご確認ください。
+（クライアントからの返答後に指示書をお渡しします。）
+
+以前にご相談した「1スクロール1コンテンツ」の仕様ですが、デザインの都合上、今回は採用せずに普通のスクロールで進める予定です。
+
+今回のコーディングから、1024pxでブレークポイントを追加してもらいたいです。（デザインデータ参照）
+
+ご確認宜しくお願いします！
+
+I understand. I will check the design.
+
+Hi Fukuda-san.
+Goodbye! See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. I wish you all the best on this day.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+休暇の件、了解いたしました！
+1ページだけ簡単なコーディングをお願いしても良いですか？
+16時までにできる範囲で大丈夫です。
+
+I understand. It's ok.
+
+I understand. It's ok.
+
+トップページのデザインが大方固まってきたので、コーディングをお願いします。
+「Recommend」ですが、トップに表示させるかどうかまだ決まっていないので、表示させる前提でコーディングを進めてください。
+指示が不明な箇所があれば、質問してください！
+宜しくお願いします。
+
+Hi Fukuda-san.
+Good morning. I have received the design file. I will code it now. This is my scheduled time:
+1. HTML: 4 hours
+2. CSS: 6 hours
+3. Animation: 6 hours
+4. Convert to Shopify: 6 hours
+
+Hi Fukuda-san.
+Today I have completed 40% the TOP page. This is my progress:
+1. HTML: 100%
+2. CSS: 50%
+3. Animation: 70%
+4. Convert to Shopify: 0%
+I will continue coding the TOP page tomorrow.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. Today I will continue coding the TOP page.
+
+続いてPRODUCTページのデザインをお送りするのですが、Shopifyの商品登録画面のカスタムフィールドについてリサーチしてもらいたいことがあります。
+カスタマイズをする際、「Custum Fields App」を利用することになると思いますが、どのプランだとデザインが実現できそうでしょうか？
+
+
+Hi Fukuda-san.
+If I use the "Custom Fields App" then the Premium plan is the best option to realize the design because the design requires image upload. However, if customers can upload photos in another place just by taking the link, I can use the Lite plan.
+
+Thank you for your research!
+Check with the client.
+
+Hi Fukuda-san.
+Today I have completed 70% the TOP page. This is my progress:
+1. HTML: 100%
+2. CSS: 100%
+3. Animation: 100%
+4. Convert to Shopify: 0%
+I will continue coding the TOP page next week.
+Goodbye. See you next week.
+
+Dong,おはようございます。
+今日の作業に入る前に、Shopifyについて以下リサーチしてもらえますか？
+
+1. Wish Listを引き込む場所は、どこでも大丈夫ですか？
+　（MY PAGEの中に作ろうと思ってますが、問題ないですか？）
+
+2. Wish Listは会員限定の機能にしたいと考えていますが、可能ですか？
+
+3. コンタクトフォームですが、以下のカスタマイズは可能ですか？
+　　・問い合わせの種別を選ばせる（商品について、修理について、など）
+　　・画像をアップロードできるようにする
+
+以上、宜しくお願い致します！
+
+Hi Fukuda-san.
+Good morning. I have a question. Can I do research on  ? Thank you.
+
+Hi Fukuda-san.
+Good morning. I have a question. Can I do research on  ? Thank you.
+
+Hi Fukuda-san.
+Good morning. I have a question. Can I do research on  ? Thank you.
+
+Hi Fukuda-san.
+Good morning. I have a question. Can I do research on  ? Thank you.
+
+Hi Fukuda-san.
+Good morning. I have a question. Can I do research on  ? Thank you.
+
+はい、大丈夫です！
+ただし店舗自体は非公開のままでお願いします。
+
+はい、大丈夫です！
+ただし店舗自体は非公開のままでお願いします。
+Thank you
+Thank you
+
+Thank you
+
+Thank you
+
+Hi Fukuda-san.
+According to my research, I can answer you as follows:
+(1), (2) It can be done if using the Wishlist Plus app (with free plan)
+(3) The contact form doesn't support file fields so you'd need to use an app or a third party service (like jotform, wufoo, ...)
+
+リサーチどうもありがとうございます！
+(3)ですが、アプリは無料で実現できそうですか？またデザインのカスタマイズが可能かどうか知りたいです。
+
+Hi Fukuda-san.
+I can send the contact with custom fields and Images upload by this app  but the ability to customize is limited (it can change colors, borders and fonts). However, if you upgrade to Pro ($ 10 / month), you can customize unlimited.
+
+Hi Fukuda-san.
+I can send the contact with custom fields and Images upload by this app  but the ability to customize is limited (it can change colors, borders and fonts). However, if you upgrade to Pro ($ 10 / month), you can customize unlimited.
+
+Hi Fukuda-san.
+I can send the contact with custom fields and Images upload by this app  but the ability to customize is limited (it can change colors, borders and fonts). However, if you upgrade to Pro ($ 10 / month), you can customize unlimited.
+
+Hi Fukuda-san.
+I can send the contact with custom fields and Images upload by this app  but the ability to customize is limited (it can change colors, borders and fonts). However, if you upgrade to Pro ($ 10 / month), you can customize unlimited.
+ 
+ありがとうございます！クライアントに確認をとりますね。
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. I was thinking that if the customer has another server, domain and email to send contact form, I can build a server to upload photos and send contacts for free. However, a security error on this server can occur but if I have time to check the error, I think this server can work.
+
+Hi Fukuda-san.
+Today I have completed 50% convert TOP page to Shopify. I will continue converting tomorrow.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. Today I will continue converting the TOP page. It will be completed with 6 hours
+ 
+クライアントに確認してみます！
+
+今日アドレスを
+
+に変更したそうです。
+パスワードは変わらずです！
+
+Thank you very much!
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link for preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link for preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link for preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link to preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link to preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link to preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link for preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link to preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link for preview: 
+
+Hi Fukuda-san.
+I have completed convert the TOP page to shopify. Can you help me to check it? Thank you.
+
+Here is the link to preview: 
+ 
+ありがとうございます！確認します！
+
+チェックに時間がかかりそうなので、明日からジャーナルページのコーディング&amp;WP実装をお願いします。
+今夜中に指示書を作成して、作業ができるように準備しておきますね。
+
+I understand. Thank you.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+ジャーナルページのデザイン&指示書ができましたので、コーディングをお願い致します。
+
+今現在、サブドメイン がうまく作動していないので、こちらについては明日確認してご連絡します。
+
+
+不明点があれば質問してください。
+宜しくお願いします！
+
+それと、ShopifyのBUY BUTTONのサンプルコードをお送りしますので、こちらもご確認ください！
+
+Hi Fukuda-san.
+Good morning. I understand the requirements. I will code it now. This is my estimated time:
+1. HTML: 4 hours
+2. CSS: 4 hours
+3. Animation: 2 hours
+4. Convert to WP: 8 hours
+
+Hi Fukuda-san.
+Today I have completed 30% the WP page. Here is my progress:
+1. HTML: 100%,
+2. CSS: 70%,
+3. Animation: 70%,
+4. Convert to WP: 0%
+I will continue coding the WP page tomorrow.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will continue coding the WP page.
+ 
+サブドメインのURLが確認できるようになりましたので、サーバー上で実装をお願いいたします。
+
+
+なお、BASIC認識を設定してから作業してください。よろしくお願いします！
+
+Hi Fukuda-san.
+I have a question. What directory do I implement it into the server?
+Thank you.
+
+
+以下のディレクトリに実装してください！
+/
+
+よろしくお願いします！
+
+I understand. Thank you!
+
+Hi Fukuda-san.
+I have this error message when access to WP. Currently, due to the security measures of X server, access to the WordPress management screen from some usage environments is restricted. Can you help me to fix that? Thank you.
+ 
+了解しました！今から対応します。
+
+国外IP制限がかかっていたようなので、解除しました。もう一度トライしてくれますか？
+
+Thank you. Now I can access to WP.
+
+Sorry. Now I have another problem. Can you access to this address?
+
+"www."は不要だと思うのですが、エラーが出ますか？
+
+Sorry. I did not notice. Thank you.
+
+Hi Fukuda-san. I am installing WP. I want to ask you which email can I use to sign up for WP? Thank you.
+
+Hi Fukuda-san. I am installing WP. I want to ask you which email, username and password can I use to sign up for WP? Thank you.
+
+Hi Fukuda-san. I am installing WP. I want to ask you which email, username and password can I use to sign up for WP? Thank you.
+
+Hi Fukuda-san. I am installing WP. I want to ask you which email, username and password can I use to sign up for WP? Thank you.
+ 
+
+user:
+muraco_admin
+
+password:
+Gf85qhx9
+
+mail:
+
+
+
+でお願いいたします！
+
+I understand. Thank you
+
+Hi Fukuda-san. I am installing WP. I want to ask you which email, username and password can I use to sign up for WP? Thank you.
+
+Hi Fukuda-san.
+Today I have complete 60% the WP page. This is my progress:
+1. HTML: 100%,
+2. CSS: 100%,
+3. Animation: 100%,
+4. Convert to WP: 0%,
+I had a bit of difficulty with Shopify's Buy Button so I was a bit late. I will try harder next week. Thank you. See you next week!
+
+Hi Fukuda-san.
+Today I have complete 60% the WP page. This is my progress:
+1. HTML: 100%,
+2. CSS: 100%,
+3. Animation: 100%,
+4. Convert to WP: 0%,
+I had a bit of difficulty with Shopify's Buy Button so I was a bit late. I will try harder next week. Goodbye. See you next week!
+
+Hi Fukuda-san.
+Today I have complete 60% the WP page. This is my progress:
+1. HTML: 100%,
+2. CSS: 100%,
+3. Animation: 100%,
+4. Convert to WP: 0%,
+I had a bit of difficulty with Shopify's Buy Button so I was a bit late. I will try harder next week. Goodbye. See you next week!
+
+Hi Fukuda-san.
+Today I have complete 60% the WP page. This is my progress:
+1. HTML: 100%,
+2. CSS: 100%,
+3. Animation: 100%,
+4. Convert to WP: 0%,
+I had a bit of difficulty with Shopify's Buy Button so I was a bit late. I will try harder next week. Goodbye. See you next week!
+
+Hi Fukuda-san.
+Today I have complete 60% the WP page. This is my progress:
+1. HTML: 100%,
+2. CSS: 100%,
+3. Animation: 100%,
+4. Convert to WP: 0%,
+I had a bit of difficulty with Shopify's Buy Button so I was a bit late. I will try harder next week. Goodbye. See you next week!
+
+Hi Fukuda-san.
+Good morning. Today I will convert HTML to WP. It will be completed with 6 hours.
+
+Hi Fukuda-san.
+WP page completion time may not be as expected. I'm sorry about that. WP page can be completed in 4 hours.
+
+Hi Fukuda-san.
+I have completed the WP page. Can you help me to check it?
+
+Hi Fukuda-san.
+I have completed the WP page. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have completed the WP page. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have completed the WP page. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have completed the WP page. Can you help me to check it? Thank you.
+
+ありがとうございます！
+確認して明日お戻ししますね。
+
+I understand.
+Goodbye. See you tomorrow.
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+続いて記事詳細ページです。こちらは全体的にレイアウトが乱れています。
+もう一度デザインを見ながら確認していただけますか？
+質問があれば聞いてください。宜しくお願い致します。
+
+最後にWPのカスタマイズですが、こちらはOKです。
+本文入力欄に使用しているtool barですが、「Format」の中にある「Note」と言うのはどんなスタイルを与えるメニューですか？
+また、写真下のキャプションを装飾するフローを教えてください。
+ご確認お願いします！
+
+Hi Fukuda-san.
+Good morning. I will check it out and inform you later. Thank you!
+
+Hi Fukuda-san.
+I have a question. Do you want me to add fade effects to buttons?
+ 
+書き忘れてしまってすみません
+
+このタイプのボタンには、ホバーのタイミングでフェード効果を与えてください！
+
+I understand. Thank you. And you want to display only 1 line for this text, right?
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+まずは記事一覧ページから修正をお願いします。TOPページにも同様の箇所があると思うので、今回の修正はTOPページにも反映させるようにしてください。
+不明点があれば質問してください！宜しくお願い致します。
+
+In the information category, I see this line in the content and I think maybe it will be used many times so I made it a note class and it has the same style as a paragraph but only changes the color. If you don't need it I can remove it.
+
+About caption for the image, When you select the image to insert you will have caption field for the photo. If you enter the caption text, the caption will be displayed as in the design.
+ 
+理解できました！ありがとうございます！
+
+Hi Fukuda-san.
+I have completed the correction. Can you help me to check it? Thank you.
+
+チェックお待たせしました！
+添付のファイルを確認して、再度修正をお願いできますか？
+宜しくお願いします。
+
+I understand. I will check it again. Thank you!
+
+そして、ご相談があります。
+現在hoverアクションで「B&amp;W → COLOR」になるように、CSSを設定されていますが、以下のように変更できますか？
+
+・min-width: 1025px;
+→ 今まで通りのhover
+
+・max-width: 1024px;
+→ 要素が画面の半分までスクロールされたら「B&amp;W → COLOR」になる
+
+ご確認お願いします！
+
+そして、ご相談があります。
+現在hoverアクションで「B&amp;W → COLOR」になるように、CSSを設定されていますが、以下のように変更できますか？
+
+・min-width: 1025px;
+→ 今まで通りのhover
+
+・max-width: 1024px;
+→ 要素が画面の半分までスクロールされたら「B&amp;W → COLOR」になる。（hoverからスクロールアクションに変更）
+
+ご確認お願いします！
+
+そして、ご相談があります。
+現在hoverアクションで「B&amp;W → COLOR」になるように、CSSを設定されていますが、以下のように変更できますか？
+
+・min-width: 1025px;
+→ 今まで通りのhover
+
+・max-width: 1024px;
+→ 要素が画面の半分までスクロールされたら「B&amp;W → COLOR」になる。（hoverからスクロールアクションに変更）
+
+ご確認お願いします！
+
+そして、ご相談があります。
+現在hoverアクションで「B&amp;W → COLOR」になるように、CSSを設定されていますが、以下のように変更できますか？
+
+・min-width: 1025px;
+→ 今まで通りのhover
+
+・max-width: 1024px;
+→ 要素が画面の半分までスクロールされたら「B&amp;W → COLOR」になる。（hoverからスクロールアクションに変更）
+
+ご確認お願いします！
+
+Yes, I will change it as your follows.
+
+そして、ご相談があります。
+現在hoverアクションで「B&amp;W → COLOR」になるように、CSSを設定されていますが、以下のように変更できますか？
+
+・min-width: 1025px;
+→ 今まで通りのhover
+
+・max-width: 1024px;
+→ 要素が画面の半分までスクロールされたら「B&amp;W → COLOR」になる。（hoverからスクロールアクションに変更）
+
+ご確認お願いします！
+
+Hi Fukuda-san.
+I have completed the correction.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will fetch data from WP to Shopify.
+
+Hi Fukuda-san.
+I have completed fetch data from WP to Shopify.
+
+修正ありがとうございました！ほぼ完璧です。
+最後に少しだけ修正してもらえますか？
+
+I understand. I will fix it now.
+
+1点修正が漏れていました。
+添付ファイルのご確認をお願いします！
+
+I understand. I will fix it now.
+
+Hi Fukuda-san.
+I have finished fix it. Can you help me to check it? Thank you.
+
+ありがとうございます！
+詳細ページ、下の方にあるページャーのリンク先も逆にしてもらえますか？
+
+Yes, I will do it now.
+
+Hi Fukuda-san.
+I have finished it,
+
+どうもありがとうございます！
+スマホだとスライドメニューをタップできないようですが、確認してもらえますか？
+
+I will check it again. Thank you.
+
+Hi Fukuda-san.
+Shopify Buy Button allow to press the button not all subjects and when I press the button, it still works.
+
+Hi Fukuda-san.
+Shopify Buy Button allow to press the button not all subjects and when I press the button, it still works.
+
+Hi Fukuda-san.
+I have fixed it. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have fixed it. Can you help me to check it? Thank you.
+
+ありがとうございます！タップは効くようになりました。
+最後にこちらだけ修正していただけますか？
+
+I understand. I will finish it soon.
+
+Hi Fukuda-san.
+I have finished it. Can you help me to check it? Thank you.
+
+I'm sorry. I still don't quite get it. Can you explain it for me?
+
+If it is 100vh, it will include the height of the browser URL bar when browsing on iOS. Therefore, I think that the footer has been cut off like this.
+
+I understand. I will fix it now.
+
+Thank you very much.
+
+And since the width changes depending on the device, set the width of the menu area in %.
+
+I got it. I will fix it now. Thank you.
+
+Hi Fukuda-san.
+I have finished it. Can you help me to check it?
+
+Thank you! Perfect!!
+Please fetch data from WP to Shopify. Thank you.
+
+I did it this morning. You can check it out
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning!
+
+本日はLDLのコーディング対応ありがとうございました。
+明日からmuracoのサブページのコーディングをお願いします。
+今回のデザインは、PCのデザインと、一部のスマホデザインのみ作成しています。
+似たようなデザインが多いので、他のページを参考しながらコーディングを進めてください。
+
+以下、基本的なコーディングのルールになります。
+
+
+・PC（min-width: 1025px;）：
+デザイン通り
+
+・iPadPro（max-width: 1024px;）：
+PCと同じレイアウト・同じフォントサイズ。
+メインメニューがサイドからブラウザ上部へ変更。
+
+・iPad（max-width: 812px;）：
+iPadProと基本は同じレイアウトだが、フォントサイズやマージンはスマホに合わせる。
+
+・SP（max-width: 450px;）：
+デザイン通り
+
+
+不明点や、Shopifyのテンプレートと比較して不足しているデザインがあればご連絡ください！
+宜しくお願い致します。
+
+本日はLDLのコーディング対応ありがとうございました。
+明日からmuracoのサブページのコーディングをお願いします。
+今回のデザインは、PCのデザインと、一部のスマホデザインのみ作成しています。
+似たようなデザインが多いので、他のページを参考しながらコーディングを進めてください。
+
+以下、基本的なコーディングのルールになります。
+
+
+・PC（min-width: 1025px;）：
+デザイン通り
+
+・iPadPro（max-width: 1024px;）：
+PCと同じレイアウト・同じフォントサイズ。
+メインメニューがサイドからブラウザ上部へ変更。
+
+・iPad（max-width: 812px;）：
+iPadProと基本は同じレイアウトだが、フォントサイズやマージン、ロゴやアイコンのサイズはスマホに合わせる。
+
+・SP（max-width: 450px;）：
+デザイン通り
+
+
+不明点や、Shopifyのテンプレートと比較して不足しているデザインがあればご連絡ください！
+宜しくお願い致します。
+
+本日はLDLのコーディング対応ありがとうございました。
+明日からmuracoのサブページのコーディングをお願いします。
+今回のデザインは、PCのデザインと、一部のスマホデザインのみ作成しています。
+似たようなデザインが多いので、他のページを参考しながらコーディングを進めてください。
+
+以下、基本的なコーディングのルールになります。
+
+
+・PC（min-width: 1025px;）：
+デザイン通り
+
+・iPadPro（max-width: 1024px;）：
+PCと同じレイアウト・同じフォントサイズ。
+メインメニューがサイドからブラウザ上部へ変更。
+
+・iPad（max-width: 812px;）：
+iPadProと基本は同じレイアウトだが、フォントサイズやマージン、ロゴやアイコンのサイズはスマホに合わせる。
+
+・SP（max-width: 450px;）：
+デザイン通り
+
+
+不明点や、Shopifyのテンプレートと比較して不足しているデザインがあればご連絡ください！
+宜しくお願い致します。
+
+本日はLDLのコーディング対応ありがとうございました。
+明日からmuracoのサブページのコーディングをお願いします。
+今回のデザインは、PCのデザインと、一部のスマホデザインのみ作成しています。
+似たようなデザインが多いので、他のページを参考しながらコーディングを進めてください。
+
+以下、基本的なコーディングのルールになります。
+
+
+・PC（min-width: 1025px;）：
+デザイン通り
+
+・iPadPro（max-width: 1024px;）：
+PCと同じレイアウト・同じフォントサイズ。
+メインメニューがサイドからブラウザ上部へ変更。
+
+・iPad（max-width: 812px;）：
+iPadProと基本は同じレイアウトだが、フォントサイズやマージン、ロゴやアイコンのサイズはスマホに合わせる。
+
+・SP（max-width: 450px;）：
+デザイン通り
+
+
+不明点や、Shopifyのテンプレートと比較して不足しているデザインがあればご連絡ください！
+宜しくお願い致します。
+
+本日はLDLのコーディング対応ありがとうございました。
+明日からmuracoのサブページのコーディングをお願いします。
+今回のデザインは、PCのデザインと、一部のスマホデザインのみ作成しています。
+似たようなデザインが多いので、他のページを参考しながらコーディングを進めてください。
+
+以下、基本的なコーディングのルールになります。
+
+
+・PC（min-width: 1025px;）：
+デザイン通り
+
+・iPadPro（max-width: 1024px;）：
+PCと同じレイアウト・同じフォントサイズ。
+メインメニューがサイドからブラウザ上部へ変更。
+
+・iPad（max-width: 812px;）：
+iPadProと基本は同じレイアウトだが、フォントサイズやマージン、ロゴやアイコンのサイズはスマホに合わせる。
+
+・SP（max-width: 450px;）：
+デザイン通り
+
+
+不明点や、Shopifyのテンプレートと比較して不足しているデザインがあればご連絡ください！
+宜しくお願い致します。
+
+明日、Shopifyの商品詳細ページについてリサーチしてもらいたいものがあります。
+商品写真のスライドの一番最後に、動画を挿入するように設定することは可能かどうか調べてもらいますか？
+
+参考サイト：
+
+
+ご確認お願い致します！
+
+Hi Fukuda-san.
+Good morning. All seems almost complete, only the Cart page and the Activate Account page are missing
+ 
+ご確認ありがとうございます。
+後ほどお送りします！
+
+Hi Fukuda-san.
+It can insert a video if you have a link to the video file.
+
+I'm sorry. The search page is also missing
+ 
+動画はShopifyサーバーにアップロードする仕様でしょうか？
+
+Yes. You can upload it here.
+
+Hi Fukuda-san. Today I have completed 20% the Shopify. This is my progress:
+1. Support / FAQ: 100%
+2. Checkout:          80%
+3. Login:                 70%
+Goodbye. See you next week!
+
+Hi Fukuda-san.
+Good morning. Today I will code the Login, Password, ReCAPTCHA Password, Password 2, Password 3, Password 4, Sign up, ReCAPTCHA Sign up page.
+
+Hi Fukuda-san.
+I think the logout button is missing on the menu. Would you like me to add it?
+ 
+ログアウトボタンはマイページの中にあるので、スライドメニューには含めなくて大丈夫です！
+
+I understand. Thank you very much.
+
+Hi Fukuda-san. Today I have completed 60% the Shopify. This is my progress:
+1. Support: 100%
+2. Terms &amp; Conditions: 100%
+3. Terms of Membership: 100%
+4. Privacy Policy: 100%
+5. Login: 100%
+6. Recover password: 100%
+7. ReCAPTCHA password: 100%
+8. Transmission complete: 100%
+9. Password reset screen: 100%
+10. Password reset completed: 100%
+11. Sign up: 100%
+12. ReCAPTCHA Sign up: 100%
+Goodbye. See you next week!
+
+Hi Fukudan-san.
+Good morning. Today I will code the Guide, Contact, Contact complete, My Page page.
+
+Hi Fukuda-san.
+Hi Fukuda-san. Today I have completed 80% the Shopify. This is my progress:
+1. Guide: 100%
+2. Contact: 100%
+3. Contact complete: 100%
+4. My Page: 80%
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san. Today I have completed 60% the Shopify. This is my progress:
+1. Support: 100%
+2. Terms &amp; Conditions: 100%
+3. Terms of Membership: 100%
+4. Privacy Policy: 100%
+5. Login: 100%
+6. Recover password: 100%
+7. ReCAPTCHA password: 100%
+8. Transmission complete: 100%
+9. Password reset screen: 100%
+10. Password reset completed: 100%
+11. Sign up: 100%
+12. ReCAPTCHA Sign up: 100%
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san. Today I have completed 60% the Shopify. This is my progress:
+1. Support: 100%
+2. Terms &amp; Conditions: 100%
+3. Terms of Membership: 100%
+4. Privacy Policy: 100%
+5. Login: 100%
+6. Recover password: 100%
+7. ReCAPTCHA password: 100%
+8. Transmission complete: 100%
+9. Password reset screen: 100%
+10. Password reset completed: 100%
+11. Sign up: 100%
+12. ReCAPTCHA Sign up: 100%
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san. Today I have completed 60% the Shopify. This is my progress:
+1. Support: 100%
+2. Terms &amp; Conditions: 100%
+3. Terms of Membership: 100%
+4. Privacy Policy: 100%
+5. Login: 100%
+6. Recover password: 100%
+7. ReCAPTCHA password: 100%
+8. Transmission complete: 100%
+9. Password reset screen: 100%
+10. Password reset completed: 100%
+11. Sign up: 100%
+12. ReCAPTCHA Sign up: 100%
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san. Today I have completed 60% the Shopify. This is my progress:
+1. Support: 100%
+2. Terms &amp; Conditions: 100%
+3. Terms of Membership: 100%
+4. Privacy Policy: 100%
+5. Login: 100%
+6. Recover password: 100%
+7. ReCAPTCHA password: 100%
+8. Transmission complete: 100%
+9. Password reset screen: 100%
+10. Password reset completed: 100%
+11. Sign up: 100%
+12. ReCAPTCHA Sign up: 100%
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Today I have completed 80% the Shopify. This is my progress:
+1. Guide: 100%
+2. Contact: 100%
+3. Contact complete: 100%
+4. My Page: 80%
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will code the My Page, Address add, Address update, Order history page.
+
+Hi Fukuda-san.
+When customers add a new address, shopify does not have email field support. Do you want me to remove it?
+
+Hi Fukuda-san.
+Today I have completed 90% the Shopify. This is my progress:
+1. My Page: 100%
+2. Address add: 100%
+3. Address update: 100%
+4. Order history: 100%
+Goodbye. See you tomorrow!
+
+メッセージを見逃していました。ごめんなさい！
+確かにメールアドレス欄が入っていますね。削除してください！
+宜しくお願い致します。
+
+また、アカウントの有効化ページをお渡し忘れていました。
+添付のデザインデータをご確認ください！
+
+Hi Fukuda-san.
+Good morning. I have received the design file. Today I will code the Shop List and the Account Activate page
+
+Hi Fukuda-san.
+I have completed all page in the design. I will check it again tomorrow.
+Goodbye! See you tomorrow.
+
+サブページのコーディングありがとうございます。
+チェックが終わったら、続いて商品ページのコーディングをお願いできますか？
+ただし、商品詳細ページだけがデザイン確定していません。
+そのため、詳細ページ以外のコーディングを先に進めていただけますか？
+おそらく来週には確定すると思います。
+宜しくお願いします！
+
+Hi Fukuda-san.
+Good morning. I have received the design file. I will code the Products page after the check. Thank you.
+
+Hi Fukuda-san.
+I have completed 90% the Product list page. I will continue the code next Monday.
+Goodbye. See you next week!
+
+Hi Fukuda-san.
+Good morning. Today I will continue to code Product list page.
+
+Hi Fukuda-san.
+Good morning. Today I will continue to code Product list, Search, Cart page.
+
+Hi Fukuda-san.
+Good morning. Today I will continue to code Product list, Search, Cart page.
+
+Hi Fukuda-san.
+Shopify does not support filtering and sorting in searches. What do you want me to do with the category and sort buttons?
+
+Hi Fukuda-san.
+Good morning. Today I will continue to code Product list, Search, Cart page.
+
+Hi Fukuda-san.
+This is my working progress today:
+1. Product list: 100%
+2. Search: 90%,
+3. Cart: 80%,
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will code the Search and Cart page.
+ 
+返信が遅くなり申し訳ありません！
+ご指摘ありがとうございます。
+検索結果ページ、少し作り直しますね。
+他のページを進めておいてください！
+よろしくお願い致します。
+
+I understand. Thank you.
+
+Hi Fukuda-san.
+Today I have completed the Cart page.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Ohayo Gozaimasu.
+
+打ち合わせでご連絡が遅くなってしまいました。ごめんなさい。
+検索結果のデザイン、修正しましたのでご確認ください！
+宜しくお願い致します。
+
+I have received the design file. I will code it now. Thank you!
+
+Hi Fukuda-san.
+Today I have completed the Search page.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+おはようございます。
+muracoのTOPページなのですが、構成やデザインが、やや変更になってしまいました。
+申し訳ないのですが、デザインを確認いただき、修正をお願いできますか？
+
+フォントのサイズやマージンなども変更になっているので、細かくデザインをチェックしてもらえると助かります。
+宜しくお願い致します！
+
+おはようございます。
+muracoのTOPページなのですが、構成やデザインが、やや変更になってしまいました。
+申し訳ないのですが、デザインを確認いただき、修正をお願いできますか？
+
+フォントのサイズやマージンなども変更になっているので、細かくデザインをチェックしてもらえると助かります。
+指示が不足していて不明な点があれば、質問してください！
+
+宜しくお願い致します。
+
+おはようございます。
+muracoのTOPページなのですが、構成やデザインが、やや変更になってしまいました。
+申し訳ないのですが、デザインを確認いただき、修正をお願いできますか？
+
+フォントのサイズやマージンなども変更になっているので、細かくデザインをチェックしてもらえると助かります。
+指示が不足していて不明な点があれば、質問してください！
+
+宜しくお願い致します。
+
+Hi Fukuda-san.
+Good morning.
+I understood the requirements of the design. I will code it now.
+Thank you.
+
+Hi Fukuda-san.
+Today I have completed 80% the Top page. I will continue the code next week.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will continue code the Top page.
+
+I understand. Thank you!
+
+Hi Fukuda-san.
+I have completed the Top page.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. Wish you a good day.
+
+Dong、おはようございます！
+商品詳細ページのデザイン、ようやく確定しましたのでお送りします。
+指示でわからない箇所があれば聞いてください！
+宜しくお願い致します。
+
+I have received the design. I will check it now. Thank you
+
+I'm sorry. Is this the final design of the Product Detail page? I see many versions of this page in design.
+
+ごめんなさい！送るファイルを間違えました。
+
+こちらのファイルになります
+
+Thank you for sending back the file. I will check it now.
+
+Hi Fukuda-san.
+Today I have completed 50% the Product Detail page. I will continue the code tomorrow. And tomorrow I'll leave the company at noon because I have to take an English exam on college. Sorry for the inconvenience.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will continue code the Product Detail page.
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+I got it. Thank you very much!
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+商品詳細ページの「画像拡大機能」について説明が不足していたのでお伝えします。
+メイン画像のスライドをクリックした後、Photoswipe.jsで画像拡大機能を実装してください。
+宜しくお願い致します！
+
+参考サイト：
+
+
+Hi Fukuda-san.
+Goodbye. See you next week.
+
+Hi Fukuda-san.
+Good morning. Last week I completed 60% of the Product Detail page. Today I will continue to code it.
+
+Hi Fukuda-san.
+Would you like to change the plan for Custom Fields? Because with the current plan ( Free), I cannot add html fields and upload images.
+ 
+お返事遅くなり申し訳ありません！
+クライアントには確認済みなので、プランのグレードアップをお願いします。
+
+Thank you! Can you help me to upgrade the plan?
+
+Thank you! Can you help me to upgrade the Premium plan?
+
+Thank you! Can you help me to upgrade the Premium plan?
+
+今回の機能だと、どのプランで実装ができそうですか？プレミアムプランでしょうか？
+
+アドバイスありがとうございます！ではプレミアムプランで進めましょう。
+
+I understand. Thank you!
+
+只今プレミアムプランにアップグレード完了しました！
+引き続き実装宜しくお願い致します
+
+Thank you very much! I will continue to implement.
+
+Hi Fukuda-san.
+Today I have completed 80% the Product Detail page. I will continue coding for another 30 minutes.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. Today I will continue coding the Product Detail page.

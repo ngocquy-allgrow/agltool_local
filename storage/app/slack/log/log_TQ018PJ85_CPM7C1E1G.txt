@@ -1,0 +1,1009 @@
+テスト
+
+Hi Fukuda-san,
+I had completed TOP, ITEMS and NEWS page. Please help me check it. Thank you.
+テスト
+
+Dongありがとう。
+確認させていただきます。
+
+Hi Fukuda-san,
+I have coded the #4 page a bit. This is my process:
+1. HTML coding: 80%
+2. Animation: 90%
+3. Responsive: 0%
+4. Check: 10%
+
+Dongありがとう。
+明日の朝までにフィードバックを送るので、#4ページのコーディングを引き続きよろしくお願いします。
+
+Thank you!
+
+Hi Fukuda-san,
+I have coded 50% of the #4 page. Details of progress are as follows:
+1. HTML coding: 100%
+2. Animation: 90%
+3. Responsive: 0%
+4. Check: 20%
+I will complete #4 page tomorrow.
+Goodbye. See you tomorow.
+
+Dong お疲れ様です。
+TOP、ITEMS、NEWSページのフィードバックを送ります。
+御確認お願い致します。
+
+TOPページ
+・ファーストビューのロゴは表示させておいてください。
+　動画の中に入っているロゴは消える予定です。
+・スマホのデザインが崩れていたので、修正お願いします。（添付参照）
+
+ITEMページ
+・ベースのデザインから写真の比率は変えないでください。
+　レスポンシブの参考: 
+・横並びの商品の高さ（商品名や価格を含む）を揃えるように、cssもしくはjsで調整してください。
+（商品によっては名前が長くなるので、高さが変わります。）
+・スマホやタブレットでは、タイトルやソートを固定しなくて良いです。
+　（fixed-stickyはPCだけで良い。）
+・スクロールで追加読み込み（24件ずつ）、の実装はできてますか？
+
+Dong お疲れ様です。
+TOP、ITEMS、NEWSページのフィードバックを送ります。
+御確認お願い致します。
+
+TOPページ
+・ファーストビューのロゴは表示させておいてください。
+　動画の中に入っているロゴは消える予定です。
+・スマホのデザインが崩れていたので、修正お願いします。（添付参照）
+
+ITEMページ
+・ベースのデザインから写真の比率は変えないでください。
+　レスポンシブの参考: 
+・横並びの商品の高さ（商品名や価格を含む）を揃えるように、cssもしくはjsで調整してください。
+（商品によっては名前が長くなるので、高さが変わります。）
+・スマホやタブレットでは、タイトルやソートを固定しなくて良いです。
+　（fixed-stickyはPCだけで良い。）
+・スクロールで追加読み込み（24件ずつ）、の実装はできてますか？
+
+Dong お疲れ様です。
+TOP、ITEMS、NEWSページのフィードバックを送ります。
+御確認お願い致します。
+
+TOPページ
+・ファーストビューのロゴは表示させておいてください。
+　動画の中に入っているロゴは消える予定です。
+・スマホのデザインが崩れていたので、修正お願いします。（添付参照）
+
+ITEMページ
+・ベースのデザインから写真の比率は変えないでください。
+　レスポンシブの参考: 
+・横並びの商品の高さ（商品名や価格を含む）を揃えるように、cssもしくはjsで調整してください。
+（商品によっては名前が長くなるので、高さが変わります。）
+・スマホやタブレットでは、タイトルやソートを固定しなくて良いです。
+　（fixed-stickyはPCだけで良い。）
+・スクロールで追加読み込み（24件ずつ）、の実装はできてますか？
+
+Dong お疲れ様です。
+TOP、ITEMS、NEWSページのフィードバックを送ります。
+御確認お願い致します。
+
+TOPページ
+・ファーストビューのロゴは表示させておいてください。
+　動画の中に入っているロゴは消える予定です。
+・スマホのデザインが崩れていたので、修正お願いします。（添付参照）
+
+ITEMページ
+・ベースのデザインから写真の比率は変えないでください。
+　レスポンシブの参考: 
+・横並びの商品の高さ（商品名や価格を含む）を揃えるように、cssもしくはjsで調整してください。
+（商品によっては名前が長くなるので、高さが変わります。）
+・スマホやタブレットでは、タイトルやソートを固定しなくて良いです。
+　（fixed-stickyはPCだけで良い。）
+・スクロールで追加読み込み（24件ずつ）、の実装はできてますか？
+
+Dong お疲れ様です。
+TOP、ITEMS、NEWSページのフィードバックを送ります。
+御確認お願い致します。
+
+TOPページ
+・ファーストビューのロゴは表示させておいてください。
+　動画の中に入っているロゴは消える予定です。
+・スマホのデザインが崩れていたので、修正お願いします。（添付参照）
+
+ITEMページ
+・ベースのデザインから写真の比率は変えないでください。
+　レスポンシブの参考: 
+・横並びの商品の高さ（商品名や価格を含む）を揃えるように、cssもしくはjsで調整してください。
+（商品によっては名前が長くなるので、高さが変わります。）
+・スマホやタブレットでは、タイトルやソートを固定しなくて良いです。
+　（fixed-stickyはPCだけで良い。）
+・スクロールで追加読み込み（24件ずつ）、の実装はできてますか？
+
+Dong お疲れ様です。
+TOP、ITEMS、NEWSページのフィードバックを送ります。
+御確認お願い致します。
+
+TOPページ
+・ファーストビューのロゴは表示させておいてください。
+　動画の中に入っているロゴは消える予定です。
+・スマホのデザインが崩れていたので、修正お願いします。（添付参照）
+
+ITEMページ
+・ベースのデザインから写真の比率は変えないでください。
+　レスポンシブの参考: 
+・横並びの商品の高さ（商品名や価格を含む）を揃えるように、cssもしくはjsで調整してください。
+（商品によっては名前が長くなるので、高さが変わります。）
+・スマホやタブレットでは、タイトルやソートを固定しなくて良いです。
+　（fixed-stickyはPCだけで良い。）
+・スクロールで追加読み込み（24件ずつ）、の実装はできてますか？
+
+追記です。
+ITEMSページの写真の比率を維持するのにうまくいかない場合は、スライド機能をなくしてもOKです。
+
+Hi Fukuda-san,
+Good morning. Thanks for your feedback. I will check it again
+
+Today I intend to spend 4 hour to code # 4 pages. Which do you want me to prioritize?
+
+Today I intend to spend 4 hours to code # 4 pages. Which do you want me to prioritize?
+
+Today I intend to spend 4 hours to code # 4 page. Which do you want me to prioritize?
+
+おはようございます。
+作業の優先順位につきましても、指示を出していただけると幸いです。
+
+おはようございます。
+現在行なっている#4のページのコーディングとフィードバックですが、どちらを先に進めれば良いでしょうか？
+今は#4のページ制作を先に行わせておりますので、フォードバックを先にということであれば、ご連絡ください。
+
+最初のうちは作業の優先順位につきましても、指示を出していただけると幸いです。
+
+おはようございます。
+現在行なっている#4のページのコーディングとフィードバックですが、どちらを先に進めれば良いでしょうか？
+今は#4のページ制作を先に行わせておりますので、フォードバックを先にということであれば、ご連絡ください。
+
+最初のうちは作業の優先順位につきましても、指示を出していただけると幸いです。
+
+おはようございます。
+現在行なっている#4のページのコーディングとフィードバックですが、どちらを先に進めれば良いでしょうか？
+今は#4のページ制作を先に行わせておりますので、フォードバックを先にということであれば、ご連絡ください。
+
+最初のうちは作業の優先順位につきましても、指示を出していただけると幸いです。
+
+おはようございます。
+現在行なっている#4のページのコーディングとフィードバックですが、どちらを先に進めれば良いでしょうか？
+今は#4のページ制作を先に行わせておりますので、フォードバックを先にということであれば、ご連絡ください。
+
+最初のうちは作業の優先順位につきましても、指示を出していただけると幸いです。
+
+おはようございます。
+現在行なっている#4のページのコーディングとフィードバックですが、どちらを先に進めれば良いでしょうか？
+今は#4のページ制作を先に行わせておりますので、フォードバックを先にということであれば、ご連絡ください。
+
+最初のうちは作業の優先順位につきましても、指示を出していただけると幸いです。
+
+おはようございます。
+現在行なっている#4のページのコーディングとフィードバックですが、どちらを先に進めれば良いでしょうか？
+今は#4のページ制作を先に行わせておりますので、フォードバックを先にということであれば、ご連絡ください。
+
+最初のうちは作業の優先順位につきましても、指示を出していただけると幸いです。
+  
+おはようございます。TOP最優先でお願いします。
+
+Thank you. I will do it right now
+
+Hi Fukuda-san,
+The video took a long time to load for the first time, so can I force the loading screen to start after 6 seconds if it takes a long time to load?
+
+強制的にローディング画面を表示してOKです。
+ただし、動画再生される前にローディング画面をフェードアウトするのはNGです。
+
+動画が再生される前にローディング画面をフェードアウトさせてしまうと、画面が真っ白になってしまうので、それを避けたいです。
+
+Is it OK if I put a poster right there if the video hasn't finished loading so the user doesn't have to wait too long?
+
+できればposterは表示させたくないですが、止むを得ず表示させる場合は添付のファイルを使用してください。
+
+Thank you. I am looking for ways to make the video load faster
+
+Dongありがとう。
+さっき送ったposter.jpgは重すぎたので、poster2.jpgを使ってください。
+
+Dongありがとう。
+さっき送ったposter.pngは重すぎたので、poster2.pngを使ってください。
+
+Thank you
+
+Hi Fukuda-san,
+I had fixed the TOP page and titles of ITEMS and NEWS page. About scroll to load more and aligning product I think it will take quite a bit of time to complete it. So I thought I'd finish page # 4 first and do that later. Is that ok?
+
+Dongありがとう。OKです。
+確認させていただきます。
+
+Arigatou gozaimasu
+
+そして、本当にごめんなさい。
+#4ページのデザインが一部変更になってしまいました。
+赤い枠の箇所をチェックしてください。
+宜しくお願い致します。
+
+I understand. I will check it now.
+
+TOPページ、ITEMSページ、NEWSページのチェックを行いました。
+TOPページの動画再生部分以外はOKです。Dongありがとう！
+私のiPhoneで確認すると、TOPページの動画がどうしても再生されません。
+ここは11日の夜までに修正してください。
+#4ページは11日の午前中（ベトナム時間で）までに仕上げてください。
+その後に、TOPページの修正に着手してください。
+
+Thanks for your feedback
+
+9日と10日に、私の方でTOPページ、NEWSページ、ITEMSページの修正を行います。（CSSとHTMLを修正します。）
+CSSについては、私の方では#4ページに関する箇所は変更しないようにします。
+
+週末に、私の方でTOPページ、NEWSページ、ITEMSページの修正を行います。（CSSとHTMLを修正します。）
+CSSについては、私の方では#4ページに関する箇所は変更しないようにします。
+
+週末に、私の方でTOPページ、NEWSページ、ITEMSページの修正を行います。（CSSとHTMLを修正します。）
+CSSについては、私の方では#4ページに関する箇所は変更しないようにします。
+
+週末に、私の方でTOPページ、NEWSページ、ITEMSページの修正を行います。（CSSとHTMLを修正します。）
+CSSについては、私の方では#4ページに関する箇所は変更しないようにします。
+
+I don't understand why when you check with the iPhone, the video does not work, but I checked and it is fine.
+I will check the cause and finish it before the evening of the 11th.
+Now I will prioritize doing # 4 according to your request.
+Thank you very much
+
+週末に、私の方でTOPページ、NEWSページ、ITEMSページの修正を行います。（CSSとHTMLを修正します。）
+CSSについては、私の方では#4ページに関する箇所は変更しないようにします。
+
+Thank you. I understand. I will continue working with #4 page.
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again tomorrow morning. Then I will fixing the top page.
+Thank you.
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again tomorrow morning. Then I will fixing the top page. Is it OK?
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again tomorrow morning. Then I will fixing the top page. Is it OK?
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again tomorrow morning. Then I will fixing the top page. Is it OK?
+
+Dongありがとう。OKです。
+今こちらではTOP、ITEMS、NEWSのページを修正しています。
+終わり次第ファイルを送るので、そのファイルを修正してください。
+よろしくお願いします。
+
+Sorry. I forget. It is monday
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again tomorrow morning. Then I will fixing the top page. Is it OK?
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again Monday morning. Then I will fixing the top page. Is it OK?
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again Monday morning. Then I will fixing the top page. Is it OK?
+
+Hi Fukuda-san,
+I have nearly finished #4 page. I will continue coding a little bit tonight and check it again Monday morning. Then I will fixing the top page. Is it OK?
+
+Thank you. I will modify the file as soon as I receive it.
+Goodbye. See you on Monday
+ 
+お世話になっております。
+弊社での修正作業が終わりましたので、ファイルをお送りします。
+
+修正点・注意事項
+① スマホでのトップページ読み込み時のバグが直っていない
+　 ・動画が再生されない（時間が経っても再生されないので、重さの問題ではないと思います。）
+　 ・初回読み込み時、ローディング画面が表示される前にメインビジュアルが表示されてしまう。
+② ITEMSページのカテゴリー、「PERFUME OF PERFUME」と「Perfume DANCE HEEL」が効かない。
+③ ITEMSページの商品が、表示されたりされなかったりする。（複数のカテゴリーを付与しているから？）
+④ ITEMSページの追加読み込み機能ですが、ページがそこまで重くなさそうなので現状のままでOKです。
+⑤ 過去のページを引き継ぐ関係で、「assets」→「asset」へフォルダ名称変更しました。
+⑥ asset/img/フォルダの中身、整理させていただきました。#4ページで使用する画像は、「04」フォルダに入れてください。
+⑦ 過去のページを引き継ぐ関係で、ディレクトリが変更になりました。フォルダ内の構成を崩さないでください。
+⑧ #4ページのhtmlを一部修正させていただきました。
+　 ・「collection.html」→「04-daily.html」に名称変更
+　 ・head内にmetaなど情報追加
+　 ・header
+　 ・hrefパスのassetsをassetに修正
+　 ・footer
+　 ・js
+
+テストページURL
+
+
+追加で修正です。style.cssを以下のように修正してください。
+よろしくお願いします。
+
+style.css 605行目
+
+background-image: url(../img/icon_arrow.png);
+↓
+background-image: url(../img/common/icon_arrow@2x.png);
+ 
+お世話になっております。
+弊社での修正作業が終わりましたので、ファイルをお送りします。
+
+修正点・注意事項
+① スマホでのトップページ読み込み時のバグが直っていない
+　 ・動画が再生されない（時間が経っても再生されないので、重さの問題ではないと思います。）
+　 ・初回読み込み時、ローディング画面が表示される前にメインビジュアルが表示されてしまう。
+② ITEMSページのカテゴリー、「PERFUME OF PERFUME」と「Perfume DANCE HEEL」が効かない。
+③ ITEMSページの商品が、表示されたりされなかったりする。（複数のカテゴリーを付与しているから？）
+④ ITEMSページの追加読み込み機能ですが、ページがそこまで重くなさそうなので現状のままでOKです。
+⑤ 過去のページを引き継ぐ関係で、「assets」→「asset」へフォルダ名称変更しました。
+⑥ asset/img/フォルダの中身、整理させていただきました。#4ページで使用する画像は、「04」フォルダに入れてください。
+⑦ 過去のページを引き継ぐ関係で、ディレクトリが変更になりました。フォルダ内の構成を崩さないでください。
+⑧ #4ページのhtmlを一部修正させていただきました。
+　 ・「collection.html」→「04-daily.html」に名称変更
+　 ・head内にmetaなど情報追加
+　 ・header
+　 ・hrefパスのassetsをassetに修正
+　 ・footer
+　 ・js
+
+テストページURL
+
+ 
+お世話になっております。
+弊社での修正作業が終わりましたので、ファイルをお送りします。
+
+修正点・注意事項
+① スマホでのトップページ読み込み時のバグが直っていない
+　 ・動画が再生されない（時間が経っても再生されないので、重さの問題ではないと思います。）
+　 ・初回読み込み時、ローディング画面が表示される前にメインビジュアルが表示されてしまう。
+② ITEMSページのカテゴリー、「PERFUME OF PERFUME」と「Perfume DANCE HEEL」が効かない。
+③ ITEMSページの商品が、表示されたりされなかったりする。（複数のカテゴリーを付与しているから？）
+④ ITEMSページの追加読み込み機能ですが、ページがそこまで重くなさそうなので現状のままでOKです。
+⑤ 過去のページを引き継ぐ関係で、「assets」→「asset」へフォルダ名称変更しました。
+⑥ asset/img/フォルダの中身、整理させていただきました。#4ページで使用する画像は、「04」フォルダに入れてください。
+⑦ 過去のページを引き継ぐ関係で、ディレクトリが変更になりました。フォルダ内の構成を崩さないでください。
+⑧ #4ページのhtmlを一部修正させていただきました。
+　 ・「collection.html」→「04-daily.html」に名称変更
+　 ・head内にmetaなど情報追加
+　 ・header
+　 ・hrefパスのassetsをassetに修正
+　 ・footer
+　 ・js
+
+テストページURL
+
+ 
+お世話になっております。
+弊社での修正作業が終わりましたので、ファイルをお送りします。
+
+修正点・注意事項
+① スマホでのトップページ読み込み時のバグが直っていない
+　 ・動画が再生されない（時間が経っても再生されないので、重さの問題ではないと思います。）
+　 ・初回読み込み時、ローディング画面が表示される前にメインビジュアルが表示されてしまう。
+② ITEMSページのカテゴリー、「PERFUME OF PERFUME」と「Perfume DANCE HEEL」が効かない。
+③ ITEMSページの商品が、表示されたりされなかったりする。（複数のカテゴリーを付与しているから？）
+④ ITEMSページの追加読み込み機能ですが、ページがそこまで重くなさそうなので現状のままでOKです。
+⑤ 過去のページを引き継ぐ関係で、「assets」→「asset」へフォルダ名称変更しました。
+⑥ asset/img/フォルダの中身、整理させていただきました。#4ページで使用する画像は、「04」フォルダに入れてください。
+⑦ 過去のページを引き継ぐ関係で、ディレクトリが変更になりました。フォルダ内の構成を崩さないでください。
+⑧ #4ページのhtmlを一部修正させていただきました。
+　 ・「collection.html」→「04-daily.html」に名称変更
+　 ・head内にmetaなど情報追加
+　 ・header
+　 ・hrefパスのassetsをassetに修正
+　 ・footer
+　 ・js
+
+テストページURL
+
+ 
+お世話になっております。
+弊社での修正作業が終わりましたので、ファイルをお送りします。
+
+修正点・注意事項
+① スマホでのトップページ読み込み時のバグが直っていない
+　 ・動画が再生されない（時間が経っても再生されないので、重さの問題ではないと思います。）
+　 ・初回読み込み時、ローディング画面が表示される前にメインビジュアルが表示されてしまう。
+② ITEMSページのカテゴリー、「PERFUME OF PERFUME」と「Perfume DANCE HEEL」が効かない。
+③ ITEMSページの商品が、表示されたりされなかったりする。（複数のカテゴリーを付与しているから？）
+④ ITEMSページの追加読み込み機能ですが、ページがそこまで重くなさそうなので現状のままでOKです。
+⑤ 過去のページを引き継ぐ関係で、「assets」→「asset」へフォルダ名称変更しました。
+⑥ asset/img/フォルダの中身、整理させていただきました。#4ページで使用する画像は、「04」フォルダに入れてください。
+⑦ 過去のページを引き継ぐ関係で、ディレクトリが変更になりました。フォルダ内の構成を崩さないでください。
+⑧ #4ページのhtmlを一部修正させていただきました。
+　 ・「collection.html」→「04-daily.html」に名称変更
+　 ・head内にmetaなど情報追加
+　 ・header
+　 ・hrefパスのassetsをassetに修正
+　 ・footer
+　 ・js
+
+テストページURL
+
+
+Hi Fukuda-san,
+Good morning. I have received the file you sent. I will check it now. Thank you
+
+Hi Fukuda-san.
+I have almost finished page # 4. I will code responsive within 1 hour and it will be done. After that, I will fix your request before 5:20 PM today.
+
+Hi Fukuda-san.
+I have almost finished #4 page. I will code responsive within 1 hour and it will be done. After that, I will fix your request before 5:20 PM today.
+
+Dongありがとう。OKです。
+引き続き宜しくお願い致します！
+
+山西様
+お世話になっております。ロンチ福田です。
+フォントの件でご質問があるのですが、お電話でお話できますでしょうか？
+
+お返事が遅くなり申し訳ございません。
+携帯（090-6482-2585）のご連絡先にお電話してもよろしいでしょうか？
+
+はい、携帯にお願いできますでしょうか？
+
+Hi Fukuda-san.
+I have finished #4 page and adjusted as you requested. Can you help me check it? Thank you.
+
+Dongありがとう！
+確認させていただきます。
+
+チェックさせていただきました。#4ページ以外はパーフェクトです！どうもありがとうございます。
+#4ページを修正していただきたいのですが、まだ作業する時間はありますか？
+
+Hi Fukuda-san.
+I can continue work until 7:00 PM
+
+Dong、ありがとう。以下2点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　（
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　（
+　参考：
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　（
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　（
+　参考：
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　（
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　（
+　参考：　（サイドバナーの動きを参考にしてください。）
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　（
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　（
+　参考：　（サイドバナーの動きを参考にしてください。）
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　
+　参考：　（サイドバナーの動きを参考にしてください。）
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　
+　参考：　（サイドバナーの動きを参考にしてください。）
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Sorry. I cannot open those links
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　
+　参考：　（サイドバナーの動きを参考にしてください。）
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Sorry. I cannot open those links
+
+Dong、ありがとう。以下3点、修正をお願いします。
+
+1. ファーストビュー→コンセプト→商品一覧へのスクロールは普通で良いです。
+　
+
+2. fixed stickyの適用範囲がはみ出してしまっている。
+　
+　参考：　（サイドバナーの動きを参考にしてください。）
+
+3. ファーストビューでヘッダーロゴを表示させてください。
+
+Hi Fukuda-san.
+I think it will take some time to fix it, so can I finish it tomorrow morning?
+
+追加修正です。#4ページですが、TOPページと同様に「1スクロール1コンテンツ」で作成したのが原因だと思いますが、商品エリアのスクロールに、smooth scrollが効いていないです。（タッチデバイス）
+なんとかしてクライアントに待ってもらうので、明日の朝でも大丈夫です。引き続きよろしくお願いします！
+
+追加修正です。#4ページですが、TOPページと同様に「1スクロール1コンテンツ」で作成したのが原因だと思いますが、商品エリアのスクロールに、smooth scrollが効いていないです。（タッチデバイス）
+「1スクロール1コンテンツ」をやめて、普通のスクロールにしてください。
+
+追加修正です。#4ページですが、TOPページと同様に「1スクロール1コンテンツ」で作成したのが原因だと思いますが、商品エリアのスクロールに、smooth scrollが効いていないです。（タッチデバイス）
+「1スクロール1コンテンツ」をやめて、普通のスクロールにしてください。
+
+Thank you. I will try to finish it by tomorrow morning
+
+追加修正です。#4ページですが、TOPページと同様に「1スクロール1コンテンツ」で作成したのが原因だと思いますが、商品エリアのスクロールに、smooth scrollが効いていないです。（タッチデバイス）
+「1スクロール1コンテンツ」をやめて、普通のスクロールにしてください。
+
+追加修正です。#4ページですが、TOPページと同様に「1スクロール1コンテンツ」で作成したのが原因だと思いますが、商品エリアのスクロールに、smooth scrollが効いていないです。（タッチデバイス）
+「1スクロール1コンテンツ」をやめて、普通のスクロールにしてください。
+
+I understand. Thank you
+
+追加修正です。#4ページですが、TOPページと同様に「1スクロール1コンテンツ」で作成したのが原因だと思いますが、商品エリアのスクロールに、smooth scrollが効いていないです。（タッチデバイス）
+「1スクロール1コンテンツ」をやめて、普通のスクロールにしてください。
+
+ごめんなさい。さらに追加修正です。
+・商品サムネイルの画像比率を変えないでください。
+・商品詳細のポップアップ画面では高解像度の写真を掲載したいので、画像のソースは別にしてください。
+宜しくお願い致します。
+
+Hi Fukuda-san.
+Good morning. I'll do it right away
+
+お世話になっております。
+
+「商品サムネイルの画像比率を変えないでください。」について確認させてください。
+以下の2つの対応ができると思いますが、どちらになさいますか？
+①横長の画像の場合は表示領域と画像の高さを揃える、縦長の画像の場合は表示領域と画像の幅を揃える（つまり、横長の場合は元画像の左右に、縦長の場合は元画像の上下に表示されない領域が出てきます）
+②画像がカットされないように、横長の画像の場合は表示領域と画像の幅を揃え、縦長の場合は表示領域と画像の高さを揃える（黒い余白が多くなります）
+
+他の方法がありましたらご教示いただければと思います。
+
+お世話になっております。
+
+「商品サムネイルの画像比率を変えないでください。」について確認させてください。
+以下の2つの対応ができると思いますが、どちらになさいますか？
+①横長の画像の場合は表示領域と画像の高さを揃える、縦長の画像の場合は表示領域と画像の幅を揃える（つまり、横長の場合は元画像の左右に、縦長の場合は元画像の上下に表示されない領域が出てきます）
+②画像がカットされないように、横長の画像の場合は表示領域と画像の幅を揃え、縦長の場合は表示領域と画像の高さを揃える（黒い余白が多くなります）
+
+もし他の方法がありましたらご教示いただければと思います。
+
+お世話になっております。
+
+「商品サムネイルの画像比率を変えないでください。」について確認させてください。
+以下の2つの対応ができると思いますが、どちらになさいますか？
+①横長の画像の場合は表示領域と画像の高さを揃える、縦長の画像の場合は表示領域と画像の幅を揃える（つまり、横長の場合は元画像の左右に、縦長の場合は元画像の上下に表示されない領域が出てきます）
+②画像がカットされないように、横長の画像の場合は表示領域と画像の幅を揃え、縦長の場合は表示領域と画像の高さを揃える（黒い余白が多くなります）
+
+もし他の方法がありましたらご教示いただければと思います。
+
+お世話になっております。
+シンプルに、%と2pxのマージンをcalcで計算して幅を指定するだけで実現できないですかね？
+
+申し訳ございません、もう少しご説明いただけると幸いです。
+
+現在、グリッドレイアウトとobject-fit: cover;を使用しているかと思うのですが、まずそれをやめます。シンプルに、各画像に横幅を%で指定して、高さはautoにします。普通に組むだけで実装できる気がするのですが、問題出てしまいますか？
+まず縦に割ってそれぞれのブロックに横幅指定をしまして。
+
+すみません、私がポップアップ画面の方と取り違えておりました。
+
+ポップアップ画面は画像の比率は特に変化ないようなので、比率に関しては今のままで大丈夫です！
+ただし、サムネイルと同じ画像を使うようになっているようなので、ポップアップ内で使用する画像は別で指定できるように、ソースを修正していただければと思います。
+
+承知いたしました。
+お忙しいところお手を煩わせてしまい、申し訳ございませんでした。
+
+とんでもございません！引き続き宜しくお願い致します。
+
+なお、商品サムネイルのレイアウトですが、僕は普段グリッドレイアウトのcssをあまり使用しないので分からないのですが、以下のような考え方を応用する方法もあるのかなーと思いました。
+
+
+とんでもございません！引き続き宜しくお願い致します。
+
+なお、商品サムネイルのレイアウトですが、僕は普段グリッドレイアウトのcssをあまり使用しないので分からないのですが、以下のような考え方を応用する方法もあるのかなーと思いました。
+
+
+とんでもございません！引き続き宜しくお願い致します。
+
+なお、商品サムネイルのレイアウトですが、僕は普段グリッドレイアウトのcssをあまり使用しないので分からないのですが、以下のような考え方を応用する方法もあるのかなーと思いました。
+
+
+とんでもございません！引き続き宜しくお願い致します。
+
+なお、商品サムネイルのレイアウトですが、僕は普段グリッドレイアウトのcssをあまり使用しないので分からないのですが、以下のような考え方を応用する方法もあるのかなーと思いました。
+
+
+実現さえできれば、最終的なアプローチについてはお任せいたします。引き続き宜しくお願い致します。
+
+なるほど。ありがとうございます。
+Dongがいただいた情報の応用などでグリッドレイアウトのままでも実現できるようであればその方法で、時間がかかるようであれば、最初にご教示いただいた方法で対応させます。
+
+とんでもございません！引き続き宜しくお願い致します。
+
+なお、商品サムネイルのレイアウトですが、僕は普段グリッドレイアウトのcssをあまり使用しないので分からないのですが、以下のような考え方を応用する方法もあるのかなーと思いました。
+
+
+ロゴマークなしの動画が届いたので、添付のものに差し替えお願いします。（トップページと#4ページ）
+
+Thanks. I will replace it
+Hi Fukuda-san.
+I have completed all except the aspect ratio of the image. I will fix it within 2 hours.
+
+Dongありがとう！
+確認させていただきます。
+
+次回から、差分ファイルのみ送っていただけますか？
+
+Sorry. I will send different files from next time
+
+Hi Fukuda-san,
+I have fixed the rest. Can you help me check it?
+
+Hi Fukuda-san.
+I have fixed the rest. Can you help me check it?
+
+本当にありがとう！OKです！
+あとはこちらで修正させていただきます。
+
+急ぎで修正対応お願いできますか？
+
+Of course. I will listen
+
+ありがとう。今ファイルを準備しているので、少しお待ちください。
+
+御確認お願い致します！
+
+Thank you. I will check it now
+
+そして、サイドメニューの位置をCSSで調整したので、
+それに合わせてJavascriptの調整をお願いできますか？
+
+I will correct it in javascript
+
+Hi Fukuda-san.
+I has fixed it. It would be great if you check it.
+
+Hi Fukuda-san.
+I has fixed it. I would be great if you check it.
+
+お返事が遅くなり申し訳ありません。
+無事に納品することができました！本当にありがとうございます。
+11月13日の12時に公開予定です。
+またクライアントから修正依頼がありましたら、ご連絡させていただきます。
+引き続き宜しくお願い致します。
+
+Thank you very much.
+In the course of work if anything goes wrong, please forgive me. I will try more
+
+Thank you very much.
+In the course of work if anything goes wrong, please forgive me. I will try more
+
+お世話になっております。
+今回は当初の予定より遅れてしまい、申し訳ございませんでした。
+永田から連絡させていただいておりますが、振り返りのミーティングをよろしくお願いいたします。
+
+次の案件についてはいかがでしょうか？
+もしすぐに着手できない場合、次の案件に向けて、例えば次の案件で取り入れたい動きなど、参考サイトを伝え、学習するよう指示をいただいても構いません。
+
+引き続き、よろしくお願いいたします。
+
+おはようございます。追加で1点修正お願いします。
+
+Hi Fukuda-san.
+Good morning. I will fix it now.
+
+Android OSでは、このようなバグも起きているようです。
+
+お世話になっております。
+本日12時公開予定なので、ミーティングは午後以降にお願いできたらと思います。
+また次にお願いしたい案件はもうデザインがほぼ上がっているのですが、
+まだ指示書などまとめられていないので、明日には着手いただけると思います。
+引き続き宜しくお願い致します。
+
+承知いたしました。
+引き続き、よろしくお願いいたします。
+
+今の修正ですが、スマホだけで大丈夫です。
+PCは今のままでお願いいたします。
+
+今の修正ですが、スマホだけで大丈夫です。
+PC・タブレットは今のままでお願いいたします。
+
+Sorry. I didn't pay attention to it. I have fixed it.
+
+ありがとうございます！
+スライドの2枚目にも適用させたかったので、nth-childはこちらで外します。
+
+1枚目と2枚目のスライドの高さが揃わないのを修正してもらえますか？
+
+画像は全て同じ比率に修正したので、今送った画像に差し替えて修正してください。
+
+Thank you. I will fix it now
+
+Hi Fukuda-san.
+I have fixed it
+
+Hi Fukuda-san
+I have fixed it.
+
+Hi Fukuda-san.
+I fixed them all, but the Chrome bug seems to be taking a long time to fix. so I'll send the patch later. Maybe 3 hours later
+
+Dongありがとう。chrome（iOS）で、さっきのとはまた違うバグを見つけました。画面キャプチャを送るので、こちらもご確認をお願いします。
+
+フェードインの最後が、スムーズじゃなくなってしまいました。CSSをこちらで触ったのが原因かもしれません。ご確認お願いします。
+
+Thank you. I will check and respond to you later
+
+Hi Fukuda-san.
+As for the effect bug on Chrome (iOS), I think it is chrome because I tried to access other websites and it all happened.
+
+Dongありがとうございます。こちらでも調べてみます。
+ちなみに、フェードインの動きに関して、javascriptではどういう記述をしていますか？
+
+I write fade-in, fade-out effects by addClass and removeClass.
+
+アンドロイドOSでのバグは解決できましたか？
+
+I have fixed it all. Can I send it to you to check first?
+
+ありがとうございます。
+先に確認させていただけますか？
+
+I have fixed the previous errors. I will check for chrome errors on iOS.
+
+Dongありがとう！
+理由はわかりませんが、iOSのchromeバグも直ったようです。
+
+Thank you. I'm glad to hear that
+
+他のサイトでも、chromeのバグが直っていました。理由は分かりませんが...
+
+I have some change to CSS, but my test phone used chrome old version so it didn't change anything. After I tried the update, it worked. 
+
+お待たせしました！
+スレッドを間違えていたので、こちらにデザインを送ります。
+今回のデザインは、ファーストビューの動画の上を文字がスクロールしていくデザインです。
+また、phase1ページと同様に、詳細画面での画像は別にしてください。（ダミーで進めてください。）
+よろしくお願い致します！
+
+#4 - Phase2
+
+
+#4 - Phase2 (DETAIL横)
+
+
+#4 - Phase2 (DETAIL縦)
+
+
+スマホ#4 - Phase2
+
+
+スマホ#4 - Phase2 (DETAIL横)
+
+
+スマホ#4 - Phase2 (DETAIL縦)
+
+
+Hi Fukuda-san.
+I understand. This is my estimated execution time:
+1. HTML: 3 hours.
+2. CSS: 3 hours.
+3. Animation: 4 hours.
+I will report progress at the end of the working hour.
+
+Hi Fukuda-san.
+This is my progress:
+1. HTML TOP page: 100%
+2. CSS TOP page: 30%
+3. Animation TOP page: 70%
+I will complete the rest tomorrow.
+Goodbye. See you tomorrow.
+
+ありがとうございます。
+一点だけ修正をお願いします。
+style.cssの3,272行目に以下のCSSを追加してください。
+明日も宜しくお願いします！
+
+font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
+
+Hi Fukuda-san.
+Good morning. This is my estimated execution time today:
+1. TOP page PC: 4 hours.
+2. TOP page TABLET: 2 hours.
+3. TOP page SP: 2 hours.
+
+I understand. I will correct it.
+
+Hi Fukuda-san.
+I have almost finished everything. I need to double check it again, so maybe I'll send it to you tomorrow. Hope you can wait until tomorrow. Thank you.
+
+Hi Fukuda-san.
+Good morning. Today I will double check the #4 phase2 again so I will send it to you soon. Thank you for wating.
+
+Hi Fukuda-san.
+I have finished the #4 - phase2 page. Can you help me check it? Thank you.
+ 
+ありがとうございます！確認します！
+
+Hi Fukuda-san.
+Goodbye! See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. Merry Christmas!
+
+Dongお疲れ様です！チェックが遅くなっており申し訳ありません。。
+先日クライアントからデザインの修正が入ってしまい、今作り直しをしています。
+明日にはデザインをお渡しできそうなので、修正をお願いできますか？
+二度手間になってしまって申し訳ないです。
+宜しくお願いします！
+
+I will fix it after receiving the design file. Thanks for your reply.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning!
+
+Dongおはようございます！
+PerfumeClosetのデザイン修正ができましたので、データを送ります。
+注釈が入っているところが修正箇所です。
+ただし、クライアントから最終チェックが返ってきてないので、作業はもう少しだけお待ちください。
+申し訳ないです！
+
+Hi Fukuda-san.
+I understand. I will wait a little longer.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+Dear Mr. Fukuda,
+In an atmosphere of joy greeted the new year, we wish you and your family a happy new year - happy about wellbeing - prosperity.
+We sincerely thank you for the past year has trust and cooperate with us. Perhaps the past year under the direction of you, we've made progress gradually perfecting newer and better about yourself as well as at work. Thanks to the enthusiastic support and absorb ideas from you that we have been more successful step.
+Oneself everyone has weaknesses. And we also have weaknesses. In addition to the success, perhaps we are still a few things you are not happy about. We always want your feedback so that we can further improve and can last you longer-term cooperation in the future. Into a new year, we look forward to long term cooperation with you and will further work.
+Also, if you need we can do more work when the New Year holiday. Or we can add other knowledge that you need during the holidays to complete more than themselves. Look forward to a response from you.
+Finally, once again we thank the past cooperation. And we wish you a happy new year and cosy inside your home.
+
+Thanks &amp; Best regards
+Dear Mr. 
+In an atmosphere of joy greeted the new year, we wish you and your family a happy new year - happy about wellbeing - prosperity.
+We sincerely thank you for the past year has trust and cooperate with us. Perhaps the past year under the direction of you, we've made progress gradually perfecting newer and better about yourself as well as at work. Thanks to the enthusiastic support and absorb ideas from you that we have been more successful step.
+Oneself everyone has weaknesses. And we also have weaknesses. In addition to the success, perhaps we are still a few things you are not happy about. We always want your feedback so that we can further improve and can last you longer-term cooperation in the future. Into a new year, we look forward to long term cooperation with you and will further work.
+Also, if you need we can do more work when the New Year holiday. Or we can add other knowledge that you need during the holidays to complete more than themselves. Look forward to a response from you.
+Finally, once again we thank the past cooperation. And we wish you a happy new year and cosy inside your home.
+
+Thanks &amp; Best regards
+Dear Mr. 
+In an atmosphere of joy greeted the new year, we wish you and your family a happy new year - happy about wellbeing - prosperity.
+We sincerely thank you for the past year has trust and cooperate with us. Perhaps the past year under the direction of you, we've made progress gradually perfecting newer and better about yourself as well as at work. Thanks to the enthusiastic support and absorb ideas from you that we have been more successful step.
+Oneself everyone has weaknesses. And we also have weaknesses. In addition to the success, perhaps we are still a few things you are not happy about. We always want your feedback so that we can further improve and can last you longer-term cooperation in the future. Into a new year, we look forward to long term cooperation with you and will further work.
+Also, if you need we can do more work when the New Year holiday. Or we can add other knowledge that you need during the holidays to complete more than themselves. Look forward to a response from you.
+Finally, once again we thank the past cooperation. And we wish you a happy new year and cosy inside your home.
+
+Thanks &amp; Best regards
+Dear Mr. 
+In an atmosphere of joy greeted the new year, we wish you and your family a happy new year - happy about wellbeing - prosperity.
+We sincerely thank you for the past year has trust and cooperate with us. Perhaps the past year under the direction of you, we've made progress gradually perfecting newer and better about yourself as well as at work. Thanks to the enthusiastic support and absorb ideas from you that we have been more successful step.
+Oneself everyone has weaknesses. And we also have weaknesses. In addition to the success, perhaps we are still a few things you are not happy about. We always want your feedback so that we can further improve and can last you longer-term cooperation in the future. Into a new year, we look forward to long term cooperation with you and will further work.
+Also, if you need we can do more work when the New Year holiday. Or we can add other knowledge that you need during the holidays to complete more than themselves. Look forward to a response from you.
+Finally, once again we thank the past cooperation. And we wish you a happy new year and cosy inside your home.
+
+Thanks &amp; Best regards
+Dear Mr. 
+In an atmosphere of joy greeted the new year, we wish you and your family a happy new year - happy about wellbeing - prosperity.
+We sincerely thank you for the past year has trust and cooperate with us. Perhaps the past year under the direction of you, we've made progress gradually perfecting newer and better about yourself as well as at work. Thanks to the enthusiastic support and absorb ideas from you that we have been more successful step.
+Oneself everyone has weaknesses. And we also have weaknesses. In addition to the success, perhaps we are still a few things you are not happy about. We always want your feedback so that we can further improve and can last you longer-term cooperation in the future. Into a new year, we look forward to long term cooperation with you and will further work.
+Also, if you need we can do more work when the New Year holiday. Or we can add other knowledge that you need during the holidays to complete more than themselves. Look forward to a response from you.
+Finally, once again we thank the past cooperation. And we wish you a happy new year and cosy inside your home.
+
+Thanks &amp; Best regards
+
+Hi Fukuda-san.
+Goodbye. See you next year!
+
+連絡が遅くなり申し訳ないです！
+ご挨拶、どうもありがとうございます。
+Dongのおかげで年末の大変な時期を乗り越えることができました。
+一緒に仕事をする中で、とても良いフィーリングを感じています。
+2020年も引き続き宜しくお願い致します。
+
+さて、お待たせしていたPerfumeClosetのデザインが完成したので、お送りします。
+ベトナムの営業所の休日を理解していませんが、もし稼働できるようであればコーディングをお願い致します。
+また、先日お伝えしていた「muraco」のデザインも少しずつ出来上がってきています。
+リサーチしていただきたい箇所もあるので、そちらは追ってご連絡しますね。
+それでは、宜しくお願い致します。
+
+Hi Fukuda-san.
+Good morning. Thanks for your reply. I have received the design files. I'll take a look and report back the time it can be completed for you later. Thank you.
+
+Hi Fukuda-san.
+This is my estimated time:
+1. Top page: 4 hours
+2. #4 page: 4 hours
+
+Hi Fukuda-san.
+I have finished the correction
+
+ありがとうございます！確認させていただきます。
+今夜はこれからデスクを離れるので、明日31日にリサーチしていただきたいものをまとめてお伝えしますね。
+引き続き宜しくお願い致します！
+
+I got it. Thank you!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+PerfumeClosetのチェック、大変お待たせいたしました！
+いくつか修正箇所があります。（私の方でもCSSを調整しました。）
+最新のhtmlファイルを送るので、それをベースに修正していただけますか？
+宜しくお願い致します！
+
+追加の修正です！こちらもご確認ください。
+（Phase1ページとPhase2ページ、両方修正してください。）
+
+Hi Fukuda-san.
+Good morning! I understand the corrections. I will fix it in 6 hours
+
+Hi Fukuda-san.
+Good morning! I understand the corrections. I will fix it in 4 hours
+
+Hi Fukuda-san.
+Good morning! I understand the corrections. I will fix it in 4 hours
+
+Hi Fukuda-san.
+Good morning! I understand the corrections. I will fix it in 4 hours
+
+Hi Fukuda-san.
+Good morning! I understand the corrections. I will fix it in 4 hours
+
+Hi Fukuda-san.
+I have finished the corrections. Can you help me to check it? Thank you!
+
+ありがとうございます！確認します。
+
+チェック完了しました！パーフェクトです！
+一旦これでクライアントに提出しますね。
+
+I'm glad to hear that. Thank you!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning. I wish you have a great day!
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow!
+
+Hi Fukuda-san.
+Good morning!

@@ -1,0 +1,61 @@
+
+了解しました。
+
+Dungさん、はじめまして。
+Dungさんのサポートを担当します。
+
+Dungさんが作成しているソースコードとDBを見たいです。
+サーバーにアクセスしてもよければ、サーバー情報を教えてください。
+
+Server information here.
+
+コンパネアクセス先:     
+コンパネログイン名:     
+コンパネパスワード:     Qobs8%46
+link website:   
+admin: 
+ID: 
+pass: 123456
+
+Database:
+DATABASE:      examination2
+USERNAME:     examination2
+PASSWORD:     8~Gqk8h1
+
+Please update the issue list when you have time
+
+
+yes, i understand.
+I will update the issue on this link.
+
+Thank you.
+
+Is status of “未対応” at the Request List being confirmed with the client?
+If so please write related item number of the Question List at L column.
+
+[Is status of “未対応” at the Request List being confirmed with the client?]
+This is a new task, without confirmation from the customer.
+Because I do not understand the customer's requirements. I told the customer to explain but the customer has not explained yet.
+I understood.
+So please write your question about new task in the question list like that:
+About XXXX, explain more.
+(XXXX is client request)
+yes, i understand
+
+[Is status of “未対応” at the Request List being confirmed with the client?]
+This is a new task, without confirmation from the customer.
+Because I do not understand the customer's requirements. I told the customer to explain but the customer has not explained yet.
+
+[Is status of “未対応” at the Request List being confirmed with the client?]
+This is a new task, without confirmation from the customer.
+Because I do not understand the customer's requirements. I told the customer to explain but the customer has not explained yet.
+
+Issue Listの番号を27〜にしました。
+43行目を追加したので、これも翻訳をお願いします。
+
+また私が追加したものの中に、Dungさんがすでに記載済みのものがあれば、Dungさんが書いた方の番号を教えるように伝えてください。
+
+よろしくお願いいたします。
+
+I understand, I will check the sheet.
+Thank you for the additional.

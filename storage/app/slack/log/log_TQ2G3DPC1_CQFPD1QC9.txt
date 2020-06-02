@@ -1,0 +1,770 @@
+
+お世話になっております。
+
+構築環境についてですが、以下のディレクトリ配下になりますか？
+/home/create/create-trunk.jp
+はい、こちらになります。
+ 
+ありがとうございます。
+確認しましたところ、現在の仕組みはフレームワークを使って作ってるように見えたのですが、今回は現行の実装とは違ってしまっても大丈夫でしょうか？
+大丈夫な場合、ディレクトリなど指定がございましたら、ご教示ください。
+ san!!!
+I have Get data out 2 select "都 道 府 県 の 選 択" and "市区 町 村 の 選 択", but I only got 1 province "北海道" and 194 cities. And hide the default validate error.
+I have created an index.php file under /home/create/create-trunk.jp/public/contact/cancel/index.php
+Please check it. Tomorrow I will continue the work. Thank you!!!
+はい、フレームワークはlaravelを使用しております。
+フレームワークに合わせた実装形式でお願いしたいのですが、可能でしょうか？コントローラーやビューは新しく作ってしまって構いません。
+下記を参照して下さい。
+/home/create/create-trunk.jp/app/Http/Controllers
+/home/create/create-trunk.jp/resources/views
+/home/create/create-trunk.jp/routes
+
+ご回答、ありがとうございます。
+laravelを使うとなるとSyには難易度が高いかもしれません。
+一度Syに確認いたします。
+
+引き続き、よろしくお願いいたします。
+ san!!!
+Good morning!!!
+
+やはりlaravelを利用することは難しいです。
+普通のPHPの対応でよろしいでしょうか？
+
+なお、構築についてはSyは現在以下のディレクトリで作業を進めております。
+問題ないでしょうか？
+/home/create/create-trunk.jp/public/contact/cancel/
+確認しました。
+都道府県の選択ですが、「東京」「埼玉」「神奈川」「千葉」の４つを使用して下さい。
+市区町村はAPIから取得して下さい。
+わかりました。社内で確認します。
+とりあえずそのまま進めて下さい。
+
+承知いたしました。
+引き続き、よろしくお願いいたします。
+ san!!!
+Yes, I will try it.
+ san!!!
+I called 4 prefectures 「東京」 「埼 玉」 「神奈川」 「千葉」 and all the cities select. Tomorrow I will classify the city when choosing a district.
+Good bye!!!
+ san!!!
+Good morning!!!
+
+お世話になっております。
+
+2点ほど確認させてください。
+
+①都道府県の選択肢について
+現状APIでは都道府県については北海道しか取得できないということをSyから報告させていただき、「東京」「埼玉」「神奈川」「千葉」の４つを使用してください、とのことでしたが、本案件では選択肢は4つ固定で良いのでしょうか。
+それともとりあえずは4つで作成して、後ほどAPIで対応するよう変更する必要があるのでしょうか？
+
+②画像が格納されているサーバーについて
+トランクルームの画像が格納されているサーバーの情報についてご教示ください。
+現在画像パスが例えば「/trunk/8000/8674/」となっておりますので、その前の部分、何を指定したら良いか知りたいです。
+テスト環境と本番環境で分ける必要があれば、それも教えてください。
+
+よろしくお願いいたします。
+ san!!!
+Please help me
+I will use the "Name" and "AccessInformation" in the API to get data when clicking on the location on MAP as the image.
+
+Thank you!!!
+ san!!!
+Please help me
+I will use the "Name" and "AccessInformation" in the API to get data when clicking on the location on MAP as the image.
+
+Thank you!!!
+ san!!!
+Please help me
+I will use the "Name" and "AccessInformation" in the API to get data when clicking on the location on MAP as the image.
+
+Thank you!!!
+ san!!!
+Please help me
+I will use the "Name" and "AccessInformation" in the API to get data when clicking on the location on MAP as the image.
+
+Thank you!!!
+ san!!!
+Please help me
+I will use the "Name" and "AccessInformation" in the API to get data when clicking on the location on MAP as the image.
+
+Thank you!!!
+[Name][AddressForDisp]を使用して下さい。
+ san!!!
+Thank you!!!
+①都道府県の動的は使用するAPIが複雑になってしまいますので、今回の案件では４つ固定で作成して下さい。
+②画像パスは本番と同様に下記の形で指定して下さい。
+
+[
+[trunk/9000/9113/]APIから取得
+[original/]ここも固定
+[1563260937.JPG]APIから取得
+①都道府県の動的は使用するAPIが複雑になってしまいますので、今回の案件では４つ固定で作成して下さい。
+②画像パスは本番と同様に下記の形で指定して下さい。
+
+[
+[trunk/9000/9113/]APIから取得
+[original/]ここも固定
+[1563260937.JPG]APIから取得
+①都道府県の動的は使用するAPIが複雑になってしまいますので、今回の案件では４つ固定で作成して下さい。
+②画像パスは本番と同様に下記の形で指定して下さい。
+
+[
+[trunk/9000/9113/]APIから取得
+[original/]ここも固定
+[1563260937.JPG]APIから取得
+①都道府県の動的は使用するAPIが複雑になってしまいますので、今回の案件では４つ固定で作成して下さい。
+②画像パスは本番と同様に下記の形で指定して下さい。
+
+[
+[trunk/9000/9113/]APIから取得
+[original/]ここも固定
+[1563260937.JPG]APIから取得
+①都道府県の動的は使用するAPIが複雑になってしまいますので、今回の案件では４つ固定で作成して下さい。
+②画像パスは本番と同様に下記の形で指定して下さい。
+
+[
+[trunk/9000/9113/]APIから取得
+[original/]ここも固定
+[1563260937.JPG]APIから取得
+
+承知いたしました。
+ありがとうございました。
+ san!!!
+I have completed page index, step2_1, step2_2 and step3_1. Tomorrow I will continue step3_2.
+Please check. Thank you !!!
+Good bye!!!
+ san!!!
+Good morning!!!
+After completing step3_2, will I do "sent mail"?
+こんにちは
+はい、送信します。
+ san!!!
+I have completed the Step and am code sending mail when I click submit button.
+Please check it.
+Monday I will continue.
+Thank you!!!
+ san!!!
+Good morning!!!
+おはようございます。
+
+地図ページの物件検索が動作していません。
+確認お願いします。
+おはようございます。
+
+地図ページの物件検索が動作していません。
+確認お願いします。
+おはようございます。
+
+地図ページの物件検索が動作していません。
+確認お願いします。
+ san!!!
+I wil check it. Thank you!!!
+ san!!!
+In the API, I have shown all cities in 4 districts, but there are cities without data trunk (
+), so when selecting those cities and passing the page step2_1.php does not work.
+Will I remove 
+ san!!!
+In the API, I have shown all cities in 4 districts, but there are cities without data trunk (
+), so when selecting those cities and passing the page step2_1.php does not work.
+Will I remove 
+ from the city list?
+
+ from the city list?
+
+ san!!!
+In the API, I have shown all cities in 4 districts, but there are cities without data trunk (
+), so when selecting those cities and passing the page step2_1.php does not work.
+Will I remove 
+ from the city list?
+
+ san!!!
+In the API, I have shown all cities in 4 districts, but there are cities without data trunk (
+), so when selecting those cities and passing the page step2_1.php does not work.
+Will I remove 
+ from the city list?
+
+ san!!!
+In the API, I have shown all cities in 4 districts, but there are cities without data trunk (
+), so when selecting those cities and passing the page step2_1.php does not work.
+Will I remove 
+ from the city list?
+
+はい、削除して下さい。
+地図について、最初に選択する住所を中心に地図を表示しますが、地図に表示する物件は他のエリアの物件も表示します。
+地図を移動した時に、表示されている地図の中心地を使って物件を再検索して下さい。
+この物件検索を参考にして下さい。
+
+地図について、最初に選択する住所を中心に地図を表示しますが、地図に表示する物件は他のエリアの物件も表示します。
+地図を移動した時に、表示されている地図の中心地を使って物件を再検索して下さい。
+この物件検索を参考にして下さい。
+
+地図について、最初に選択する住所を中心に地図を表示しますが、地図に表示する物件は他のエリアの物件も表示します。
+地図を移動した時に、表示されている地図の中心地を使って物件を再検索して下さい。
+この物件検索を参考にして下さい。
+
+地図について、最初に選択する住所を中心に地図を表示しますが、地図に表示する物件は他のエリアの物件も表示します。
+地図を移動した時に、表示されている地図の中心地を使って物件を再検索して下さい。
+この物件検索を参考にして下さい。
+
+ san!!!
+I did the mailing when click submit page step3_2.php
+You can go to file 
+ line 
+ and enter the email to receive.
+I will continue to fix the map error of page step2_1.php tomorrow. Thank you!!!
+Goodbye!!!
+ san!!!
+Good morning!!!
+ san!!!
+Good morning!!!
+ san!!!
+I have update Map for page step2_1.php. Please check it. Thank you!!!
+ san!!!
+I have adjusted map animation today.
+Task is done. Could you help me to check it?
+If there have any problems, Please feedback to me. I will adjust it.
+Thank you so much!
+Goodbye!!!
+ san!!!
+Good morning!!!
+Today I can help you?
+
+①メール送信時にエラーが発生するので確認して下さい。
+
+
+②地図のアイコンを、一番最初に表示するアイコンに統一して下さい。
+
+①メール送信時にエラーが発生するので確認して下さい。
+
+
+②地図のアイコンを、一番最初に表示するアイコンに統一して下さい。
+
+①メール送信時にエラーが発生するので確認して下さい。
+
+
+②地図のアイコンを、一番最初に表示するアイコンに統一して下さい。
+ san!!!
+I will check and fix it. Thank you!!!
+ san!!!
+About No.1
+I think your website has a user account which user login and perform to "contact/cancel"
+But, I don't have this account.
+Currently, I setting sender and receiver by my email, so you aren't received a email.
+You can change this information on /public/contact/cancel/step3_2.php line 22  ( change by your email) and check it once again.
+
+About No.2
+I have adjusted icon map, all marker is the same. Is that you wanted to adjust?
+If It's mistake, Please feeback to me.
+Thank you so much!
+
+③東京都目黒区で検索すると、千葉市中央区の地図になります。
+他のエリアでも同じバグが無いか確認して下さい。
+②について、メール送信部は
+app/Http/Controllers/ContactController.php
+を参照して下さい。
+FROMをinfo@assetnet.jpにして下さい。
+④現在PHPで実装していますが、Laravel形式での実装作業をやってみて下さい。
+調べながらで構いません。
+ san!!!
+I will check it and Try to convert PHP to Laravel. Thank you!!!
+ san!!!
+I have adjusted ② and ③. Please check it.
+Thank you so much!
+Laravelの対応の方、どうでしょうか？
+難しければ、次の案件に進みたいと思います。
+進捗を教えて下さい。
+次の案件についてご説明します。
+
+
+上記URLをご確認ください。
+こちらはトランクルームの契約を登録している管理画面になります。
+このページのデザインを、下記URLのデザインに合わせる作業になります。
+
+
+表示や登録する項目はhybridallgrowの管理画面に合わせて下さい。
+開発環境は変わりません。
+該当するテンプレートは
+/home/hybrid2/apps/contract_2/modules/t_contract_2/templates
+になります。
+
+メニューは
+/home/hybrid2/apps/contract_2/templates
+
+cssやjsは
+/home/hybrid2/public/
+となります。
+ san!!!
+I convert PHP core to Laravel. I'm coding on Controller.
+Because I don't know about Laravel before, so Schedule task can be waste many time.
+わかりました。
+それではlaravel変換作業は中止して下さい。
+新規案件の確認をお願いします。
+ san!!!
+Yes, I will move to a new project. Thank you!!!
+ san!!!
+Yes, I will move to a new project. Thank you!!!
+ san!!!
+I'm sorry,
+You means I will move source from hybridallgrow.actnet to allgrow.storage-core. After that, I will adjust as new your design at allgrow.storage-core.
+Is that right?
+
+Could you explain more?
+ san!!!
+Tomorrow I will continue the work. Goodbye!!!
+ san!!!
+Tomorrow I will continue the work. Goodbye!!!
+ san!!!
+Tomorrow I will continue the work. Goodbye!!!
+違います。
+hybridallgrow.actnetのソースを修正して下さい。
+allgrow.storage-coreはデザインの見本です。
+ san!!!
+Good morning!!!
+Yes, I will try it. Thank you!!!
+allgrow.storage-coreはsymfonyを使っています。
+allgrow.storage-coreに移動するには、symfonyの作業が必要になります。
+Syさんにはその作業は難しいです。
+ san!!!
+I cannot access the link 
+Because it requires login
+
+ san!!!
+I cannot access the link 
+Because it requires login
+
+ san!!!
+I cannot access the link 
+Because it requires login
+
+ID：
+PS：actnetcojp
+こちらを使用して下さい。
+ san!!!
+I cannot access the link 
+Because it requires login
+
+ san!!!
+Thank you!!!
+ san!!!
+I cannot access the link 
+Because it requires login
+
+ san!!!
+How long time do you want to me coding this task ? ( I means Deadline). Thank you!!!
+Syさんの見立てでは何日かかりそうですか？
+ san!!!
+Can you give me 5 working days?
+Because I will spend some time to learn about the symfony framework
+わかりました。５人日で作業をお願いします。
+ san!!!
+Thank you!!!
+
+①解約希望日項目で「末」の箇所がフォームからズレています。（改行されてしまっている）
+こちら調整して下さい。
+
+
+②
+このページを参考に、下記の文章を追加して下さい。
+「
+※解約の受付けは１ヶ月前予告となります。当月解約はお受けしておりません。
+※解約月の日割り清算は致しかねますので何卒御了承下さいませ。
+※解約通知頂いた上で、再延長は基本的にお受けしていません。万が一延長の際には弊社へご連絡下さい。
+」
+
+①解約希望日項目で「末」の箇所がフォームからズレています。（改行されてしまっている）
+こちら調整して下さい。
+
+
+②
+このページを参考に、下記の文章を追加して下さい。
+「
+※解約の受付けは１ヶ月前予告となります。当月解約はお受けしておりません。
+※解約月の日割り清算は致しかねますので何卒御了承下さいませ。
+※解約通知頂いた上で、再延長は基本的にお受けしていません。万が一延長の際には弊社へご連絡下さい。
+」
+
+①解約希望日項目で「末」の箇所がフォームからズレています。（改行されてしまっている）
+こちら調整して下さい。
+
+
+②
+このページを参考に、下記の文章を追加して下さい。
+「
+※解約の受付けは１ヶ月前予告となります。当月解約はお受けしておりません。
+※解約月の日割り清算は致しかねますので何卒御了承下さいませ。
+※解約通知頂いた上で、再延長は基本的にお受けしていません。万が一延長の際には弊社へご連絡下さい。
+」
+
+①解約希望日項目で「末」の箇所がフォームからズレています。（改行されてしまっている）
+こちら調整して下さい。
+
+
+②
+このページを参考に、下記の文章を追加して下さい。
+「
+※解約の受付けは１ヶ月前予告となります。当月解約はお受けしておりません。
+※解約月の日割り清算は致しかねますので何卒御了承下さいませ。
+※解約通知頂いた上で、再延長は基本的にお受けしていません。万が一延長の際には弊社へご連絡下さい。
+」
+
+①解約希望日項目で「末」の箇所がフォームからズレています。（改行されてしまっている）
+こちら調整して下さい。
+
+
+②
+このページを参考に、下記の文章を追加して下さい。
+「
+※解約の受付けは１ヶ月前予告となります。当月解約はお受けしておりません。
+※解約月の日割り清算は致しかねますので何卒御了承下さいませ。
+※解約通知頂いた上で、再延長は基本的にお受けしていません。万が一延長の際には弊社へご連絡下さい。
+」
+ san!!!
+I have fixed. Please check it. Thank you!!!
+ san!!!
+Tomorrow I will continue the work. Goodbye!!!
+ san!!!
+Good morning!!!
+Will the hybridallgrow page interface re-code html the same as the storage-core page?
+Or you have storage-core html, can you give me?
+確認しました。問題ありません。
+１点修正をお願いします。
+
+③解約希望日の内容を変更して下さい。
+「選択して下さい。」の次を、現在日時の「YYYY年MM月」にしてください。
+そこから６ヶ月後までの「YYYY年MM月」を表示して下さい。
+確認しました。問題ありません。
+１点修正をお願いします。
+
+③解約希望日の内容を変更して下さい。
+「選択して下さい。」の次を、現在日時の「YYYY年MM月」にしてください。
+そこから６ヶ月後までの「YYYY年MM月」を表示して下さい。
+確認しました。問題ありません。
+１点修正をお願いします。
+
+③解約希望日の内容を変更して下さい。
+「選択して下さい。」の次を、現在日時の「YYYY年MM月」にしてください。
+そこから６ヶ月後までの「YYYY年MM月」を表示して下さい。
+１点修正がありました。
+&gt; 
+&gt; ②
+&gt; このページを参考に、下記の文章を追加して下さい。
+文章を追加する箇所が間違っています。修正して下さい。
+１点修正がありました。
+&gt; 
+&gt; ②
+&gt; このページを参考に、下記の文章を追加して下さい。
+文章を追加する箇所が間違っています。修正して下さい。
+ san!!!
+Yes, I will fix it.
+ san!!!
+I have fixed No.2. Please check it. Thank you!!!
+③について、失礼しました。
+最初の値を現在日時ではなく、[現在日時＋1month]にしてください。
+ san!!!
+About No.3
+I'm working on that. After completion, I will tell you. Thank you!!!
+ san!!!
+I have completed No.3. Please check it. Thank you!!!
+確認しました。
+２０１９年１２月で終わっています。
+２０２０年以降も表示して下さい。
+ san!!!
+Is it like this 
+ san!!!
+Is it like this 
+ san!!!
+Is it like this 
+はい、そうです。
+ san!!!
+Is it like this 
+Yes, I  have done No.3. Thank you!!!
+ san!!!
+Is it like this 
+
+お世話になっております。
+新しい案件について確認させてください。
+
+Syがやることとしては、対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+
+お世話になっております。
+新しい案件について確認させてください。
+
+Syがやることとしては、対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+なお、メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+
+よろしくお願いいたします。
+
+お世話になっております。
+新しい案件について確認させてください。
+
+Syがやることとしては、対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+なお、メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+
+よろしくお願いいたします。
+
+お世話になっております。
+新しい案件について確認させてください。
+
+Syがやることとしては、対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+なお、メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+
+よろしくお願いいたします。
+
+お世話になっております。
+新しい案件について確認させてください。
+
+Syがやることとしては、対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+なお、メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+
+よろしくお願いいたします。
+
+お世話になっております。
+新しい案件について確認させてください。
+
+Syがやることとしては、対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+なお、メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+
+よろしくお願いいたします。
+&gt; 対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+&gt; その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+はい、その通りです。
+
+&gt; メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+メニューは必要になります。
+リンクは貼らなくていいので、同じ内容で作成して下さい。
+&gt; 対象サイトの表やボタンなどの部品を参考サイトのデザインに合わせる作業ということでよろしいでしょうか？
+&gt; その他、契約詳細の表示、新規契約登録画面をモーダルにすることも対応することでよろしいでしょうか？
+はい、その通りです。
+
+&gt; メニューについては変更対象サイトでは必要ないと思いますが、いかがいたしましょうか？
+メニューは必要になります。
+リンクは貼らなくていいので、同じ内容で作成して下さい。
+はい、hybridallgrowページのデザインリニューアルです。
+
+storage-coreにはhtmlはありません。
+サイト上から読み取って作成して下さい。
+ san!!!
+Yes, I am creating html for hybridallgrow. thank you!!!
+
+承知いたしました。
+
+それでは以下のように対応します。
+
+①参考サイトと同じサイドメニューの追加
+　メニューの項目も参考サイトに合わせる
+　「契約管理」以外のリンクはなし
+　「契約管理」リンク先は「」
+
+②ボタンや表などのパーツを参考サイトと同じものにする
+
+③契約詳細画面を画面遷移ではなく、参考サイトと同じように画面右側から現れるモーダルに変える
+
+④契約登録画面を画面遷移ではなく、参考サイトと同様モーダル形式にする
+
+
+他にもありましたらご教示ください。
+確認しました。
+内容に問題ありません。
+
+宜しくお願いします。
+
+ご確認いただき、ありがとうございました。
+ san!!!
+Monday I will continue to work. Thank you!!!
+Goodbye!!!
+ san!!!
+Good morning!!!
+おはようございます。
+おはようございます。
+ san!!!
+I changed the page interface to t_contract_2_manage to the allgrow.storage-core sample page.
+Tomorrow I will continue the work. Thank you!!!
+Goodbye!!!
+ san!!!
+Good morning!!!
+先ほどはMTGありがとうございました。
+検索のエラーの件ですが、これはエラーではなく取得した検索結果を表示しています。
+チェックボックスやプルダウンの検索は動いているので、検索ワードの部分のaction動作の問題かと思います。
+調整をお願いします。
+ san!!!
+After completing the Registration and Detail, I will check Search. Thank you!!!
+ san!!!
+Please confirm again.
+This is the Registration and Detail as I asked you in the last meeting.
+
+
+It is similar to your attention? Thank you!!!
+
+I created html and tomorrow I will move the code from the old page to popup Registration and Detail.
+Goodbye!!!
+ san!!!
+Please confirm again.
+This is the Registration and Detail as I asked you in the last meeting.
+
+
+It is similar to your attention? Thank you!!!
+
+I created html and tomorrow I will move the code from the old page to popup Registration and Detail.
+Goodbye!!!
+ san!!!
+Please confirm again.
+This is the Registration and Detail as I asked you in the last meeting.
+
+
+It is similar to your attention? Thank you!!!
+
+I created html and tomorrow I will move the code from the old page to popup Registration and Detail.
+Goodbye!!!
+ san!!!
+Please confirm again.
+This is the Registration and Detail as I asked you in the last meeting.
+
+
+It is similar to your attention? Thank you!!!
+
+I created html and tomorrow I will move the code from the old page to popup Registration and Detail.
+Goodbye!!!
+ san!!!
+Please confirm again.
+This is the Registration and Detail as I asked you in the last meeting.
+
+
+It is similar to your attention? Thank you!!!
+
+I created html and tomorrow I will move the code from the old page to popup Registration and Detail.
+Goodbye!!!
+ san!!!
+Good morning!!!
+ san!!!
+Task is done. Could you help me to check it?
+If there have any problems, Please feedback to me. I will adjust it.
+Thank you so much!
+Goodbye!!!
+ san!!!
+Good morning!!!
+おはようございます。
+下記の点、修正して下さい。
+編集について、
+①「鍵情報」項目がありません。
+②「郵便番号」項目と「住所」項目を分て下さい。
+③placeholderと入力済みの項目がわかりにくいです。
+入力してある項目の文字の色を濃くしてください。
+④「入金日」項目が動作していません。
+⑤一番下の「関連契約」は削除して下さい。
+ san!!!
+About ①
+You means I will add 「鍵情報」item to popup Detail . Is that right?
+はい、そうです。
+ san!!!
+I have fixed it. Please help me to check it. Thank you!!!
+ san!!!
+Goodbye!!!
+ san!!!
+Good morning!!!
+ san!!!
+I created a small page top with the sample page . Monday I will continue the work.
+Goodbye!!!
+ san!!!
+I created a small page top with the sample page . Monday I will continue the work.
+Goodbye!!!
+ san!!!
+I created a small page top with the sample page . Monday I will continue the work.
+Goodbye!!!
+ san!!!
+I created a small page top with the sample page . Monday I will continue the work.
+Goodbye!!!
+ san!!!
+I created a small page top with the sample page . Monday I will continue the work.
+Goodbye!!!
+ san!!!
+Good morning!!!
+ san!!!
+Tomorrow I will continue to work.
+Good bye!!!
+ san!!!
+Good morning!!!
+ san!!!
+Goodbye!!!
+ san!!!
+Good morning!!!
+ san!!!
+Tomorrow I will continue the work.
+Goodbye!!!
+ san!!!
+Good morning!!!
+
+blue-storageサイトで新規作業をお願いします。
+
+ユニット一覧の「申込」ボタンを押下した時に遷移する新規htmlページを作成して下さい。
+新規ページはクレジットカードの情報を入力するページです。
+
+入力フォームのサンプルは以下を参照して下さい。
+[]
+
+ヘッダー等のパーツはblue-storageをそのまま使用して下さい。
+カード情報を入力し、送信を押下したら完了ページを表示して下さい。
+
+blue-storageサイトで新規作業をお願いします。
+
+ユニット一覧の「申込」ボタンを押下した時に遷移する新規htmlページを作成して下さい。
+新規ページはクレジットカードの情報を入力するページです。
+
+入力フォームのサンプルは以下を参照して下さい。
+[]
+
+ヘッダー等のパーツはblue-storageをそのまま使用して下さい。
+カード情報を入力し、送信を押下したら完了ページを表示して下さい。
+
+blue-storageサイトで新規作業をお願いします。
+
+ユニット一覧の「申込」ボタンを押下した時に遷移する新規htmlページを作成して下さい。
+新規ページはクレジットカードの情報を入力するページです。
+
+入力フォームのサンプルは以下を参照して下さい。
+[]
+
+ヘッダー等のパーツはblue-storageをそのまま使用して下さい。
+カード情報を入力し、送信を押下したら完了ページを表示して下さい。
+ san!!!
+
+- I will create a new HTML used to input credit card
+- When you click on 「申込」 it will move to the newly created HTML.
+- Click submit to send mail and go to the completion page.
+Please confirm again, Thank you!!!
+はい、その内容で進めて下さい。
+よろしくお願いします。
+ san!!!  san!!!
+Today's work:
+Create HTML page Credit Card.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML page Credit Card.
+ san!!!  san!!!
+Today's work:
+Create HTML page Credit Card.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML page Credit Card.
+ san!!!
+Can I use BOWNOW () to send mail?
+Please let me know. Thank you!!!
+ san!!!
+Can I use BOWNOW () to send mail?
+Please let me know. Thank you!!!
+ san!!!
+Can I use BOWNOW () to send mail?
+Please let me know. Thank you!!!
+ san!!!  san!!!
+Today's work:
+Create HTML page Credit Card
+Edit form with BowNow.
+Goodbye!!!

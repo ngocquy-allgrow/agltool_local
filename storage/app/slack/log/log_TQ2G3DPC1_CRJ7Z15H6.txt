@@ -1,0 +1,905 @@
+そちらだと新規のサーバーを立ち上げる方法になりますので、違います。
+
+AWSの資料で見つけました。恐らく英語版もあるかと思います。
+
+
+
+そちらだと新規のサーバーを立ち上げる方法になりますので、違います。
+
+AWSの資料で見つけました。恐らく英語版もあるかと思います。
+
+
+
+そちらだと新規のサーバーを立ち上げる方法になりますので、違います。
+
+AWSの資料で見つけました。恐らく英語版もあるかと思います。
+
+
+
+
+情報ありがとうございます。
+Syに確認させます。
+
+Syの方で対応できそうですので、早速作業に取り掛かります。
+バックアップも取ってあるともことでしたので、作業を開始してもよろしいでしょうか？
+確認ありがとうございます。
+はい、作業の方お願いいたします。
+ 
+
+こちら見れますか？
+日本語化に迷ったら英語のまま勧めてください。
+ san!!!
+Yes, I see.
+
+
+念の為、参考サイトはこちらです。動作確認はこちらで。
+
+
+念の為、参考サイトはこちらです。動作確認はこちらで。
+ 
+お世話になっております。
+指示書の作成、ありがとうございます。
+
+作業の順番について確認させてください。
+
+現在Syは最初に作成した3ページをWordpress化するために、御社サーバーに環境を構築しております。
+その作業を中断し、頂いた指示書を元にHTMLの作成を進めた方が良いですか？
+それとも環境構築はそのまま続け、環境構築が終わり次第、指示書で頂いたページのHTML化に入ればよろしいでしょうか？
+または、今HTML化が終わっているものを先にwordpressに変換し、その後頂いた指示書のHTMLの作成に入りましょうか？
+
+ご指示いただけたらと思います。
+
+よろしくお願いいたします。
+ 
+そのまま環境構築して作成済みHTMLのWP化を進めて下さい。
+ 
+ありがとうござます。
+かしこまりました。
+
+お世話になっております。
+wordpressの環境設定の県で教えてください。
+
+
+で動作確認をする箇所があるのですが、この「」に指定するものがわからずにおります。
+ご教示いただけますか。
+
+よろしくお願いいたします。
+IPでは繋がらないでしょうか？
+ 
+はい、
+3.113.33.168
+ですと、トランクルームのサイトが表示され、ページがありません、となってしまいます。
+ルーティングの設定を何かしていますか？
+バーチャルドメインの設定をしています。
+phpinfo.phpファイルを
+/home/create/crate-trunk.jp/public/
+に配置すれば開けるかと思います。
+
+ありがとうございます。
+試してみます。
+ san!!!  san!!!
+Tomorrow I will continue the work.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+おはようございます。
+進捗はどうでしょうか？
+ san!!!
+I installed LAMP successfully, and the working directory is var / www / html. But I cannot access and this folder because I don't know the root IP to run phpinfo.php or phpmyadmin
+phpinfoは先日説明した方法で開けると思います。
+確認して下さい。
+
+こちら準備しましたので、ご確認ください。
+ san!!!
+I'm sorry. I have been disconnected when settting server. And I can not acccess to 3.113.33.168 now. Could you help me to check server?
+Thank you!!!
+こちらからも接続出来ません。
+一度元に戻すしかないですね。
+ san!!!
+Server usually lost connect while I'm installing.
+Could you help me to restore server?  I will install LAMP again after you had restored server.
+Thank you!!!
+
+お世話になっております。
+サーバーの設定についてですが、やはりハードルが高かったみたいで難しそうなので、お渡ししている資料のhtml作成を進めるようにして頂けないでしょうか？
+wordpressの方はこちらで準備いたします。
+宜しくお願いいたします。
+ 
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+
+承知いたしました。
+ご迷惑をおかけして申し訳ございません。
+
+小倉様よりご提示いただいたページのHTML作成を行うようにいたします。
+ san!!!  san!!!
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+ san!!!  san!!!
+I cannot access the URL 
+  Please check again. Thank you!!!
+ワードプレスについて、準備ができました。
+
+
+新しいサーバーのIPは54.64.170.17となります。
+ログイン方法は前回と同様です。
+mysqlのパスワードは[allgraw123]となっています。
+ご確認ください。
+確認します。
+ san!!!
+I checked, now I will do WP installation or continue to code HTML.
+Please let me know. Thank you !!!
+ san!!!  san!!!
+Today's work
+* Design: 
+* Completed:
+	+ Sheet : TOP(PC)
+	+ Sheet : Map
+	+ Sheet : エリア
+	+ Sheet : List (100% on PC, 0% on SP).
+
+Tomorrow's work
+* Sheet : List (on SP)
+* Sheet : Search
+* Sheet : 法人
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work
+* Sheet : List (on SP)
+* Sheet : Search
+* Sheet : 法人
+
+*An com chua?*
+
+*An com chua?*
+ san!!!
+Yes, I ate before starting work. and you.
+こんにちは
+作成したhtmlを確認したいのですが、サーバーにアップロード可能でしょうか？
+ san!!!
+Yes, I will upload it to the server, please wait a minute.
+ san!!!
+I have updated the file, with the path  /home/shuno-recipe
+Please check it. Thank you!!!
+ san!!!  san!!!
+About Sheet: 法人
+of link 
+Can you explain more about this box?
+
+Thank you!!!
+ san!!!  san!!!
+About Sheet: 法人
+of link 
+Can you explain more about this box?
+
+Thank you!!!
+ san!!!  san!!!
+Today's work
+* Design: 
+* Completed:
+	+ Sheet : List
+	+ Sheet : 法人
+	+ Sheet : スタッフ
+
+Tomorrow's work
+* Sheet : 店舗詳細
+
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work
+* Sheet : 店舗詳細
+おはようございます。
+htmlの作成が完了したらwordpressの作業に入って下さい。
+ san!!!  san!!!
+Today's work
+* Design: 
+* Completed:
+	+ Sheet : 店舗詳細 (completed 90% on PC, not Jqurey)
+
+On Thursdays and Fridays I am off, see you on Mondays.
+Goodbye!!!
+
+お世話になっております。
+ワードプレスでのテーマ作成について、下記は作成していただいたhtmlなのですが、
+
+例えば、物件一覧の箇所に「ハートマーク」のアイコンがあり、このアイコンをクリックするとお気に入りに追加する。といった機能があります。
+テーマを作っていくにあたり、こういったクッキー等を利用した機能の実装は問題ないでしょうか？
+
+お世話になっております。
+ワードプレスでのテーマ作成について、下記は作成していただいたhtmlなのですが、
+
+例えば、物件一覧の箇所に「ハートマーク」のアイコンがあり、このアイコンをクリックするとお気に入りに追加する。といった機能があります。
+テーマを作っていくにあたり、こういったクッキー等を利用した機能の実装は問題ないでしょうか？
+
+お世話になっております。
+ワードプレスでのテーマ作成について、下記は作成していただいたhtmlなのですが、
+
+例えば、物件一覧の箇所に「ハートマーク」のアイコンがあり、このアイコンをクリックするとお気に入りに追加する。といった機能があります。
+テーマを作っていくにあたり、こういったクッキー等を利用した機能の実装は問題ないでしょうか？
+
+お世話になっております。
+ワードプレスでのテーマ作成について、下記は作成していただいたhtmlなのですが、
+
+例えば、物件一覧の箇所に「ハートマーク」のアイコンがあり、このアイコンをクリックするとお気に入りに追加する。といった機能があります。
+テーマを作っていくにあたり、こういったクッキー等を利用した機能の実装は問題ないでしょうか？
+ 様
+お世話になっております。
+はい、クッキーを利用した機能の実装も問題ないと思います。
+
+お世話になっております。
+ワードプレスでのテーマ作成について、下記は作成していただいたhtmlなのですが、
+
+例えば、物件一覧の箇所に「ハートマーク」のアイコンがあり、このアイコンをクリックするとお気に入りに追加する。といった機能があります。
+テーマを作っていくにあたり、こういったクッキー等を利用した機能の実装は問題ないでしょうか？
+わかりました。
+何かプラグインを使って実装するのでしょうか？
+それともテーマ内のみで実装しますか？
+
+Javascriptで実現できると思いますので、JavaScriptのファイルをテーマに持たせる方法になると思います。
+なるほど。そのまま実装する形ですね。
+逆にプラグインを使ったりも出来るのでしょうか？
+有効時間の設定がユーザーで出来たりするのかなと。
+ 
+使用したいプラグインがあれば、それを指定して頂ければと思います。
+
+ただ、これは私個人の意見ですが、今後テーマを展開していく上で、プラグインを多用していると、テーマを使うときにインストールしないとならないなどの制約ができてきてしまうので、必要最低限が良いと思います。
+テーマ入れる時に一緒にインストールとかは出来ないんですね。
+
+いえ、あまりユーザー側が手を入れるところではないかもですが、設定がある機能なのでプラグインを使う場合もあるかなと思っただけです。
+JavaScriptでも問題ありません。ありがとうございます。
+ 
+
+返信遅くなりすみません。
+テーマのインストールと同時に関連プラグインを自動でインストールする機能はなかったと思います。
+ san!!!  san!!!
+Good morning!!!
+Today's work
+* Sheet : 店舗詳細
+こんにちは
+htmlの作業が終わったらwordpressに入って下さい。
+作業工数はどれぐらいでしょうか？
+ san!!!
+I'm not sure about the completion time, since there are a lot of functions and js (eg print).
+I will try to complete the fastest.
+ san!!!
+
+I do not have a User and Password, can you give me?
+Thank you!!!
+弊社ではID,PASの設定をしていません。
+設定画面の状態でお渡ししています。
+ san!!!
+I can't add the file to / var / www / html / wordpress Please check. Thank you!!!
+パーミッションを変更すれば可能かと思いますが、出来ませんか？
+ san!!!
+The basic HTML is complete, now I will start converting the HTML to the WP theme
+ san!!!  san!!!
+Today's work:
+Convert HTML to WP theme
++ 
++ 
++ 
++ 
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Convert HTML to WP theme.
+ san!!!  san!!!
+Can you tell me the detailed function of these 3 pages?
+
+
+
+Thank you!!!
+ san!!!  san!!!
+Today's work:
+Convert HTML to WP theme
++  (post single)
++ 
+
+I created a Custom post type page  and get the post
+Please check. Thank you!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Convert HTML to WP theme.
+ san!!!  san!!!
+Design directives: 
+I have completed and Switched to the WP theme. Please check it.
+And Can you send me the function directives included in the page?
+Thank you !!!
+確認します。
+今の作業は何をしてますか？
+ san!!!
+Now I do function for pages, so I need to detail the functions included in the page. Thank you!!!
+機能について確認します。
+他に進められるページはありますか？
+ san!!!
+Yes, I will revise the Google Map to look like a sample page. Thank you!!!
+
+
+こちらは確認できていますか？
+検索の項目は
+Sheet：物件検索
+物件種別/エリア/都道府県
+
+More Seach Oputions
+だけです。
+ san!!!
+I can not access the link . Please check it. Thank you !!!
+ san!!!
+I can not access the link . Please check it. Thank you !!!
+ san!!!
+I can not access the link . Please check it. Thank you !!!
+ san!!!
+I can not access the link . Please check it. Thank you !!!
+
+エクセルでおくります。
+
+ にすでに共有してと思っておりましたが、見れていますか？
+ san!!!
+I can not access the link . Please check it. Thank you !!!
+ 様
+お世話になっております。
+お送りいただいたExcelファイルですが、見落としていたようです。すみません。
+ただいま確認いたしました。
+このファイルについてもう少しご説明いただきたいのですが、よろしいでしょうか。
+
+よろしくお願いいたします。
+ san!!!  san!!!
+Today's work:
+Custom Map Style, fixed Jquery.
+Goodbye !!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit More Search Options
+ san!!!  san!!!
+Today's work:
++ Edit More Search Options
++ Custom Map Label with show price.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit More Search Options
+ san!!!  san!!!
+I have edited Form Search, Please check that it is correct for your request?
+Thank you !!!
+ san!!!  san!!!
+Today's work:
+Edit More Search Options
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+ san!!!  san!!!
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+ san!!!  san!!!
+Good morning!!!
+あけましておめでとうございます。
+本年もよろしくお願いいたします。
+
+早速ですが、現在の進捗を教えて下さい。
+ san!!!
+The HTML is basically completed.
+I have edited Form Search, Please check that it is correct for your request?
+
+Thank you!!!
+ san!!!
+How can I help you now? Please let me know. Thank you!!!
+今作業が無い状態ですか？
+ san!!!
+Yes, everything related to the HTML I did, currently requires the function table of my website to continue.
+ワードプレス化の作業も全て完了していますか？
+ワードプレス化の作業も全て完了していますか？
+ san!!!
+Yes, the HTML has moved over to the WP theme. But no function yet.
+URLを教えて下さい。
+ san!!!
+This is URL
+
+
+
+
+他にhtmlを作成したページはありませんか？
+This is URL Admin WP
+
+ID: system
+Pass: $P$BjPOABnOErCqTdmNCPmGkud3CruLXJ0
+ありがとうございます。確認します。
+他にhtmlを作成したページはありませんか？
+ san!!!
+No other pages generate HTML
+都道府県の検索用プルダウンにについて、選択したエリアで表示する都道府県を変更する様にして下さい。
+ポータルサイトテンプレートの仕様書を再度確認して下さい。
+ san!!!  san!!!
+Today's work:
+Add location to Post.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Add location to Post.
+こんにちは
+現在の作業が終わりましたら、次の作業に入って下さい。
+次の作業は、既存サイトのCSS/JSの修正作業になります。
+現在、ファイルの内容がコーディング規約と合っていないので、合わせる様に修正・最適化して下さい。
+対象サイト：
+対象ファイル：
+/home/estima/web/css/trunk_room3
+/home/estima/web/css/trunk_room_z
+/home/estima/web/js/trunk_room3
+/home/estima/web/js/trunk_room_z
+こんにちは
+現在の作業が終わりましたら、次の作業に入って下さい。
+次の作業は、既存サイトのCSS/JSの修正作業になります。
+現在、ファイルの内容がコーディング規約と合っていないので、合わせる様に修正・最適化して下さい。
+対象サイト：
+対象ファイル：
+/home/estima/web/css/trunk_room3
+/home/estima/web/css/trunk_room_z
+/home/estima/web/js/trunk_room3
+/home/estima/web/js/trunk_room_z
+こんにちは
+現在の作業が終わりましたら、次の作業に入って下さい。
+次の作業は、既存サイトのCSS/JSの修正作業になります。
+現在、ファイルの内容がコーディング規約と合っていないので、合わせる様に修正・最適化して下さい。
+対象サイト：
+対象ファイル：
+/home/estima/web/css/trunk_room3
+/home/estima/web/css/trunk_room_z
+/home/estima/web/js/trunk_room3
+/home/estima/web/js/trunk_room_z
+こんにちは
+現在の作業が終わりましたら、次の作業に入って下さい。
+次の作業は、既存サイトのCSS/JSの修正作業になります。
+現在、ファイルの内容がコーディング規約と合っていないので、合わせる様に修正・最適化して下さい。
+対象サイト：
+対象ファイル：
+/home/estima/web/css/trunk_room3
+/home/estima/web/css/trunk_room_z
+/home/estima/web/js/trunk_room3
+/home/estima/web/js/trunk_room_z
+ san!!!
+Yes, I see. Thank you!!!
+こんにちは
+現在の作業が終わりましたら、次の作業に入って下さい。
+次の作業は、既存サイトのCSS/JSの修正作業になります。
+現在、ファイルの内容がコーディング規約と合っていないので、合わせる様に修正・最適化して下さい。
+対象サイト：
+対象ファイル：
+/home/estima/web/css/trunk_room3
+/home/estima/web/css/trunk_room_z
+/home/estima/web/js/trunk_room3
+/home/estima/web/js/trunk_room_z
+ san!!!  san!!!
+Today's work:
+Show post to Map and click open info of post.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create function Search WP.
+ 様、様
+あけましておめでとうございます。
+本年もよろしくお願いいたします。
+
+年末にいただいた「仕様書_ポータルサイトテンプレート.xlsx」についてですが、詳しい説明をいただけていないままですが、Syなりの理解で進めております。
+ただ物件の情報を投稿にしはじめており、方向性がズレてきていると思いましたので、一旦作業を止めさせていただきました。
+
+こちらにつきましては、改めてご説明をいただいてから作業を再開するということでよろしいでしょうか？
+それまでの間、Syは昨日齋藤様より指示いただいた既存サイトの修正作業を進めるようにいたします。
+
+よろしくお願いいたします。
+あけましておめでとうございます。
+本年もよろしくお願いいたします。
+
+&gt; 年末にいただいた「仕様書_ポータルサイトテンプレート.xlsx」についてですが、詳しい説明をいただけていないままですが、Syなりの理解で進めております。
+こちらの件、確認致します。
+
+昨日お願いした既存サイトの修正作業について、完了予定を教えて下さい。
+よろしくお願いいたします。
+ san!!!  san!!!
+Today's work:
+Edit the CSS to the google rule
+Goodbye!!!
+ 様
+ご連絡遅くなり申し訳ございません。
+
+承知いたしました。
+作業時間の見積もりを明日Syからお伝えいたします。
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit the CSS/JS to the google rule.
+Estimated Completed on 10/01.
+ san!!!  san!!!
+Today's work:
+Edit the CSS/JS to the google rule. (Done rule CSS).
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit the CSS/JS to the google rule.
+ san!!!  san!!!
+Today's work:
+Edit the CSS/JS to the google rule. (Done)
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+ san!!!  san!!!
+Good morning!!!
+おはようございます。
+css/jaの変更作業は完了していますか？
+ san!!!
+Yes, I have finished editing the CSS / JS rules in 2 directories
+  trunk_room3 and trunk_room_z.
+わかりました。確認します。
+次の作業について説明します。
+
+こちら開ますか？
+わかりました。確認します。
+次の作業について説明します。
+
+こちら開ますか？
+わかりました。確認します。
+次の作業について説明します。
+
+こちら開ますか？
+わかりました。確認します。
+次の作業について説明します。
+
+こちら開ますか？
+わかりました。確認します。
+次の作業について説明します。
+
+こちら開ますか？
+ san!!!
+Now will I write HTML for this new job?
+Can you tell me the details of this new job?
+Thank you!!!
+こちらのデザインデータと同じ内容のhtmlの作成をお願いします。
+このデザインデータは、
+このサイトのデザインを新しくしたものになります。
+
+このまま作業を進められますか？質問があればいつでもチャットして下さい。
+ san!!!
+Yes, I will create the HTML according to the design .
+I will try to finish in 8 working days.
+Thank you!!!
+ san!!!
+Yes, I will create the HTML according to the design .
+I will try to finish in 8 working days.
+Thank you!!!
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore.
+This afternoon and tomorrow I'll be off, see you on Thursday.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore. (Done 3 page)
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done page detail and edit detail).
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done page Login and Recruitment Search)
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+
+Tomorrow I will start the holidays.
+4h (Vietnam time) today I turned off the machine to clean.
+Thank you!!!
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done page admin Console and member)
+See you on January 30. Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done page billing, billing manager, menber manager, plan/payment).
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Create HTML StorageCore.
+おはようございます。
+HTML作成の残り工数はどれぐらいでしょうか？
+ san!!!
+Today I will complete HTML. Thank you!!!
+HTMLが完了したら、次の作業をお願いしたいのですが、下記URLの内容は読み取れますか？
+
+内容としては外部ツールと[]の連携になります。
+HTMLが完了したら、次の作業をお願いしたいのですが、下記URLの内容は読み取れますか？
+
+内容としては外部ツールと[]の連携になります。
+HTMLが完了したら、次の作業をお願いしたいのですが、下記URLの内容は読み取れますか？
+
+内容としては外部ツールと[]の連携になります。
+ san!!!
+Yes, I can access the URL.
+ san!!!
+After completing HTML, where will I upload source code?
+HTMLが完了したら、次の作業をお願いしたいのですが、下記URLの内容は読み取れますか？
+
+内容としては外部ツールと[]の連携になります。
+&gt; Yes, I can access the URL.
+URLの内容は理解できますか？
+
+ソースコードは提供しているサーバーにアップロードして下さい。
+ san!!!
+Is the form associated with BowNow?
+フォームをBowNowに関連付ける作業です。
+ san!!!
+Yes, after I finished creating the HTML, I'll try it.
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done).
+I uploaded the source to / storagecore /
+With the path var / www / html / wordpress / storagecore
+and URL: 
+Please check it. Thank you!!!
+
+Goodbye!!!
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done).
+I uploaded the source to / storagecore /
+With the path var / www / html / wordpress / storagecore
+and URL: 
+Please check it. Thank you!!!
+
+Goodbye!!!
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done).
+I uploaded the source to / storagecore /
+With the path var / www / html / wordpress / storagecore
+and URL: 
+Please check it. Thank you!!!
+
+Goodbye!!!
+ san!!!  san!!!
+Today's work:
+Create HTML StorageCore (Done).
+I uploaded the source to / storagecore /
+With the path var / www / html / wordpress / storagecore
+and URL: 
+Please check it. Thank you!!!
+
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit form with BowNow.
+ san!!!
+Can you give me a  ID and PASS?
+Thank you!!!
+ san!!!
+Can you give me a  ID and PASS?
+Thank you!!!
+IDとパスワードを作成しますので、メールアドレスを教えて下さい。
+IDとパスワードを作成しますので、メールアドレスを教えて下さい。
+ san!!!
+This is email: 
+Thank you!!!
+ san!!!
+This is email: 
+Thank you!!!
+作成しました。メールが届いているかと思いますので確認して下さい。
+作成しました。メールが届いているかと思いますので確認して下さい。
+ san!!!
+I got the email. Thank you!!!
+ san!!!
+I got the email. Thank you!!!
+
+上記の詳細から「お問い合わせ」「空室確認」も対応して下さい。
+
+上記の詳細から「お問い合わせ」「空室確認」も対応して下さい。
+
+上記の詳細から「お問い合わせ」「空室確認」も対応して下さい。
+フォームのテストは実施しても問題ありません。
+ san!!!
+Yes, I see. Thank you!!!
+
+上記の詳細から「お問い合わせ」「空室確認」も対応して下さい。
+ san!!!  san!!!
+Today's work:
+Edit form with BowNow.
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit form with BowNow.
+ san!!!  san!!!
+Today's work:
+Edit form with BowNow (Done sent mail, Do not transfer Complete page ).
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit form with BowNow.
+ san!!!  san!!!
+I have finished.
+Because  could not be accessed, I moved to the Top page after I finished sending the mail.
+URL check: 
+Please Check it. Thank you!!!
+確認します。
+この件ですが、「お問い合わせ」はチェックできました。
+「空室確認」の設定がありませんでした。確認して下さい。
+ san!!!
+Yes, I Will check it.
+ san!!!
+About 「空 室 確認」
+It's a Popup, I can't find the URL to link the Form to the Bownow in 「連 携 フ ォ ー ム 設置 URL」
+Can you give me instructions?
+Thank you!!!
+「空室確認」ですが、ポップアップをやめて通常の問い合わせフォームと同じ様に別ページに遷移する形に変更できますか？
+ san!!!
+ san!!!  san!!!
+I have finished.
+Because  could not be accessed, I moved to the Top page after I finished sending the mail.
+URL check: 
+Please Check it. Thank you!!!
+ san!!!  san!!!
+I have finished.
+Because  could not be accessed, I moved to the Top page after I finished sending the mail.
+URL check: 
+Please Check it. Thank you!!!
+ san!!!  san!!!
+I have finished.
+Because  could not be accessed, I moved to the Top page after I finished sending the mail.
+URL check: 
+Please Check it. Thank you!!!
+ san!!!
+Yes, I think so
+I will try it. Thank you!!!
+ san!!!  san!!!
+I have finished.
+Because  could not be accessed, I moved to the Top page after I finished sending the mail.
+URL check: 
+Please Check it. Thank you!!!
+ san!!!  san!!!
+I have finished.
+Because  could not be accessed, I moved to the Top page after I finished sending the mail.
+URL check: 
+Please Check it. Thank you!!!
+ san!!!  san!!!
+Good morning!!!
+Today's work:
+Edit form with BowNow.
+ san!!!
+Can you help me create 2 URLs (ask_question and ask_question_complete)?
+I tried to create it but it didn't work
+Thank you!!!
+
+
+ご確認ください。
+routinng.ymlを編集する場合は、編集後に[/home/estima/]で[php symfony cc]を実行して下さい。
+
+
+ご確認ください。
+routinng.ymlを編集する場合は、編集後に[/home/estima/]で[php symfony cc]を実行して下さい。
+
+
+ご確認ください。
+routinng.ymlを編集する場合は、編集後に[/home/estima/]で[php symfony cc]を実行して下さい。
+ san!!!
+Thank you!!!
+ san!!!  san!!!
+Today's work:
+• Edit form with BowNow (Done)
+• Create HTML page Credit Card (Having used Bownow to send mail and Done)
+Please check it. Thank you!!!
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+ san!!!  san!!!
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+おはようございます。
+作成したフォームを確認するのでURLを教えて下さい。
+収納レシピの問い合わせページについて、上記資料１ページ目の修正を実施して下さい。
+ san!!!
+This is the URL: 
+You can change the email received in Bownow.
+ san!!!
+Can you explain more about 【ア ク セ ス 解析 に つ い て】 in メ ー ル フ ォ ー ム 改修 案 (2) .pptx?
+Thank you!!!
+物件問い合わせ(。
+①レスポンシブ構成になっています。
+ウィンドウサイズ を変更すると「•残り必須項目の表示」がページ内の表示にかぶりすぎてているので、被らない様に調整して下さい。
+②電話番号の入力が３つに分かれているのを１項目にして下さい。
+③「姓」「名」項目をまとめて一つにして下さい。
+ san!!!
+I can not be lumped 「姓」 「名」 but I have CSS on the 1st row.
+The remaining errors I corrected
+Please check, thank you!!!
+ san!!!  san!!!
+Today's work:
+Edit form with BowNow (Fixed).
+Goodbye!!!
+ san!!!  san!!!
+Good morning!!!
+おはようございます。
+
+こちらのフォームもbownow対応して下さい。
+おはようございます。
+
+こちらのフォームもbownow対応して下さい。
+おはようございます。
+
+こちらのフォームもbownow対応して下さい。
+「現場数」「ユニット数」を必須項目にしてください。
+ san!!!
+Yes, I will do it.
+ san!!!  san!!!
+I completed Form entry_edit using Bownow. Please check.
+
+I was informed that today is the last working day.
+Although I worked for a short time, I learned a lot of things and thank you for your enthusiastic support.
+Hope in the future will have the opportunity to cooperate with you again.
+Wishing you success and happiness.
+
+Goodbye!!!

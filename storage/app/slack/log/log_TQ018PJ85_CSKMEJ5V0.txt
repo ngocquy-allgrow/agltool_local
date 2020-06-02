@@ -1,0 +1,30 @@
+テスト
+ Thank you!
+
+Thanks for the quick work response.
+Have a good vacation!
+
+Thank you very much!
+Goodbye. See you next week!
+ こんにちは！先日コーディングしてもらったサイトをベースに追加と修正をお願いします。レイアウトデータはこちらからダウンロードしてください。
+
+
+
+
+１）TEAMを追加
+
+２）メニューを追加
+→ページ内リンクをお願いします。
+
+３）文字の大きさと幅を修正
+→変更箇所は赤字で記載しておきます。レイアウトデータを確認して下さい。
+ コーディングはこちらのデータを使ってください。
+
+I understand. I will code it right now.
+
+Hi Nakano-san.
+I have completed the coding. Can you help me to check it? Thank you.
+ ありがとうございます！
+
+Hi Nakano-san.
+Goodbye. See you tomorrow!

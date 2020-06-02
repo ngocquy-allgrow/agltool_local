@@ -1,0 +1,1377 @@
+
+お世話になっております。
+デザインのご確認、誠にありがとうございます。
+
+新APIについてですが、もし新しいAPIに対応したプラグインなどある場合はそれでも問題ないです。ただし旧APIは使用不可でお願いいたします。
+
+引き続き宜しくお願い致します。
+
+お返事が遅くなり申し訳ありません。
+ご報告いただいたスケジュールで進めてください。
+宜しくお願い致します。
+
+Hi Fukuda-san,
+I have finished the html, css and animation part of TOP PC. I will continue code reponsive and convert to WP tomorrow.
+
+Dongありがとうございます。
+明日も引き続きよろしくお願いします。
+
+Dongありがとうございます。
+明日も引き続きよろしくお願いします。
+
+Hi Fukuda-san.
+Good morning. Today I will spend 2 hours to Responsive and 2 hours to Check with actual device. I will try to speed up the process so I can start converting html to wp today.
+
+おはようございます。
+aeluのオフィシャルサイトですが、Dongの報告通り早ければ本日にはwordpressに変換する作業を開始できる見通しです。
+wordpressで構築する環境ですが、御社クライアント様の環境で構築し、そのまま納品となる流れになりますでしょうか。
+よろしくお願いいたします。
+ 
+おはようございます。今日の午後にはサーバー情報を共有できると思いますので、WPはサーバー上でのテスト環境で構築いただくのがスムーズかと思います。ただ私が日本時間の14時より撮影の予定が入っていて席を外してしまうので、夕方以降のご連絡となりそうです。
+引き続き宜しくお願い致します。
+ 
+おはようございます。今日の午後にはサーバー情報を共有できると思いますので、WPはサーバー上でのテスト環境で構築いただくのがスムーズかと思います。ただ私が日本時間の14時より撮影の予定が入っていて席を外してしまうので、夕方以降のご連絡となりそうです。
+引き続き宜しくお願い致します。
+
+承知いたしました。
+お忙しいところ恐縮ですが、よろしくお願いいたします。
+ 
+お世話になっております。
+クライアントからサーバーの連絡がこないので、TOPページのコーディングが終わったら、次にNEWSページのコーディングに取り掛かっていただけますでしょうか。
+ご確認よろしくお願い致します。
+
+Thanks for your supporting. I will code the NEWS page after finish the TOP page.
+
+Thanks for your supporting. I will code the NEWS page after finished the TOP page.
+
+Thanks for your supporting. I will code the NEWS page after finished the TOP page.
+
+Thanks for your supporting. I will code the NEWS page after finished the TOP page.
+ 
+お世話になっております。
+サーバー上に開発環境を作成しましたので、以下ご確認ください。
+WP絡みの作業はこちらで進めていただいてかまいません。
+
+◆開発環境◆
+
+・URL
+
+
+・ディレクトリ
+/home/cherche/www/aelu.jp/develop/
+
+※ DNSの設定を行ったばかりなので、
+　 上記URLの閲覧ができるようになるまで
+　 少し時間がかかります。
+
+
+◆FTP◆
+
+・サーバ
+
+
+・ユーザ名
+cherche
+
+・パスワード
+6345pfxr8k
+
+
+◆DB◆
+
+・サーバ
+
+
+・データベース名
+cherche_aeluwp
+
+・ユーザ名
+cherche
+
+・パスワード
+aeluwp2019
+ 
+お世話になっております。
+サーバー上に開発環境を作成しましたので、以下ご確認ください。
+WP絡みの作業はこちらで進めていただいてかまいません。
+
+◆開発環境◆
+
+・URL
+
+
+・ディレクトリ
+/home/cherche/www/aelu.jp/develop/
+
+※ DNSの設定を行ったばかりなので、
+　 上記URLの閲覧ができるようになるまで
+　 少し時間がかかります。
+
+
+◆FTP◆
+
+・サーバ
+
+
+・ユーザ名
+cherche
+
+・パスワード
+6345pfxr8k
+
+
+◆DB◆
+
+・サーバ
+
+
+・データベース名
+cherche_aeluwp
+
+・ユーザ名
+cherche
+
+・パスワード
+aeluwp2019
+ 
+お世話になっております。
+サーバー上に開発環境を作成しましたので、以下ご確認ください。
+WP絡みの作業はこちらで進めていただいてかまいません。
+
+◆開発環境◆
+
+・URL
+
+
+・ディレクトリ
+/home/cherche/www/aelu.jp/develop/
+
+※ DNSの設定を行ったばかりなので、
+　 上記URLの閲覧ができるようになるまで
+　 少し時間がかかります。
+
+
+◆FTP◆
+
+・サーバ
+
+
+・ユーザ名
+cherche
+
+・パスワード
+6345pfxr8k
+
+
+◆DB◆
+
+・サーバ
+
+
+・データベース名
+cherche_aeluwp
+
+・ユーザ名
+cherche
+
+・パスワード
+aeluwp2019
+ 
+お世話になっております。
+サーバー上に開発環境を作成しましたので、以下ご確認ください。
+WP絡みの作業はこちらで進めていただいてかまいません。
+
+◆開発環境◆
+
+・URL
+
+
+・ディレクトリ
+/home/cherche/www/aelu.jp/develop/
+
+※ DNSの設定を行ったばかりなので、
+　 上記URLの閲覧ができるようになるまで
+　 少し時間がかかります。
+
+
+◆FTP◆
+
+・サーバ
+
+
+・ユーザ名
+cherche
+
+・パスワード
+6345pfxr8k
+
+
+◆DB◆
+
+・サーバ
+
+
+・データベース名
+cherche_aeluwp
+
+・ユーザ名
+cherche
+
+・パスワード
+aeluwp2019
+
+Hi Fukuda-san.
+Thank you very much. Do you want me to prioritize doing it on wp or continue to code the NEWS page?
+ 
+お世話になっております。
+サーバー上に開発環境を作成しましたので、以下ご確認ください。
+WP絡みの作業はこちらで進めていただいてかまいません。
+
+◆開発環境◆
+
+・URL
+
+
+・ディレクトリ
+/home/cherche/www/aelu.jp/develop/
+
+※ DNSの設定を行ったばかりなので、
+　 上記URLの閲覧ができるようになるまで
+　 少し時間がかかります。
+
+
+◆FTP◆
+
+・サーバ
+
+
+・ユーザ名
+cherche
+
+・パスワード
+6345pfxr8k
+
+
+◆DB◆
+
+・サーバ
+
+
+・データベース名
+cherche_aeluwp
+
+・ユーザ名
+cherche
+
+・パスワード
+aeluwp2019
+
+ニュースページのコーディングを先に終わらせてから、WPの作業に進んでください。WPの作業が終わったら、一旦チェックをさせてください。
+宜しくお願い致します！
+
+I understand. Thank you.
+
+Hi Fukuda-san.
+I have finished the NEWS page. After that, I tried accessing FTP but it didn't work. This is my IP: 113.161.67.98. I wonder if it will be blocked or not?
+ 
+IP制限はしていないはずなので、他に原因がないか調べます。
+ログイン時の画面キャプチャを送ってもらえますか？
+
+Hi Fukuda-san.
+This is my message errors.
+
+私からは接続できました。
+海外からのアクセスを制限していることはないですか？
+Xserverだとデフォルトで海外からのアクセスを制限しているので、さくらも同じ制御をしていないかと思いまして。
+
+私からは接続できました。
+海外からのアクセスを制限していることはないですか？
+Xserverだとデフォルトで海外からのアクセスを制限しているので、さくらも同じ制御をしていないかと思いまして。
+
+やはりサクラサーバーも海外からのアクセスを制御しているようです。
+
+
+よろしくお願いいたします。
+
+やはりサクラサーバーも海外からのアクセスを制御しているようです。
+
+
+よろしくお願いいたします。
+
+やはりサクラサーバーも海外からのアクセスを制御しているようです。
+
+
+よろしくお願いいたします。
+ 
+お返事遅くなり申し訳ありません。
+国外アクセス制限の件、知識不足で大変失礼いたしました。
+制限を解除いたしましたので、再度FTPログインを試していただけますでしょうか。
+よろしくお願いします。
+
+Hi Fukuda-san.
+It's work perfectly. Now I can access FTP. Thank you very much.
+
+ご対応いただきありがとうございました。
+引き続き、よろしくお願いいたします。
+
+Hi Fukuda-san.
+I am on WordPress installation process. Which email will I use to sign up for a WP account?
+
+WPのメールは、fukuda@launch.jpを登録してください。宜しくお願い致します。
+
+I will set the username to "aelu_admin" and the password to "aelu123456". Is it ok?
+ 
+OKです！
+
+Hi Fukuda-san.
+It seems that the link  is not working and the website has blocked other links so I cannot access the WP dashboard.
+
+Hi Fukuda-san.
+It seems that the link  is not working and the website has blocked other links so I cannot access the WP dashboard.
+
+Hi Fukuda-san.
+It seems that the link  is not working and the website has blocked other links so I cannot access the WP dashboard.
+
+新しい環境を作成したので、以下のフォルダで試してみていただけますでしょうか。
+/cherche/www/aelu_develop/
+DNSの設定も変更したので、反映されるまで少し時間がかかるかもしれないです。
+
+It seems that I have to access the file correctly, not the path. I think that's fine too.
+
+「aelu_develop」に仮のindex.htmlを入れたら無事に閲覧できるようだけど、アクセスできないですか？
+
+
+「aelu_develop」に仮のindex.htmlを入れたら無事に閲覧できるようだけど、アクセスできないですか？
+
+
+「aelu_develop」に仮のindex.htmlを入れたら無事に閲覧できるようだけど、アクセスできないですか？
+
+
+「aelu_develop」に仮のindex.htmlを入れたら無事に閲覧できるようだけど、アクセスできないですか？
+
+
+I understand. I put it in  not aelu_develop so it can't access with 
+
+「aelu_develop」に仮のindex.htmlを入れたら無事に閲覧できるようだけど、アクセスできないですか？
+
+
+添付のように、ルートディレクトリに「wp」フォルダを作成してまとめておいてください。宜しくお願い致します。
+
+I understand but sorry, I can't access FTP anymore.
+
+理由が分からないですね。。
+今もまだアクセスできないですか？
+I'm sorry but yes. I still do not understand why.
+
+I'm sorry but yes. I still do not understand why.
+
+I'm sorry but yes. I still do not understand why.
+
+I'm sorry but yes. I still do not understand why.
+
+ログイン履歴を見ると、13:52まではアクセスできているようですね。。こちらでは特に設定は変更していないのですが。
+
+Hi Fukuda-san.
+In the morning, I can access this but when i work a while it can not access anymore.
+
+Sorry but now I can access FTP. It seems to be unstable
+
+不安定な状態が続く場合は、違うサーバーでテスト環境を作るので、また教えてください。
+
+I understand. Thank you for your support.
+
+Hi Fukuda-san.
+I have finish convert html to WP for the TOP and NEWS DETAIL page. I will convert NEWS LIST page tomorrow. About Instagram API, can you share me the token to get API. Thank you.
+
+Hi Fukuda-san.
+I have finished the TOP, NEWS LIST, NEWS DETAIL page. I just have to do the Instagram API and that's it.
+
+お返事が遅くなり申し訳ありません！
+昔のInstagram APIではなく、Instagram Graph APIで実装してもらいたいのですが、アクセストークンを取得してお渡しすればいいですか？
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+Hi Fukuda-san.
+ Good morning. About Instagram Graph API I need information like this. Thank you
+
+Sorry but what do I have to log in with this information? Can you give me some instructions? Thank you
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+テスト環境にBasic認証をつけましたので、以下のID/PWで閲覧しながら作成してください！
+
+【Basic認証】
+ID： aelu
+PW： 0000
+
+インスタグラムのAPIについて確認中なので、先にギャラリーページのコーディングを進めていただけますか？
+
+Thank you. I will code the GALLERY page now.
+
+インスタグラムの件、お待たせいたしました。
+この情報で実装できそうですか？
+御確認お願い致します。
+
+Thank you. Will I check it first or wait for me to finish the GALLERY page?
+
+Thank you. I have checked it and it work. Will I work with it now or wait for me to finish the GALLERY page?
+
+Thank you. I have checked it and it work. Will I work with it now or wait for me to finish the GALLERY page?
+
+Thank you. I have checked it and it work. Will I work with it now or wait for me to finish the GALLERY page?
+
+ギャラリーページが終わってからでOKです！
+
+Thank you. I have checked it and it work. Will I work with it now or wait for me to finish the GALLERY page?
+
+Thank you. I have checked it and it work. Will I work with it now or wait for me to finish the GALLERY page?
+
+Hi Fukuda-san,
+I have finished convert to WP the GALLERY page. I will get Instagram Graph API on Monday.
+Goodbye. See you on Monday.
+
+Hi Fukuda-san.
+Good morning. Today I will get media from Instagram Graph API. It may take 4 hours. Besides, I don't go to work tomorrow afternoon because I have a final exam. Sorry for the inconvenience.
+
+Hi Fukuda-san.
+Good morning. Today I will get media from Instagram Graph API. It may take 2 hours. Besides, I don't go to work tomorrow afternoon because I have a final exam. Sorry for the inconvenience.
+
+Hi Fukuda-san.
+I have finished get media from the Instagram API.
+ 
+ありがとうございます。後ほどBISTROページのデザインもお送りします。
+
+Thank you!
+
+Thank you. I will code the BISTRO page right now.
+
+お待たせいたしました。BISTROページのデザインが完成しましたので、コーディング作業をお願い致します！
+
+Hi Fukuda-san.
+I have finished it all. Can you help me check it? Thank you.
+
+ありがとうございます！
+チェックに少し時間がかかりそうなので、先にカラーミーショップを初めてもらおうと思います。
+指示を追加したデザインを送るので、少しお待ちください。
+
+Thanks for your support. I will wait for the color me shop design.
+ 
+カラーミーショップのデザインをお送りします。
+TOPページとITEM LISTページのカスタマイズからお願いします。
+
+TOPなどで表示される
+「最近チェックした商品」
+「おすすめ商品」
+などの商品一覧は非表示にしておいてください。
+新着商品の一覧のみ表示させます。
+
+基本的なコーディングのルールは
+オフィシャルと同じで進めてください。
+
+デザインは現在のテンプレートと構成が大きく変わらないようになっているので、
+オンライン上での見え方と比較しながら、
+テンプレートを修正してください。
+
+
+機能部分で不明点がございましたら、
+無理に触らずにご相談ください。
+
+・独自タグの一覧
+
+
+・FTP情報（ログインしてから以下URL閲覧してください）
+
+
+※ もしアクセスできない場合は、オフィシャルサイト内にEC用のフォルダを作成し、
+　 そこからファイルや画像を引っ張ってきてもOKです。
+
+
+今回はテンプレートのカスタマイズを中心に、
+できる限りの範囲で構わないのでやっていただき、
+ECの細かい部分のセットアップなどは私でやります。
+
+
+山西様
+フォローをお願いできればと思います。
+独自タグのところなど少し難しいかもしれないので、
+分からないところがあれば、触らなくて大丈夫です。
+
+以上、宜しくお願い致します。
+
+I understand. I will work with it tomorrow morning.
+Goodbye. See you tomorrow.
+ 
+カラーミーショップのデザインver2をお送りします。
+申し訳ありませんが、先ほど送ったver1は破棄してこちらをお使いください！
+宜しくお願い致します。
+
+Hi Fukuda-san.
+I understand. Thank you. I will try to finish coding the html for the TOP page this morning because I'm off this afternoon. Here is my estimated time:
+
+1. HTML: 1 hour.
+2. CSS: 2 hours.
+3. Responsive: 1 hour.
+
+Hi Fukuda-san. I would like to ask is the button below does anything?
+
+本来は「Artists&amp;Brands」のリストが続きます。
+「…」は省略を意味します。
+
+Does that mean I have to replace "..." with the rest of the list?
+ 
+置き換える必要はないです。リストは動的に出力されます。
+
+Hi Fukuda-san.
+I have complete 80% the TOP page. I will continue tomorrow.
+
+Hi Fukuda-san.
+Today I will continue coding the TOP page and starting to code the LIST and DETAIL page. This is my estimated time:
+
+• TOP page:
+1. Responsive: 2 hours.
+• ITEMS page:
+1. HTML: 1 hour.
+2. CSS: 1 hour.
+3. Responsive: 1 hour.
+• DETAIL page:
+1. HTML: 1 hour.
+2. CSS: 1 hour.
+3. Responsive: 1 hour.
+
+Hi Fukuda-san.
+I have finished the TOP, LIST and DETAIL page. I will convert to Color Me Shop tomorrow.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good morning. Today I will convert HTML to Color Me Shop but I have a little problem. How can I see the password?
+ 
+おはようございます。
+FTPパスワード設定しました。
+PW: myzfy1-dajfiw
+宜しくお願い致します！
+
+Thank you. I will try to convert it within 4 hours.
+
+Hi Fukuda-san.
+I have almost finished converting. I only have a few small bugs, I'll fix them this afternoon
+
+Dongありがとうございます！
+一旦今の状況でカラーミーショップの作業は中断し、午後はオフィシャルサイトの修正をお願いできますか？
+
+キャプチャをお送りしますので、TOP-PCから修正をお願いします。
+
+Thank you. I will fix them this afternoon.
+
+追加修正です。よろしくお願いします！
+
+Thank you. I understand. I will fix it now.
+
+続いてスマホでの修正です。iPhoneでチェックしています。
+Androidでも同じ現象が起きていたら、同様に修正をお願いいたします。
+
+Hi Fukuda-san.
+I have fixed it all.
+
+ありがとうございます！チェックします。
+
+Please make two additional corrections!
+
+I understand. I will fix it now.
+
+ごめんなさい。さらに1点追加です。横幅450px以下の場合だけ、背景の画像変えられますか？
+
+Oh I see. I'm sorry. I will fix it now.
+
+Hi Fukuda-san.
+I have fixed it. Can you help me check it?
+
+修正ありがとうございます。
+Footerの背景画像が変わっていないようです。キャッシュですかね？
+
+I will check again
+
+Hi Fukuda-san.
+Can you help me check it again?
+
+確認できました！ありがとうございます！
+
+確認できました！ありがとうございます！
+続いて下層ページの修正を送ります。
+
+確認できました！ありがとうございます！
+続いて下層ページの修正を送ります。
+
+確認できました！ありがとうございます！
+続いて下層ページの修正を送ります。
+
+Thank you. About Color Me Shop I have almost done. I will try to stay to get it done.
+
+Dongありがとうございます。
+カラーミーショップも後で確認しますね。
+
+確認できました！ありがとうございます！
+続いて下層ページの修正を送ります。
+
+続いて、下層ページの修正をお願いいたします。
+この修正は、明日のお昼頃までに完了させていただけますか？
+明日の午後はカラーミーショップの修正をお願いしたいです。
+よろしくお願いします。
+
+山西様、お世話になっております。
+
+Dongにお願いしているコーディングの中で、
+日本語の縦書きを実装してもらっている箇所があるのですが、
+下記参考に、指示のお手伝いをいただけないでしょうか？
+
+
+現在はただ一文字ずつ改行を入れているだけですので、
+ギャラリーの「ャ」など左寄せになってしまっています。
+お手数おかけしますが、ご確認よろしくお願い致します。
+
+山西様、お世話になっております。
+
+Dongにお願いしているコーディングの中で、
+日本語の縦書きを実装してもらっている箇所があるのですが、
+下記参考に、指示のお手伝いをいただけないでしょうか？
+
+
+現在はただ一文字ずつ改行を入れているだけですので、
+ギャラリーの「ャ」など左寄せになってしまっています。
+お手数おかけしますが、ご確認よろしくお願い致します。
+
+山西様、お世話になっております。
+
+Dongにお願いしているコーディングの中で、
+日本語の縦書きを実装してもらっている箇所があるのですが、
+下記参考に、指示のお手伝いをいただけないでしょうか？
+
+
+現在はただ一文字ずつ改行を入れているだけですので、
+ギャラリーの「ャ」など左寄せになってしまっています。
+お手数おかけしますが、ご確認よろしくお願い致します。
+
+山西様、お世話になっております。
+
+Dongにお願いしているコーディングの中で、
+日本語の縦書きを実装してもらっている箇所があるのですが、
+下記参考に、指示のお手伝いをいただけないでしょうか？
+
+
+現在はただ一文字ずつ改行を入れているだけですので、
+ギャラリーの「ャ」など左寄せになってしまっています。
+お手数おかけしますが、ご確認よろしくお願い致します。
+
+Thank you. I will fix it tomorrow.
+Goodbye. See you tomorrow.
+
+お世話になっております。
+承知いたしました。
+
+Hi Fukuda-san.
+Good morning. Today I will fix the remaining errors. Thank you for your continued support.
+
+Hi Fukuda-san.
+I have fixed it.
+
+ありがとうございます！パーフェクトです！
+続いてカラーミーショップの修正をお願いします。
+
+それと、もし〜に加えたい場合は、こちらに追加できます。
+
+それと、もし〜に加えたい場合は、こちらに追加できます。
+スマホやタブレット用のCSSが効いていなかったので、私の方で追記しました。
+
+Thank you. I will do it right now.
+
+それと、Shoping GuideページとPrivacy PolicyページもコーディングをスタートしてOKなので、修正が終わったら進めていただけますか？
+
+それと、Shoping GuideページとPrivacy PolicyページもコーディングをスタートしてOKなので、修正が終わったら進めていただけますか？
+
+
+
+それと、Shoping GuideページとPrivacy PolicyページもコーディングをスタートしてOKなので、修正が終わったら進めていただけますか？
+
+
+
+I understand. I will code the Shoping Guide and Privacy Policy page after the modification.
+
+今日と明日でデザインの細かい調整を行うので、オフィシャルサイトのファイルをこちらで触ります。
+
+Hi Fukuda-san.
+I have completed all task.
+
+ありがとうございます！
+オフィシャルサイトのこの部分を修正していただけますか？
+
+Do you want to do the same with Exhibition category?
+
+そうですね！
+展示会の投稿欄でも同様にお願いしたいです。
+
+I understand. I will do it right now.
+
+そして、TOPのメインビジュアルの部分ですが、
+スクロールした後にロゴとTOP articleをフェードアウトさせてもらえますか？
+
+Of course. I will fade it out.
+
+Hi Fukuda-san.
+I have fixed it. Can you help me check it?
+ 
+ありがとうございます！
+週明けにまた他の修正をお願いすることになりそうです。引き続き宜しくお願い致します。
+
+Arigatou gozaimasu
+
+以下の4点、修正していただけますか？
+
+① TOPページの"A NEW FORM OF BISTRO WITH A PLAYFUL EDGE."の部分だけ、フェードインのタイミングを少し遅らせて欲しい。（ウィンドウ幅813px以上）
+
+② TOPページのHeaderの残し方を変更してください。TOP、Tablet、SP共通です。（xdファイル参照）
+
+③ ページ遷移時の動きをつけてください。なお、TOPページへの遷移は今まで通りで良いです。（xdファイル参照）
+参考： 
+
+④ メニューボタンにアニメーションをつけたら、また黒い線が出てしまいました。修正お願いします。
+
+そして、修正が終わったらエラーページを作成していただけますか？
+作るのは、401、403、404、500、503の5種類です。
+
+401 Unauthorized
+認証に失敗しました。
+ユーザ名とパスワードをご確認ください。
+
+403 Forbidden
+アクセスが禁止されています。
+ページへのアクセス権が与えられていないか、サーバへのアクセスが混み合っている可能性があります。
+しばらく時間をおいてからもう一度アクセスして頂くか、管理者にお問い合わせください。
+
+404 Not Found
+指定したページが見つかりません。
+ページが移動または削除されたか、URLの入力間違いの可能性があります。
+
+500 Internal Server Error
+サーバーがエラーを検出したため、実行することができませんでした。
+しばらく時間をおいてからもう一度アクセスして頂くか、管理者にお問い合わせください。
+
+503 Service Temporarily Unavailable
+メンテナンス中か、一時的にアクセスが集中しているため、実行することができませんでした。
+しばらく時間をおいてからもう一度アクセスして頂くか、管理者にお問い合わせください。
+
+Hi Fukuda-san.
+Good morning. I understand the requirements. I will research about it.
+
+修正作業の進捗はどうですか？
+
+Hi Fukuda-san.
+I have complete (1), (2), (3), (4) correction. I am working on error page. It can be done by 4:00 PM today (in Vietnamese time).
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+・header.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+・header.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+・header.php
+
+Yes, you can touch those files. I have finished the correction of those files
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+
+Dongありがとうございます！
+以下のファイルをこちらで触っても良いでしょうか？
+・front-page.php
+・page-bistro.php
+・page-gallery.php
+・footer.php
+・header.php
+
+サイドナビゲーションの名称を「SHOP INFO」に変更したいのですが、改行されてしまいます。
+調整していただけますか？
+あと、サイドナビゲーションの位置は以下でお願いします。
+top
+ translateY(-50%);
+
+I understand. I will fix it
+
+Hi Fukuda-san.
+If I set position
+ center to make it center?
+
+それでもOKです！
+
+Hi Fukuda-san.
+I have setup the error page files but I am having trouble configuring the error page for the web server. It seems that I cannot setup the Nginx server normally.
+
+I will continue research it tomorrow. Goodbye. See you tomorrow.
+ 
+Dongありがとうございます！
+サイドメニューがスマートフォンでも表示されてしまっているので、修正お願いします。
+
+Hi Fukuda-san.
+I have finished all correction. Can you help me check it?
+
+ありがとうございます！パーフェクトです！
+追加でお願いしたい作業があります。
+
+NEWSページ内でのページ遷移は、トランジションさせないように設定してもらえますか？
+
+I understand. I will research about it.
+
+Hi Fukuda-san.
+I have set it up. Can you help me check it?
+
+ありがとうございます！デザインは問題ないです。
+しかし、ローディングのスピードが遅いように感じます。
+調整できますか？
+
+Technically, I don't make it slower. I will investigate if there is any way to speed it up.
+
+リンクをクリックしてから画面が変わるまで、時間がかかりすぎているのを修正したいです。
+
+That time it was loading data. So it cannot be updated immediately
+
+That time it was loading data. So it cannot be updated immediately. You can the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can see the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can see the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can see the progress in Network
+ 
+リンクをクリックしてから、ページをフェードアウトはさせることはできますか？
+現状のままだと、リンクをクリックしても何もアクションが起こらないので、リンクが効いてないと勘違いしてしまいそうです。
+
+Yes, I can make the page fade out. I will do it right now.
+
+That time it was loading data. So it cannot be updated immediately. You can the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can see the progress in Network
+
+That time it was loading data. So it cannot be updated immediately. You can the progress in Network
+
+Hi Fukuda-san.
+I have fade it out after clicking the link.
+
+ありがとうございます！
+フェードアウトしたあとの画面の背景色を変更していただけますか？background-color: #E2E2E2;
+
+It have updated. Thank you.
+
+続いて、ONLINE SHOPのティザーページを作成していただけますか？
+ECサイトのみ公開が16日になってしまったため、「ONLINE SHOP」のリンク先をティザーページに変更したいです。
+
+上記のディレクトリに作成してください。
+
+I understand. I will do it right now
+
+Hi Fukuda-san.
+I have finished the Teaser page. Can you help me check it?
+ ありがとうございます！
+① 背景写真フェードイン
+↓
+② ロゴフェードイン
+↓
+③ テキストフェードイン
+トランジションをかけてもらえますか？
+Of cource. I will do it right now.
+
+ Hi Fukuda-san.
+I have added animation to it
+
+Perfect!!! Thank you.
+ 
+お世話になっております。
+不具合や追加修正が出た際はお願いするかと思いますが、本案件は一旦こちらで終了とさせていただきます。
+
+今後の案件
+
+・Perfume Closet〜Phase2ページ追加
+　前回作っていただいたサイトに1P追加する作業
+
+・muraco () サイトリニューアル
+　ShopifyカスタマイズによるECサイトの制作
+
+ただし、どちらもまだデザインができておりませんので、明日以降は「Shopify」のカスタマイズについて勉強していただく時間にしてもらえますか？
+来週以降に「PerfumeCloset」のデザインをお渡しできるようにします。
+
+引き続きよろしくお願い致します。
+ 
+お世話になっております。
+不具合や追加修正が出た際はお願いするかと思いますが、本案件は一旦こちらで終了とさせていただきます。
+
+今後の案件
+
+・Perfume Closet〜Phase2ページ追加
+　前回作っていただいたサイトに1P追加する作業
+
+・muraco () サイトリニューアル
+　ShopifyカスタマイズによるECサイトの制作
+
+ただし、どちらもまだデザインができておりませんので、明日以降は「Shopify」のカスタマイズについて勉強していただく時間にしてもらえますか？
+来週以降に「PerfumeCloset」のデザインをお渡しできるようにします。
+
+引き続きよろしくお願い致します。
+ 
+お世話になっております。
+不具合や追加修正が出た際はお願いするかと思いますが、本案件は一旦こちらで終了とさせていただきます。
+
+今後の案件
+
+・Perfume Closet〜Phase2ページ追加
+　前回作っていただいたサイトに1P追加する作業
+
+・muraco () サイトリニューアル
+　ShopifyカスタマイズによるECサイトの制作
+
+ただし、どちらもまだデザインができておりませんので、明日以降は「Shopify」のカスタマイズについて勉強していただく時間にしてもらえますか？
+来週以降に「PerfumeCloset」のデザインをお渡しできるようにします。
+
+引き続きよろしくお願い致します。
+
+I will research about how to customizing Shopify tomorrow. Thank you very much!
+ 
+お世話になっております。
+不具合や追加修正が出た際はお願いするかと思いますが、本案件は一旦こちらで終了とさせていただきます。
+
+今後の案件
+
+・Perfume Closet〜Phase2ページ追加
+　前回作っていただいたサイトに1P追加する作業
+
+・muraco () サイトリニューアル
+　ShopifyカスタマイズによるECサイトの制作
+
+ただし、どちらもまだデザインができておりませんので、明日以降は「Shopify」のカスタマイズについて勉強していただく時間にしてもらえますか？
+来週以降に「PerfumeCloset」のデザインをお渡しできるようにします。
+
+引き続きよろしくお願い致します。
+
+お世話になっております。
+Aelu様の案件、無事に完了し安心しております。
+いろいろとご指導いただき、ありがとうございました。
+
+また今後の案件につきましても情報をいただき、ありがとうございます。
+Shopifyを使うのですね。
+Dongにとって様々な経験が積めてとても勉強になると思います。
+
+直接やり取りをして、スムーズに進めていただいているようですので大丈夫かと思いますが、もし何かお困りのことや改善点がございましたら、ご遠慮なくご連絡ください。
+
+今後ともよろしくお願いいたします。
+
+AELUの追加修正が出てきたので、修正をお願いします。
+
+① ヘッダーと予約エリアのz-indexの修正（予約エリアが上に来るように）
+② メニューエリアのバグ（TOPページのみ）
+③ スマホでフォント（Futura）が表示されない
+
+I understand. I will check it again
+
+それと、Wordpressのverをアップデートしても良いですか？
+
+それと、Wordpressのverをアップデートしても良いですか？
+追加したいプラグインが現バージョンだと使用不可でしたので、アップデートしたいです。
+
+それと、Wordpressのverをアップデートしても良いですか？
+追加したいプラグインが現バージョンだと使用不可でしたので、アップデートしたいです。
+
+それと、Wordpressのverをアップデートしても良いですか？
+追加したいプラグインが現バージョンだと使用不可でしたので、アップデートしたいです。
+
+I think it is ok. I will wait until you have finished updating it. Because if I correct it now can lead to asynchronous error.
+
+それと、Wordpressのverをアップデートしても良いですか？
+追加したいプラグインが現バージョンだと使用不可でしたので、アップデートしたいです。
+
+アップデート終わりました
+
+Thank you. I will continue correcting
+
+Hi Fukuda-san.
+I have finished correcting it.
+
+どうもありがとうございます！
+公開時、ニュース投稿の数が少ないので、BISTROページとGALLERYページのニューススライドに、INFOカテゴリーの投稿も表示させるように変更してもらえますか？
+
+
+
+Can you tell me more clearly? I still don't quite get it. Do you want me to add the info list to the current list?
+
+これで分かりますか？
+
+I got it. Thank you very much.
+
+I have added info category to it.
+
+ありがとうございます！パーフェクトです！
+
+たびたび申し訳ないです。修正をお願いします。
+
+I understand. I will do it now.
+
+Hi Fukuda-san.
+I have added it
+
+そして、本文エリアの修正もお願いします。
+
+I'm working on this. It will be done soon.
+
+Hi Fukuda-san.
+I have finished it.
+
+申し訳ない。記事詳細ページのタイトル下の「日付」と「カテゴリー」は消さないでください！
+
+I got it. I will get it back.
+
+CSSはサーバーのものが最新なので、それを調整してください。
+
+そして、pagerを修正お願いできますか？
+LEFT = PREV =NEWER POST
+RIGHT = NEXT = OLDER POST
+
+I will do it now.
+
+Hi Fukuda-san.
+It have done.
+
+Dongこんにちは。
+昨日無事にAELUをローンチすることができました。
+どうもありがとうございます。
+
+
+僕の方で実装したシェアボタンの「Addthis」ですが、どうもスマホでうまく動かない場合があるようだったので、Addthisは使わずにシェアボタンを実装したいと思います。
+（現在、single.phpではシェアボタンを非表示にしています。）
+
+XDファイルのアイコンを使って、本番サイトに実装していただけますか？
+サーバーのディレクトリは、以前と同じ「aelu_develop」です。
+宜しくお願い致します。
+
+Hi Fukuda-san.
+I'm glad to hear that AELU can launch safely. Thank you.
+I will implement share button as your request. It can be completed in 2 hours.
+
+Hi Fukuda-san.
+I have implemented share button. Can you help me check it?
+
+ありがとうございます！OKです！
+少しだけ私の方でCSSを調整させていただきます。
+
+商品の売り切れ時のデザインを忘れていたので、オンラインショップの修正をお願いできますか？
+
+・売り切れ商品のボタン作成（）
+・商品一覧での「SOLD OUT」表示
+（）
+（）
+
+また、商品詳細ページのレイアウトも一部修正したいです。
+デザインをご確認ください！
+
+間に合わなければ、来週の月曜日に完成でも大丈夫です。
+
+Hi Fukuda-san.
+I have understood the request. I will start doing it now and maybe it will be completed by next Monday. Thank you.
+
+ECショップのFTPパスワードを変更したので、以下でお願いできますか？
+PW: aelu123456
+
+I got it. Thank you very much.
+
+I got it. Thank you very much.
+
+Hi Fukuda-san.
+Good morning. I have completed 80% of the correction. I will finish it in 2 hours.
+
+Hi Fukuda-san.
+I have finished the correction.
+ ありがとうございます！確認させていただきます。
+
+Thank you very much.
+
+position: stickyを効かせた要素、top: 80pxに変更してもらえますか？
+それ以外はOKです！
+
+I will change the element as your request. Thank you!
+
+この修正が終わったら、Shopifyの勉強を続けてください。
+引き続きよろしくお願い致します！
+
+Thank you. I will continue to research Shopify.
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+I'm sorry. I will check it.
+
+度々申し訳ないです。AELUのオフィシャルサイト、一部修正をお願いします。
+現在Instagramの埋め込みをしていると思いますが、動画の投稿があった場合、自動再生されてしまうようです。
+
+
+動画が自動再生されないように制御してもらえますか？
+もしくは、動画のposter画像が表示されるようにしても大丈夫です。
+
+Hi Fukuda-san.
+I have set the poster image for the video. Can you help me check it?
+
+ありがとうございます！パーフェクトです！
+
+Hi Fukuda-san.
+Good morning. I have researched Shopify. I am excited about the next project. Wish you a good day.
+
+Hi Fukuda-san.
+Good morning. I have researched Shopify. I am very excited about the next project. Wish you a good day.
+
+こんにちはDong。Shopifyのリサーチ、どうもありがとうございました。
+来月1月からコーディングをスタートしてもらうことになります。
+Shopifyについては、僕も勉強しながら進めていきますので、一緒に頑張りましょう！
+
+それと、AELUのワードプレスで使いにくい箇所があったので、1点修正をお願いできますか？
+
+I understand. I will fix it now.
+
+Hi Fukuda-san.
+The correction has been completed
+
+Dongありがとうございます！
+来週から、少しPerfumeClosetのコーディングを進めてもらいます。デザイン完成まで、もう少しお待ちください。
+引き続きよろしくお願いします！
+
+Arigatou gozaimasu
+
+Dongすいません。一点伝え忘れていました。
+
+先程修正してもらった"Top article"ですが、今後は全てのフィールドを空欄にする場合もあります。（＝サイトでは非表示にする）
+
+項目から入力必須条件を取り除いてもらえますか？
+
+I got it. I will do it right now.
+
+Hi Fukuda-san
+I have removed the required input condition from the item
+ ありがとうございます！
+
+Hi Fukuda-san.
+Goodbye. Have a good weekend! See you next week.
+
+Hi Fukuda-san.
+Good morning 
+
+Dongおはようございます！
+今日からPerfumeClosetのコーディングをお願いします。
+まずはTOPページを、#4-phase2のために更新してください。
+お渡しするファイルをベースに修正していただき、修正・追加したものは差分ファイルで提出してください。
+よろしくお願い致します！
+
+Hi Fukuda-san.
+I understand. I will complete it in 4 hours
+
+Hi Fukuda-san.
+Can I make fade effect when sliding to avoid error like in the picture?
+
+Hi Fukuda-san.
+I have comleted updating the TOP page. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have comleted updating the TOP page. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have comleted updating the TOP page. Can you help me to check it? Thank you.
+
+Hi Fukuda-san.
+I have completed updating the TOP page. Can you help me to check it? Thank you
+
+I'm sorry. I have some changes. Please forget the file above
+
+Dongありがとうございます！
+確認します。
+
+Dongコーディングありがとうございます。
+前回作った部分も含めて、修正をお願いできますか？
+元のファイルに上書きしたいので、ファイルには「-new」は付けなくて良いです。
+よろしくお願いします！
+
+I understand. I will complete it tomorrow. Thank you
+
+Hi Fukuda-san.
+Good morning. Yesterday, I have completed 30% the correction. Today, I will finish the rest. It can be finished in 4 hours.
+Hi Fukuda-san.
+I have finished the correction. If everything is ok, I will change the menu for the remaining pages.
+
+Hi Fukuda-san.
+I have finished the correction. If everything is ok, I will change the menu for the remaining pages.
+
+Hi Fukuda-san.
+I have finished the correction. If everything is ok, I will change the menu for the remaining pages.
+
+Hi Fukuda-san.
+I have finished the correction. If everything is ok, I will change the menu for the remaining pages.
+
+Hi Fukuda-san.
+I have finished the correction. If everything is ok, I will change the menu for the remaining pages.
+ 
+ありがとうございます！
+今日は終日外出しているので、夜にチェックします。
+phase2ページのデザインももう少しだけお待ちください！
+
+I will wait for phase2 design. Thank you
+
+お待たせいたしました。チェックが完了しました。
+以下調整いただけますか？
+
+①動画のポスターを変更してください。
+②「CONCEPT」エリアについてですが、PCでも改行が消去されてしまっているので、CSSの条件分岐にmax-width:812pxを追加してください。
+
+I got it. I will do it now.
+
+Hi Fukuda-san.
+I have finished it.
+
+Hi Fukuda-san.
+Goodbye. See you tomorow.
+
+Hi Fukuda-san.
+Good morning. I wish you all the best on this day.
+
+Hi Fukuda-san.
+Goodbye. See you tomorrow.
+
+Hi Fukuda-san.
+Good Morning. Have a great day!
+ 
+お待たせしてしまって申し訳ないです。
+後ほどデザインを送ります！
+
+I do not mind. I will wait for the design. Thanks for your reply.
+
+No problem at all. I will wait for the design. Thanks for your reply.
+
+No problem at all. I will wait for the design. Thanks for your reply.

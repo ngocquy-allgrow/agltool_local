@@ -1,0 +1,812 @@
+test
+test
+test
+test
+test
+
+I just answered the client. Thanks for reminding. I will complete the Item and News pages on 11/08
+
+I just answered the client. Thanks for reminding. I will complete the Item and News pages on 11/08
+
+ TOPページを先に修正してください。
+
+ TOPページを先に修正してください。
+
+クライアントにもTOPページから修正する、と伝えてください。
+それと、TOPページの修正、ItemページとNewsページの作成にそれぞれどれくらい時間がかかるか教えてください。
+
+クライアントにもTOPページから修正する、と伝えてください。
+それと、TOPページの修正、ItemページとNewsページの作成にそれぞれどれくらい時間がかかるか教えてください。
+
+もし困っていることがあったら教えてください。
+サポートします。
+
+もし困っていることがあったら教えてください。
+サポートします。
+
+Thank you. I will fix TOP page first but I want to code done of ITEMS and NEWS page too. Because if I fix done TOP and I start code another page, it maybe have something wrong with Top page. So the next files I send to the client I want it to be as good as possible
+
+Thank you. I will fix TOP page first but I want to code done of ITEMS and NEWS page too. Because if I fix done TOP and I start code another page, it maybe have something wrong with Top page. So the next files I send to the client I want it to be as good as possible
+
+クライアントが確認したいことは、まずTOPページを確実にコーディングすることが出来るかということです。
+TOPページの問題を全て修正し、TOPページのみをクライアントに送ってください。
+それにはどれくらい時間が必要ですか？
+
+クライアントが確認したいことは、まずTOPページを確実にコーディングすることが出来るかということです。
+TOPページの問題を全て修正し、TOPページのみをクライアントに送ってください。
+それにはどれくらい時間が必要ですか？
+It just take 1 hour
+It just take 1 hour
+わかりました。
+終わったら先にファイルを私に送ってくれますか？
+わかりました。
+終わったら先にファイルを私に送ってくれますか？
+I will. Thank you for your support
+I will. Thank you for your support
+  
+お疲れ様です。
+ロンチの福田さんから先ほど連絡があり、
+パララックスの部分でバグが多い、
+修正が多いということで納期に間に合うかなど心配されているようでした。
+
+今回の案件は難しいことを依頼しているとは思っていない、
+納期を遅らすことはクライアントの都合上できないようです。
+8日には一旦Dongから提出してもらって見せてもらえるといいとのことでしたが、状況いかがでしょうか？
+間に合いそうでしょうか？
+ 
+お疲れ様です。
+昨日修正し送ったものが、レイアウトが崩れており確認できなかったので、ますます不安なのだと思います。
+topページを先に修正させ、確認していただけるようにしています。
+本人はあと2時間で終わると言っていたので、まず私の方で確認します。
+その他デザインがきている他2ページも今作業見積もりを出させているので、それで着地点を見極めます。
+ありがとうございます。
+先方がかなり心配そうにしていたので、進捗や状況、見通しがわかれば教えて頂けますでしょうか？
+はい、わかりました。
+
+Hi Yamanashi-san,
+I had fixed Top page. Please help me check it. Thank you
+
+Hi Yamanishi-san,
+I had fixed Top page. Please help me check it. Thank you
+
+Hi Yamanishi-san,
+I had fixed Top page. Please help me check it. Thank you
+  
+私からもDongさんに確認しました。
+本人も今回の依頼した内容や期限は難しくない’と思います。トップページのビデオの動きについて修正に時間がかかったようです。
+下記の計画で作業すると本人が言っていました。
+TOPページ: 11/5  今日まで
+ITEMSページ: 11/6
+NEWSページ: 11/7
+#4ページ: 11/8
+
+Hi Yamanishi-san,
+I had fixed Top page. Please help me check it. Thank you
+
+Hi Yamanishi-san,
+I had fixed Top page. Please help me check it. Thank you
+Thank you!I will.
+まだ修正ができていないところがありそうなので、まだクライアントには送らないでください。
+I understand
+
+Perfect Pixelを使って確認すると、かなりズレているところが結構あります。
+フォントも違うようですが、このフォントを使うことはクライアントの指示ですか？
+もう一度Perfect Pixelを使って、細かい部分を調整してください。
+
+この指摘が直っていません。
+I downloaded this fonts from internet. Client just say it's a text and do not give me a fonts.
+
+青字の部分を直してください。
+
+ここもまだデザイン通りでないです。修正してください。
+そういうときはどのフォントを使ったら良いか、クライアントに確認してください。
+
+他の2つの画像が出ていないです。
+
+今送った5つの修正はいつまでにできますか？
+
+Is it the client wants to appear one by one? I think I had fixed it. Maybe it too fast?
+Client don't asking change this fonts when I send this to client. Do you want to me ask client again about this font?
+はい、確認してください。
+フォントにより文字の間隔も変わります。
+Are you want to add cursor point to full width of child of collection include collection?
+赤い線の部分の1枚の画像にしたいというのが、クライアントの要望です。
+ごめんなさい。私の勘違いです。
+COLLECTIONのリンクを外す方だけ対応してください。
+
+今私が送った5つの修正をあなたはいつまでにできますか？
+
+今送った5つの修正はいつまでにできますか？
+
+今送った5つの修正はいつまでにできますか？
+30 minutes I think. About the fonts I have to wait client send them to me.
+
+今送った5つの修正はいつまでにできますか？
+
+今送った5つの修正はいつまでにできますか？
+
+今送った5つの修正はいつまでにできますか？
+
+今送った5つの修正はいつまでにできますか？
+フォントは早急にクライアントに確認してください。
+それ以外の修正は今日中に対応できるということ良いですか？
+It's OK. I'm working on it.
+
+今送った5つの修正はいつまでにできますか？
+I see in design it change when responsive. Is it good to make one image?
+1枚の画像にし、SP、Tablet、PCごとに画像を入れ替える必要があると思います。
+やり方はわかりますか？
+Sorry. I had removed the link of Collection. Do you want to me remove the line of Collection when it be hovered? I thought client wanted to add effects to it too.
+OK. I will make 3 images
+
+I am asking clientabout the font so it will take a while
+クライアントからはfont-familyの指定で対応してください、ときています。
+
+Tabletの表示です。
+修正してください。
+I will. Thank you
+ 
+TOPページの修正はPC版については一旦完了しましたが、私の方で確認したところ、まだ修正できていないものがいくつかありました。
+その内容は今日中に終わりそうです。
+
+今日の終わりに修正したTOPページを送るようにします。
+
+またITEMとNEWSページについては、1日と見積もっているので、かかりすぎかと思い、Tungさんに再度確認してもらっています。
+
+作業の見通しについても本日の作業の終わりにクライアントに報告できればと思っています。
+了解しました。
+ありがとうございます。
+
+I still can't understand here. Can you help me clearly it? Thank you.
+「text-decoration:line-through;」も必要ないと思います。
+COLLECTIONはリンクではないからです。
+
+わからないことはクライアントに確認しましょう。
+
+作業の状況はどうですか？
+
+全ての修正が終わったら、
+1.ファイルを私に送ってください。
+2.ファイルをクライアントにも送ってください。
+その時に「修正は完了し確認もしましたが、念のためもう一度明日の朝までにチェックします」と言ってください。
+3.ITEMページとNEWSページの作業見積もりを時間で出してください。
+
+作業の状況はどうですか？
+
+全ての修正が終わったら、
+1.ファイルを私に送ってください。
+2.ファイルをクライアントにも送ってください。
+その時に「修正は完了し確認もしましたが、念のためもう一度明日の朝までにチェックします」と言ってください。
+また「他のページの作業見積もりは明日の朝報告します」と伝えてください。
+3.ITEMページとNEWSページの作業見積もりを時間で出してください。
+もし1ページにつき8時間以上かかるようであれば、コンポーネントごとや作業ごとに見積もってください。
+
+以上のことを本日の作業終了時に必ずやってください。
+しばらく返信できなくなります。ごめんなさい。
+よろしくお願いします。
+Translation test
+Hi Yamanishi-san,
+Sorry for late. I had fixed it. Please help me check it. I will do what you just say. Thank you.
+
+Hi Yamanishi-san,
+Sorry for late. I had fixed it. Please help me check it. I will do what you just say. Thank you.
+
+Hi Yamanishi-san,
+Sorry for late. I had fixed it. Please help me check it. I will do what you just say. Thank you.
+
+Hi Yamanishi-san,
+Sorry for late. I had fixed it. Please help me check it. I will do what you just say. Thank you.
+In design, I see ITEMS page and NEWS have a alot of animation so it took a lot of time to complete it. Because of that, I estimate that ITEMS page will take 8 hours and NEWS page will take 4 hours. 4 hours for check all of them.
+
+Hi Yamanishi-san,
+Sorry for late. I had fixed it. Please help me check it. I will do what you just say. Thank you.
+ 
+進捗を報告してください。
+
+Hi Yamanishi,
+This is my progress:
+I. ITEMS page
+1. HTML coding: 100%
+2. Animation: 100%
+3. Responsive: 80%
+Sorry. I thought time was Vietnam timezone
+ありがとうございます。
+ごめんなさい、私が時間を間違えました。
+
+Hi Yamanishi-san,
+Do you want to check TOP and ITEMS page before I start coding NEWS page?
+
+Yes!I'll check.
+Please send me files and continue coding News page.
+
+Please help me to check it. Thank you very much.
+Thank you!!
+送ってもらったファイルは正常に動きません。
+正しいものを送ってください。
+
+いつまでに送ることができますか？
+Please help me clear Cookie. Maybe on server serve the old css file. Thank you
+ 
+進捗を報告してください。
+ 
+進捗を報告してください。
+ 
+進捗を報告してください。
+ 
+進捗を報告してください。
+Sorry. I didn't check on firefox. I will send it back within 1 hour
+お願いします
+Please help me clear Cookie. Maybe on server serve the old css file. Thank you
+ 
+進捗を報告してください。
+Sorry. It seems a bit complicated so I haven't solved it yet. However, I know what is problem.
+I had fixed it. I'm working with another problems.
+So I want to know when you finish.
+I had fixed ITEMS page. and I see loading bug on Firefox so I will fix it in an hour
+
+わかりました。
+
+ところで今朝クライアントから依頼されたTOPページの修正はどうなっていますか？
+
+I think I will fix firefox bug at home and continue coding NEWS page. Is it OK?
+
+Did you finish to fix that client said this morning?
+Yes, I did
+ありがとうございます。
+Itemページの修正が終わったら、それと一緒に送ってください。
+
+I will. Thank you
+
+Hi Yamanishi-san,
+I have completed ITEMS and NEWS page, just html, animation and responsive. Can you help me to check it? I still haven't checked it with "perfect pixel". I will check it again tomorrow morning. Is it OK if I send those files to client?
+
+you don't have to send files to client because client want to check after you finish perfectly.
+
+Top page doesn't work on my pc.
+
+Can you fix top page today?
+
+TOP page problem with firefox because I have a function to start the loading before the video loaded but it not work in firefox. So today I can remove this function and check back tomorrow. I will research more evening.
+
+It's doesn't work on chrome...
+
+Can you show me the bug?
+I see this answer on internet
+
+これはTOP画面が表示されない原因ではなさそうですね。
+他にどのログが見たいですか？
+Can you try with this?
+
+Thank you! It's works on firefox and chrome
+
+I'll check 3pages by tomorrow morning.
+So you can finish your work today.
+Thank you.
+Thank you. I'm glad to hear it works. Goodbye, See you tomorrow.
+
+Thank you. I'm glad to hear it works. Goodbye, See you tomorrow.
+
+see you tomorrow!
+
+see you tomorrow!
+
+Thank you. I'm glad to hear it works. Goodbye, See you tomorrow.
+
+Thank you. I'm glad to hear it works. Goodbye, See you tomorrow.
+
+I've checked your work.
+please see below and fix it.
+
+
+Please let me know when you finish to fix.
+
+Good morning.
+
+Today please work on the basis of following:
+
+(1) Correct the feedback from me and the result confirmed by Perfect Pixcel ... 1.5hours
+(2) Send the corrected file to Yamanishi
+During I check your work, check the design data of the new screen “# 4” and estimate the work time
+(3) If there is no new correction in TOP, Items, News, send to the client
+(4) Send the schedule of “# 4” to the client and start work
+Thank for your feedback. But there are some issues that I'm not sure about.
+1. In design, the video have a logo right there and when I send it to the client, the client has no problem with the logo there
+2. I had asked the client about that but client said that I can leave it as it is.  He will do it later.
+10. I am not sure about it yet. can you explain it to me
+The remaining problems may be due to breakpoints. Can you show me your breakpoint you check for tablet and sp. Because I set 812px for tablet and 450px for sp and it work for me. Thank you.
+
+Good morning.
+Thank you for your feedback. I'm working on it
+ Thank you!
+
+Thank for your feedback. But there are some issues that I'm not sure about.
+1. In design, the video have a logo right there and when I send it to the client, the client has no problem with the logo there
+2. I had asked the client about that but client said that I can leave it as it is.  He will do it later.
+10. I am not sure about it yet. can you explain it to me
+The remaining problems may be due to breakpoints. Can you show me your breakpoint you check for tablet and sp. Because I set 812px for tablet and 450px for sp and it work for me. Thank you.
+
+Thank for your feedback. But there are some issues that I'm not sure about.
+1. In design, the video have a logo right there and when I send it to the client, the client has no problem with the logo there
+2. I had asked the client about that but client said that I can leave it as it is.  He will do it later.
+10. I am not sure about it yet. can you explain it to me
+The remaining problems may be due to breakpoints. Can you show me your breakpoint you check for tablet and sp. Because I set 812px for tablet and 450px for sp and it work for me. Thank you.
+
+Thank for your feedback. But there are some issues that I'm not sure about.
+1. In design, the video have a logo right there and when I send it to the client, the client has no problem with the logo there
+2. I had asked the client about that but client said that I can leave it as it is.  He will do it later.
+10. I am not sure about it yet. can you explain it to me
+The remaining problems may be due to breakpoints. Can you show me your breakpoint you check for tablet and sp. Because I set 812px for tablet and 450px for sp and it work for me. Thank you.
+
+Thank for your feedback. But there are some issues that I'm not sure about.
+1. In design, the video have a logo right there and when I send it to the client, the client has no problem with the logo there
+2. I had asked the client about that but client said that I can leave it as it is.  He will do it later.
+10. I am not sure about it yet. can you explain it to me
+The remaining problems may be due to breakpoints. Can you show me your breakpoint you check for tablet and sp. Because I set 812px for tablet and 450px for sp and it work for me. Thank you.
+
+Hi Yamanishi-san
+I am still not sure about it. Can you tell me more clearly?
+
+About ①
+According to the client's new request:
+・ Background white
+↓
+・ Video loading completed
+↓
+Gray fade in
+↓
+・ Logo fade-in
+↓
+・ Fade out &amp; start video
+
+Finally there is Fade out.
+I think I need to fade in the middle logo as well as the Gray background.
+
+Thank you. I understand
+
+about⑽
+I am checking below:
+・ Tablet 768 * 1024
+・ SP 365 * 667
+
+That breakpoint still works for me. I will check it again.
+
+Sorry. I will check it now.
+
+Can you check with the actual device?
+
+I will try with it. Thanks for your support.
+
+The client is waiting, so make other corrections first.
+I'm working with "perfect pixel". I'll be done in 30 minutes
+
+I'm working with "perfect pixel". I'll be done in 30 minutes
+
+I'm working with "perfect pixel". I'll be done in 30 minutes
+
+Is that the last task?
+
+I'm working with "perfect pixel". I'll be done in 30 minutes
+
+I still fix errors with IE. Only 2 more tasks left
+
+I'm working with "perfect pixel". I'll be done in 30 minutes
+
+How long will it end?
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+When will it be completed?
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+Sorry. 10 minutes for IE errors.
+
+That breakpoint still works for me. I will check it again.
+
+When will the other two tasks be completed?
+
+When will the other two tasks be completed?
+
+Hi Yamanishi-san,
+Sorry for late. Please help me check it.
+
+Thank you!
+
+Sorry. I send wrong file
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+please send me again
+
+That breakpoint still works for me. I will check it again.
+
+Sorry. Here is it
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+Sorry. Here is it
+
+That breakpoint still works for me. I will check it again.
+
+That breakpoint still works for me. I will check it again.
+
+I cannot confirm that ① is corrected.
+
+Hi Yamanishi-san,
+Is the video not loaded yet?
+
+No.
+I talk about center logo of top page.
+It's not fade out.
+
+Unable to confirm that (10)  and (11) are fixed
+
+Did you see all of the document below:
+
+
+The video had a screen that logo in center. Is the time loading end right that screen?
+
+翻訳をお願いします。
+
+クライアントからの新しい要望は、
+
+　・背景ホワイト
+　　↓
+　・動画読み込み完了
+　　↓
+　・グレーフェードイン
+　　↓
+　・ロゴフェードイン
+　　↓
+　・フェードアウト&amp;動画スタート
+
+です。
+
+最後の「・フェードアウト＆動画スタート」で「・グレーフェードイン」と「・ロゴフェードイン」で表示したものをフェードアウトさせる必要があると思います。
+
+翻訳をお願いします。
+
+クライアントからの新しい要望は、
+
+　・背景ホワイト
+　　↓
+　・動画読み込み完了
+　　↓
+　・グレーフェードイン
+　　↓
+　・ロゴフェードイン
+　　↓
+　・フェードアウト&amp;動画スタート
+
+です。
+
+最後の「・フェードアウト＆動画スタート」で「・グレーフェードイン」と「・ロゴフェードイン」で表示したものをフェードアウトさせる必要があると思います。
+
+翻訳をお願いします。
+
+クライアントからの新しい要望は、
+
+　・背景ホワイト
+　　↓
+　・動画読み込み完了
+　　↓
+　・グレーフェードイン
+　　↓
+　・ロゴフェードイン
+　　↓
+　・フェードアウト&amp;動画スタート
+
+です。
+
+最後の「・フェードアウト＆動画スタート」で「・グレーフェードイン」と「・ロゴフェードイン」で表示したものをフェードアウトさせる必要があると思います。
+
+翻訳をお願いします。
+
+クライアントからの新しい要望は、
+
+　・背景ホワイト
+　　↓
+　・動画読み込み完了
+　　↓
+　・グレーフェードイン
+　　↓
+　・ロゴフェードイン
+　　↓
+　・フェードアウト&amp;動画スタート
+
+です。
+
+最後の「・フェードアウト＆動画スタート」で「・グレーフェードイン」と「・ロゴフェードイン」で表示したものをフェードアウトさせる必要があると思います。
+
+翻訳をお願いします。
+
+クライアントからの新しい要望は、
+
+　・背景ホワイト
+　　↓
+　・動画読み込み完了
+　　↓
+　・グレーフェードイン
+　　↓
+　・ロゴフェードイン
+　　↓
+　・フェードアウト&amp;動画スタート
+
+です。
+
+最後の「・フェードアウト＆動画スタート」で「・グレーフェードイン」と「・ロゴフェードイン」で表示したものをフェードアウトさせる必要があると思います。
+
+I'm not clear about (10). I asked you but I'm still wait for the answere. Because in design it right there.
+About (11). I have did it but i don't know why it did'n work from your browser. I will check it again.
+
+I'm not clear about (10). I asked you but I'm still wait for the answer. Because in design it right there.
+About (11). I have did it but i don't know why it did'n work from your browser. I will check it again.
+
+I'm not clear about (10). I asked you but I'm still wait for the answer. Because in design it right there.
+About (11). I have did it but i don't know why it did'n work from your browser. I will check it again.
+ 
+翻訳お願いします
+↓
+(10)は記事が左に寄りすぎているので、真ん中に配置してくださいということです。
+
+I'm not clear about (10). I asked you but I'm still wait for the answer. Because in design it right there.
+About (11). I have did it but i don't know why it did'n work from your browser. I will check it again.
+
+I see your browser is zoom 80%. Maybe that is problem?
+
+No. I've checked 100% but it's same...
+
+I'm not clear about (10). I asked you but I'm still wait for the answer. Because in design it right there.
+About (11). I have did it but i don't know why it did'n work from your browser. I will check it again.
+
+Here is the design. And my layout is below. Is that have problem?
+
+Unable to confirm that (10)  and (11) are fixed
+
+Did you see all of the document below:
+
+
+Unable to confirm that (10)  and (11) are fixed
+
+Did you see all of the document below:
+
+
+Unable to confirm that (10)  and (11) are fixed
+
+Did you see all of the document below:
+
+
+Unable to confirm that (10)  and (11) are fixed
+
+Did you see all of the document below:
+
+In my  screen.
+I think the right margin of article is wide.
+
+Oh I see. I code it base on ITEMS page to sync it all. the design is 1440px wide. Maybe your wide is larger so you feel the article is too far to the left.
+
+OK, then send it to the client as it is
+
+So please fix (1)(11)
+
+Thank you,
+I will work again with Tung-san on this problem.
+ 
+(1)(11)の修正が終わったら、慎重に確認をしてファイルをクライアントと私に送ってください。
+その後、#4の作業見積もりを私に送って、#4の作業を開始してください。
+
+しばらく離席するので、確認できなくなります。
+よろしくお願いいたします。
+
+Thank you.
+I will fix it in the early afternoon. About #4 page, this is my plan:
+1. HTMLl coding: 2 hours
+2. Animation: 3 hours,
+3. Responsive:  1 hour,
+4. Check: 2 hours
+
+Hi Yamanishi-san,
+I had fixed it. Please help me check it. Thank you.
+I've checked.
+It confirmed that all the problems in my documentation have been fixed.
+
+Thank you.
+
+But a new problem is that link animations doesn't  work in the tablet and SP.
+I checked with both Firefox and Chrome simulators.
+
+I've checked.
+It confirmed that all the problems in my documentation have been fixed.
+
+Thank you.
+
+But a new problem is that link animations doesn't  work in the tablet and SP.
+I checked with both Firefox and Chrome simulators.
+
+I've checked.
+It confirmed that all the problems in my documentation have been fixed.
+
+Thank you.
+
+But a new problem is that link animations doesn't  work in the tablet and SP.
+I checked with both Firefox and Chrome simulators.
+
+I've checked.
+It confirmed that all the problems in my documentation have been fixed.
+
+Thank you.
+
+But a new problem is that link animations doesn't  work in the tablet and SP.
+I checked with both Firefox and Chrome simulators.
+
+Thank you. I will check it now
+
+I am still unclear with the the link animations problem you are having. Is It the text line-through?
+
+Is everything OK?
+
+Hi Yamanishi-san,
+It is getting better. Although there were some bugs, it was a minor bug and I fixed it. I will continue to code page # 4 in the early afternoon. Thank you for checking those pages for me
+ 
+Thank you.
+Have you finished top page fixing that came from Fukuda-san last night?
+
+Fukuda-san just sent me feedback this morning and I did right away
+
+Fukuda-san just sent me feedback this morning and I did right away
+ 
+今クライアントとやり取りしている内容をTOPページに反映し終わったら、ファイルと私とクライアントに送ってください。
+
+#4のページは完成したら、詳細なチェックは行なっていない状態で構わないので、私だけに送ってください。
+#4のページはいつ送ることができそうですか？
+
+Thank you. There was a bit of a problem with the ITEMS page so I would handle it then I send it to you and the client right away. I think I will complete #4 page at 5h20 PM today
+ 
+#4のページ、3:30pmにできているところまででいいので、一度送ってくれませんか？
+
+Fukuda-san want to show more 24 items on scroll on ITEMS page and align name and price so it will take a long time. I will send # 4 page to you though it may not be complete
+
+Fukuda-san want to show more 24 items on scroll on ITEMS page and align name and price so it will take a long time. I will send # 4 page to you at 3:30 PM though it may not be complete
+
+Fukuda-san want to show more 24 items on scroll on ITEMS page and align name and price so it will take a long time. I will send # 4 page to you at 3:30 PM though it may not be complete
+
+Fukuda-san want to show more 24 items on scroll on ITEMS page and align name and price so it will take a long time. I will send # 4 page to you at 3:30 PM though it may not be complete
+ 
+完全ではなくて大丈夫です。
+
+スクロールで次の24個読み込むことは、簡単にできますか？
+
+Fukuda-san want to show more 24 items on scroll on ITEMS page and align name and price so it will take a long time. I will send # 4 page to you at 3:30 PM though it may not be complete
+
+Fukuda-san wants to paginate with 24 items each because it is a static page and has over 100 items
+ 
+わたしが知りたいのは、それを実装することは簡単ですか？ということです。
+↑
+Dongさんに伝えてもらえますか？
+Sorry. It doesn't seem very easy, maybe it will take a lot of time
+
+Chị ấy muốn biết là có khả năng làm như khách yêu cầu không á.
+
+Chị ấy muốn biết là có khả năng làm như khách yêu cầu không á.
+
+Sorry. It doesn't seem very easy, maybe it will take a lot of time
+
+Sorry. It doesn't seem very easy, maybe it will take a lot of time
+
+Hi Yamanishi-san,
+It is getting better. Although there were some bugs, it was a minor bug and I fixed it. I will continue to code page # 4 in the early afternoon. Thank you for checking those pages for me
+
+Hi Yamanishi-san,
+It is getting better. Although there were some bugs, it was a minor bug and I fixed it. I will continue to code page # 4 in the early afternoon. Thank you for checking those pages for me
+
+Hi Yamanishi-san,
+It is getting better. Although there were some bugs, it was a minor bug and I fixed it. I will continue to code page # 4 in the early afternoon. Thank you for checking those pages for me
+
+Sorry. It doesn't seem very easy, maybe it will take a lot of time
+
+Hi Yamanishi-san,
+It is getting better. Although there were some bugs, it was a minor bug and I fixed it. I will continue to code page # 4 in the early afternoon. Thank you for checking those pages for me
+ 
+そうしたら、TOPページのその他の修正とが終わったら、クライアントと私に送ってください。
+そして、そのときクライアントに、
+
+次の24件を追加で読み込む対応は時間がかかりますので、サポートメンバーも加わり解決方法を検討します。
+先に#4の実装を行おうと思いますが、いいですか？
+
+と確認してください。
+
+Hi Yamanishi-san,
+It is getting better. Although there were some bugs, it was a minor bug and I fixed it. I will continue to code page # 4 in the early afternoon. Thank you for checking those pages for me
+
+I had fixed TOP page. For other issues, I will ask the client about the priority. Thank you
+
+Hi Yamanishi-san,
+I had fixed TOP page. For other issues, I will ask the client about the priority. Thank you
+
+Hi Yamanishi-san,
+I had fixed TOP page. For other issues, I will ask the client about the priority. Thank you
+
+ファイルが足りません。
+
+htmlファイルがありません。
+
+htmlファイルがありません。
+
+htmlファイルがありません。
+
+I checked and I found it full. I still don't quite get it. You can try with this file
+
+htmlファイルがありません。
+
+クライアントにも送ってください。
+
+そして、itemページの続きをやるか、#4をやるか、確認してください。
+
+Thank you very much
+
+Hi Yamanishi-san,
+I had 90% completed of #4 page. Please help me to check it. I will continue working on it until 6:00 PM because I'm busy at home tonight. I will finish #4 page tomorrow morning.
+Thank you
+
+Thank you.
+tomorrow means Monday, right?
+
+Sorry. I forget. It is Monday.
+
+Abut P19-(3)
+I think it's not fix yet.
+I cannot find input field on admin page.
+
+Good morning!
+
+Client sent you files.
+So please check before you start coding #4page,
+and never overwrite the part changed by the client.
+
+Hi Yamanishi-san,
+Good morning. I will check it now. Thank you.
+
+Hi Yamanishi-san,
+Good morning. I will check it now. Thank you.
+
+Hi Yamanishi-san.
+I have almost finished page # 4. I will code responsive within 1 hour and it will be done. After that, I will fix the client's request before 5:20 PM today.
+
+It's not OK.
+Because you didn't see those part from client?
+
+⑤ 過去のページを引き継ぐ関係で、「assets」→「asset」へフォルダ名称変更しました。
+⑥ asset/img/フォルダの中身、整理させていただきました。#4ページで使用する画像は、「04」フォルダに入れてください。
+⑦ 過去のページを引き継ぐ関係で、ディレクトリが変更になりました。フォルダ内の構成を崩さないでください。
+⑧ #4ページのhtmlを一部修正させていただきました。
+　 ・「collection.html」→「04-daily.html」に名称変更
+　 ・head内にmetaなど情報追加
+　 ・header
+　 ・hrefパスのassetsをassetに修正
+　 ・footer
+　 ・js
+
+In order to make sure it didn't affect what the client had edited, I did it in the test directory. If it works, I just moved through the directory structure as the client said. and I am converting it

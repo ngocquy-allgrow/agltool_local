@@ -1,0 +1,27 @@
+hi 
+My name is Quy
+To day is my first day working day
+Nice to meet you
+Thanks!
+hi 
+My name is Quy
+To day is my first day working day
+Nice to meet you
+Thanks!
+hi 
+My name is Quy
+To day is my first day working day
+Nice to meet you
+Thanks!
+hi 
+I would like to report the work today - 02/01/2020
+
+1. 環境構築 setting enviroment - 100%
+2. AGLテンプレートについて about theme of AGL - 100%
+3. 作業の進め方 how to proceed with the work - 100%
+4. FLOCSS - 100%
+5. Search SCSS(Advanced, Basics SCSS) - 90%
+Thanks!
+
+Good morning Quy-san, today please make these page.
+Deadline: 12AM tomorrow

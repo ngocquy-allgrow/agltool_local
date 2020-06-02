@@ -1,0 +1,10 @@
+テスト
+
+Dear Naomi Yamanishi san
+I have problem with Diagonal background.
+Currently, I use background gradien to adjust it.
+Ex: background-image: linear-gradient(to left bottom, #f3f5f8 0%, #f3f5f8 49.5%, transparent 50%);
+
+However, 49.5% is not exactly. If I change size of browser, My Diagonal background can be broken.
+
+Now, I think about border (shape css). If I make it by border, I need use JS ( auto calc border size) and I need to use empty tagname ( empty tagname is not good for "clean code" standard

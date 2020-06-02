@@ -1,0 +1,30 @@
+test
+
+本日から経験者のNgocさんが入社しています。
+どうぞよろしくお願いいたします。
+
+本日から経験者のNgocさんが入社しています。
+どうぞよろしくお願いいたします。
+
+Good morning Ngoc, welcome,
+
+I'm Khoa, I will be your trainer you during this time.
+First, please read and set up the working environment according to this document
+
+
+Then please read about working rules and report everyday.
+
+
+
+If you have any questions, please contact me.
+
+Hi, Ngoc-san.
+Congratulations on joining the company.
+I'm Minami.
+I am accountable for our business.
+I look forward to your success.
+
+Ngoc-san,
+Next, please read and learn how to use SCSS, FLOCSS and BEM
+
+After lunch break, i will give you the first task.
