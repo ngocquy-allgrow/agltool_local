@@ -50,7 +50,7 @@
                         <tr>
                                 <td>
                                 
-                                    <p class="text-lang text-center m-0 text-danger">{{ json_decode($member)->lang }}</p>
+                                    <p class="text-lang text-center m-0 text-danger">( {{ json_decode($member)->lang }} )</p>
                                     <select name="room_id" class="form-control form-control-lg upload-message" onchange="changeAccount(this)">
                                         @foreach($members as $k => $mem)
                                             <option @if($k == 0) selected @endif value="{{ json_decode($mem)->key_lang }}" name-lang="{{ json_decode($mem)->lang }}" data-id="{{ json_decode($mem)->user_id }}">{{ json_decode($mem)->username }}</option>
@@ -206,7 +206,8 @@
         function autoTranslate(id) {
             var body = $('#'+ id).find('textarea').val();
             var lang_name = $('#'+ id).parent().parent().find('.form-key-lang').val();
-
+            $('#'+ id).parent().parent().find('button.translate').html('<i class="fa fa-spinner fa-spin"></i>');
+            
             $.ajax({
                 type: "POST",
                 dataType: "json",
@@ -223,6 +224,10 @@
 
                 error: function(err) {
                     alert('Auto translation failed');
+                },
+
+                complete: function() {
+                    $('#'+ id).parent().parent().find('button.translate').html('Auto Translate');
                 }
             });
             
@@ -261,7 +266,7 @@
   
 
            if (lang_name != undefined) {
-                $("#"+ id_form).find('select').prev().text(`${lang_name}`)
+                $("#"+ id_form).find('select').prev().text(`( ${lang_name} )`)
            } else {
                 $("#"+ id_form).find('select').prev().text('');
            } 

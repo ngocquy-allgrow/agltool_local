@@ -87,7 +87,7 @@ class ChatWorkAdminController extends BaseController
 
         $datas = $this->show_message($messages);
 
-
+        $memberInRoom = (new ToolChatworkConfigs)->getLangOfMember( $chatworkRoom->room_id);
 
         return view('tool/chatwork_translate_v3/admin',[
 
@@ -95,7 +95,9 @@ class ChatWorkAdminController extends BaseController
 
             'room_id' => $chatworkRoom->room_id,
 
-            'datas' => $datas
+            'datas' => $datas,
+
+            'members' => $memberInRoom
 
         ]);
 
