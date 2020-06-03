@@ -187,11 +187,14 @@
 
                     $(self).closest('.form-message').find('.upload').attr('disabled', false);
                     $(self).html('Auto Translate');
+
+                    alert(data.message);
                 },
 
                 error: function(err) {
-                     $(self).closest('.form-message').find('.upload').attr('disabled', false);
+                    $(self).closest('.form-message').find('.upload').attr('disabled', false);
                     $(self).html('Auto Translate');
+                    alert(err.responseJSON.message);
                 },
             });
             
@@ -221,12 +224,14 @@
                 success: function(data) {
                     $('#'+ id).find('textarea').val(`${data.data}`);
                     $('#'+ id).parent().parent().find('button.translate').html('Auto Translate');
+
+                    alert(data.message);
                 },
 
                 error: function(err) {
                     $('#'+ id).parent().parent().find('button.translate').html('Auto Translate');
-                    alert('Auto translation failed');
                     
+                    alert(err.responseJSON.message);
                 },
             });
             
