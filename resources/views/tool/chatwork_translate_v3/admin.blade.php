@@ -38,8 +38,7 @@
                 <div classc="card-header">
                 
                 <!-- // add new message -->
-                @foreach($members as $key => $member)
-                <form action="{{route('chatwork_post_message')}}" id="{{ json_decode($member)->user_id }}" class="form-message" method="POST">
+                <form action="{{route('chatwork_post_message')}}" class="form-message" method="POST">
                     @csrf 
                     <table class="table">
                         <tr>
@@ -50,10 +49,11 @@
                         <tr>
                                 <td>
                                 
-                                    <p class="text-lang text-center m-0 text-danger">( {{ json_decode($member)->lang }} )</p>
+                                    <p class="text-lang text-center m-0 text-danger"></p>
                                     <select name="room_id" class="form-control form-control-lg upload-message" onchange="changeAccount(this)">
+                                        <option value="">Please choose account</option>
                                         @foreach($members as $k => $mem)
-                                            <option @if($k == 0) selected @endif value="{{ json_decode($mem)->key_lang }}" name-lang="{{ json_decode($mem)->lang }}" data-id="{{ json_decode($mem)->user_id }}">{{ json_decode($mem)->username }}</option>
+                                            <option value="{{ json_decode($mem)->key_lang }}" room-id ="{{ json_decode($mem)->room_id }}" name-lang="{{ json_decode($mem)->lang }}" token="{{ json_decode($mem)->token }}">{{ json_decode($mem)->username }}</option>
                                         @endforeach
                                     </select>
                                 </td> 
@@ -61,22 +61,21 @@
                                 <td class="text-center">
                                     <textarea class="d-inline md-textarea form-control input-mesage" name="body" rows="8"></textarea>
 
-                                    <input type="hidden" name="token" value="{{ json_decode($member)->token }}">
+                                    <input type="hidden" class="token" name="token" value="">
 
-                                    <input type="hidden" name="room_id" value="{{ json_decode($member)->room_id }}">
+                                    <input type="hidden" class="room-id" name="room_id" value="">
 
                                 </td>
                                 <td>
-                                    <button class="btn btn-success upload" onclick="upload('{{ json_decode($member)->user_id }}')">Upload</button>
+                                    <button class="btn btn-success upload" type="button" onclick="upload(this)">Upload</button>
 
-                                    <button class="btn btn-primary auto-translate buttonload" type="button" onclick="autoTranslateAdd(this,{{json_decode($member)->user_id}})">Auto Translate </button>
+                                    <button class="btn btn-primary auto-translate buttonload" type="button" onclick="autoTranslateAdd(this)">Auto Translate </button>
 
                                 </td>
 
                         </tr>
                     </table>
                 </form>
-                @endforeach
 
                 </div>
                 <div class="card-body">
@@ -154,27 +153,24 @@
 
     <script type="text/javascript">
        
-        $(document).ready(function() {
-            var form_add_list = $('.form-message');
-            form_add_list.each(function( index, el ) {
-                if (index > 0) {
-                    $(el).css('display', 'none');
-                }
-            });
+        function autoTranslateAdd(self) {
+            var account = $(self).closest('.form-message').find('.token').val();
 
-        });
+            if (account == '') {
+                alert('Please choose account name');
+                return;
+            }
 
-        function autoTranslateAdd(self, id_user) {
+            var lang_contry = $(self).closest('.form-message').find('option:selected').val();
+            var body =  $(self).closest('.form-message').find('textarea').val();
             
-            var body = $('#'+id_user).find('textarea').val();
-            var lang_name = $('#'+id_user).find('select').find("option:selected").val();
-            var form = $("#"+ form + ' .input-mesage').val();
             if (body.trim() == '') {
                 alert('Please enter a message!');
                 return;
             }
+
             $(self).html('<i class="fa fa-spinner fa-spin"></i>');
-            $('#'+id_user).find('.upload').attr('disabled', true);
+            $(self).closest('.form-message').find('.upload').attr('disabled', true);
            
             $.ajax({
                 type: "POST",
@@ -182,29 +178,33 @@
                 url: "{{ route('chatwork_admin_translate_message') }}",
                 data: {
                     '_token': '{{csrf_token()}}',
-                    'lang': lang_name,
+                    'lang': lang_contry,
                     'body': body
                 },
                 
                 success: function(data) {
-                    $('#'+ id_user).find('textarea').val(`${data.data}`);
-                    
+                    $(self).closest('.form-message').find('textarea').val(`${data.data}`);
+
+                    $(self).closest('.form-message').find('.upload').attr('disabled', false);
+                    $(self).html('Auto Translate');
                 },
 
                 error: function(err) {
-                    alert('Auto translation failed');
+                     $(self).closest('.form-message').find('.upload').attr('disabled', false);
+                    $(self).html('Auto Translate');
                 },
-
-                complete: function() {
-                    $('#'+id_user).find('.upload').attr('disabled', false);
-                    $(self).html('Auto Translate ');
-                }
             });
             
         }
 
         function autoTranslate(id) {
             var body = $('#'+ id).find('textarea').val();
+
+            if (body.trim() == '') {
+                alert('Please enter a message!');
+                return;
+            }
+
             var lang_name = $('#'+ id).parent().parent().find('.form-key-lang').val();
             $('#'+ id).parent().parent().find('button.translate').html('<i class="fa fa-spinner fa-spin"></i>');
             
@@ -220,15 +220,14 @@
                 
                 success: function(data) {
                     $('#'+ id).find('textarea').val(`${data.data}`);
+                    $('#'+ id).parent().parent().find('button.translate').html('Auto Translate');
                 },
 
                 error: function(err) {
-                    alert('Auto translation failed');
-                },
-
-                complete: function() {
                     $('#'+ id).parent().parent().find('button.translate').html('Auto Translate');
-                }
+                    alert('Auto translation failed');
+                    
+                },
             });
             
         }
@@ -239,48 +238,39 @@
 		});
 
         function changeAccount(self) {
-           var id_form = $(self).find("option:selected").attr('data-id');
-           var k_option = $("#"+ id_form).find("option[data-id="+ id_form +"]").attr('data-id');
+            var selectd = $(self).find('option:selected');
+            
+            var token = selectd.attr('token');
+            var room_id = selectd.attr('room-id');
+            var name_lang = selectd.attr('name-lang');
 
-           var form_add_list = $('.form-message');
+            // add data to input
+            $(self).closest('.form-message').find('.token').val(token);
+            $(self).closest('.form-message').find('.room-id').val(room_id);
 
-            form_add_list.each(function( i, el ) {
-               var id_form_each = $(el).attr('id');
-               
-               if (id_form_each != id_form) {
-                      
-                    $(el).find("option").removeAttr('selected');
-                    $(el).css('display', 'none'); 
+            if (name_lang == '' || name_lang == undefined) name_lang = 'NULL';
 
-               } else {
-                   
-                    $(el).css('display', 'block');
-                    $(el).find("option[data-id="+ k_option +"]").attr('selected', true);
-                    
-               }
-               
-           }); 
+            $(self).closest('.form-message').find('.text-lang').text(`( ${name_lang} )`);
 
-
-            var lang_name = $("#"+ id_form).find("option:selected").attr('name-lang');
-  
-
-           if (lang_name != undefined) {
-                $("#"+ id_form).find('select').prev().text(`( ${lang_name} )`)
-           } else {
-                $("#"+ id_form).find('select').prev().text('');
-           } 
-           
        }
 
-        function upload(form){
-            
-            var form = $("#"+ form + ' .input-mesage').val();
-            if (form.trim() == '') {
-                alert('Please enter a message!');
+        function upload(self){
+            var account = $(self).closest('.form-message').find('.token').val();
+
+            if (account == '') {
+                alert('Please choose account name');
                 return;
             }
 
+            var form = $(self).closest('.form-message').find('textarea').val();
+            
+            if (form.trim() == '') {
+                alert('Please enter a message!');
+                return;
+            } else {
+                
+                $(self).closest('form').submit();
+            }
         }
 
         function edit(form){
