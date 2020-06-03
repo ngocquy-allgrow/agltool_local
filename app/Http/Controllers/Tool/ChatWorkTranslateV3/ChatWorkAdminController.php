@@ -21,9 +21,6 @@ use App\Http\Controllers\Tool\TranslationCore\TranslationCoreController;
 use App\Http\Controllers\Tool\ChatWorkTranslateV3\ChatWorkCoreController;
 
 
-use App\Helpers\ConvertToLang;
-
-
 
 use App\ToolChatworkConfigs;
 
@@ -120,8 +117,6 @@ class ChatWorkAdminController extends BaseController
 
         $chatworkRooms = ToolChatworkRooms::orderBy('last_update_time', 'DESC')->get();
 
-
-
         foreach ($chatworkRooms as $chatworkRoom) {
 
         	if($room_id ==  $chatworkRoom->room_id){
@@ -135,25 +130,7 @@ class ChatWorkAdminController extends BaseController
         
         $datas = $this->show_message($messages);
 
-        $listDataRoom = ToolChatworkConfigs::select('account_name', 'room_id_array')->get();
-        $memberInRoom = [];
-
-        foreach($listDataRoom as $listRoomItem)
-        {
-            foreach(json_decode($listRoomItem['room_id_array']) as $room)
-            {
-                if ($room_id == $room->room_id)
-                {
-                    $convertLang = (new ConvertToLang)->convertToLang($room->lang);
-
-                    array_push($memberInRoom, json_encode([
-                        'username'=> $listRoomItem['account_name'],
-                        'room_id' => $room->room_id, 'lang'=> $convertLang,
-                        'key_lang' => $room->lang,
-                    ]));
-                }
-            }
-        };
+        $memberInRoom = (new ToolChatworkConfigs)->getLangOfMember($room_id);
        
         return view('tool/chatwork_translate_v3/admin',[
 
@@ -213,12 +190,10 @@ class ChatWorkAdminController extends BaseController
 
     }
 
-
-
     public function editMessage(Request $request){
 
-    	$token = $request->input('token');
-
+        $token = $request->input('token');
+        
     	$room_id = $request->input('room_id');
 
     	$message_id = $request->input('message_id');

@@ -267,6 +267,47 @@ class ChatWorkTranslateV5CoreController extends BaseController
     }
 
 
+    public function postMessage(Request $request)
+    {
+        $room_id = $request->input('room_id');
+
+        $body = $request->input('body');
+
+        $token = $request->input('token');
+ 
+        $response = (new ChatWorkCoreController)->create_message($token, $room_id, $body);
+
+        if(isset($response->message_id))
+        {
+            $result = (new ChatWorkCoreController)->get_message_info($token, $room_id, $response->message_id);
+
+            if($result){
+
+                $toolChatworkMessages = new ToolChatworkMessages();
+
+                $toolChatworkMessages->room_id = $room_id;
+
+                $toolChatworkMessages->message_id = $result->message_id;
+
+                $toolChatworkMessages->body = $result->body;
+
+                $toolChatworkMessages->send_time = $result->send_time;
+
+                $toolChatworkMessages->update_time = $result->update_time;
+
+                $toolChatworkMessages->save();
+
+	            $toolChatworkRoom = ToolChatworkRooms::where(['room_id' => $room_id])->first();
+
+                $toolChatworkRoom->last_update_time = $result->update_time;
+
+                $toolChatworkRoom->save();
+
+            }
+        }
+
+        return redirect( route('chatwork_admin_detail',$request->only('room_id')));
+    }
 
     private function checkMessage($toolChatworkRoom){
 

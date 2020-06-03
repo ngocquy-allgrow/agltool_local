@@ -104,6 +104,7 @@ Route::post('/tool/chatwork_translate_v4/delMsg', 'Tool\ChatWorkTranslateV3\Chat
 Route::get('/tool/chatwork_translate_v5/cronjob_index', 'Tool\ChatWorkTranslateV3\ChatWorkTranslateV5CoreController@index')->name('chatwork_translate_v5_cronjob_index');
 Route::get('/tool/chatwork_translate_v5/cronjob', 'Tool\ChatWorkTranslateV3\ChatWorkTranslateV5CoreController@cronjob')->name('chatwork_translate_v5_cronjob');
 Route::post('/tool/chatwork_translate_v5/translateMessage', 'Tool\ChatWorkTranslateV3\ChatWorkTranslateV5CoreController@autoTranslateMessage')->name('chatwork_admin_translate_message');
+Route::post('/tool/chatwork_translate_v5/postMessage', 'Tool\ChatWorkTranslateV3\ChatWorkTranslateV5CoreController@postMessage')->name('chatwork_post_message');
 
 
 // slack translation
